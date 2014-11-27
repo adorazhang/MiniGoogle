@@ -1,8 +1,0 @@
-Qiao Zhang
-Mengsi Lou
-<<<<<<< Updated upstream
-
-hahahahah??
-=======
-lalalala
->>>>>>> Stashed changes
