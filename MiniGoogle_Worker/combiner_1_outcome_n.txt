@@ -1,0 +1,474 @@
+n	NotreDame_De_Paris.txt 8, Miserables.txt 17
+na	NotreDame_De_Paris.txt 2
+nabbed	Miserables.txt 5
+nabbing	Miserables.txt 1
+nacelle	NotreDame_De_Paris.txt 1
+nadir	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nag	Miserables.txt 1
+nahenry	Miserables.txt 1
+naiad	Miserables.txt 1
+naigeon	Miserables.txt 2
+nail	NotreDame_De_Paris.txt 7, Miserables.txt 40
+nailed	NotreDame_De_Paris.txt 2, Miserables.txt 25
+nailing	Miserables.txt 4
+nails	NotreDame_De_Paris.txt 18, Miserables.txt 29
+nain	Miserables.txt 1
+naive	Miserables.txt 2
+naively	NotreDame_De_Paris.txt 3, Miserables.txt 1
+naivete	NotreDame_De_Paris.txt 2
+naked	NotreDame_De_Paris.txt 16, Miserables.txt 26
+nakedness	Miserables.txt 5
+nal	NotreDame_De_Paris.txt 1
+name	NotreDame_De_Paris.txt 124, Miserables.txt 432
+named	NotreDame_De_Paris.txt 7, Miserables.txt 65
+nameless	Miserables.txt 2
+names	NotreDame_De_Paris.txt 16, Miserables.txt 73
+naming	NotreDame_De_Paris.txt 1, Miserables.txt 1
+namur	Miserables.txt 1
+nankeen	Miserables.txt 1
+nankin	Miserables.txt 2
+nanterre	Miserables.txt 4
+nantes	Miserables.txt 2
+nap	Miserables.txt 1
+naparte	Miserables.txt 1
+nape	NotreDame_De_Paris.txt 1, Miserables.txt 6
+napery	NotreDame_De_Paris.txt 1, Miserables.txt 1
+napkin	Miserables.txt 1
+napkins	Miserables.txt 1
+naples	Miserables.txt 5
+napoleon	NotreDame_De_Paris.txt 2, Miserables.txt 143
+napoleons	Miserables.txt 8
+naquois	NotreDame_De_Paris.txt 1
+narcissus	Miserables.txt 1
+narcotic	Miserables.txt 2
+narde	NotreDame_De_Paris.txt 18
+nargaud	Miserables.txt 1
+narquois	Miserables.txt 1
+narrate	Miserables.txt 4
+narrated	Miserables.txt 6
+narrates	Miserables.txt 1
+narrating	Miserables.txt 4
+narrations	Miserables.txt 1
+narrative	Miserables.txt 1
+narrator	Miserables.txt 4
+narrow	NotreDame_De_Paris.txt 16, Miserables.txt 58
+narrowed	Miserables.txt 2
+narrower	NotreDame_De_Paris.txt 2, Miserables.txt 4
+narrowly	NotreDame_De_Paris.txt 1, Miserables.txt 1
+narses	Miserables.txt 1
+nasal	NotreDame_De_Paris.txt 3, Miserables.txt 3
+nasally	NotreDame_De_Paris.txt 1
+nasica	Miserables.txt 1
+naso	NotreDame_De_Paris.txt 1
+nassau	Miserables.txt 4
+nassaus	Miserables.txt 2
+nasty	Miserables.txt 1
+nasum	NotreDame_De_Paris.txt 1
+natal	Miserables.txt 1
+nation	NotreDame_De_Paris.txt 8, Miserables.txt 47
+national	NotreDame_De_Paris.txt 1, Miserables.txt 59
+nationalities	Miserables.txt 1
+nationality	Miserables.txt 1
+nations	NotreDame_De_Paris.txt 4, Miserables.txt 29
+native	NotreDame_De_Paris.txt 1, Miserables.txt 9
+nativity	Miserables.txt 1
+natoire	Miserables.txt 1
+natural	NotreDame_De_Paris.txt 13, Miserables.txt 48
+naturalist	Miserables.txt 1
+naturalists	Miserables.txt 1
+naturalize	Miserables.txt 1
+naturalized	Miserables.txt 1
+naturally	NotreDame_De_Paris.txt 1, Miserables.txt 15
+naturalness	Miserables.txt 1
+nature	NotreDame_De_Paris.txt 27, Miserables.txt 143
+natured	Miserables.txt 4
+naturedly	Miserables.txt 1
+natures	Miserables.txt 18
+naught	NotreDame_De_Paris.txt 3
+naughty	NotreDame_De_Paris.txt 2, Miserables.txt 4
+naval	Miserables.txt 3
+navarre	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nave	NotreDame_De_Paris.txt 15
+naves	NotreDame_De_Paris.txt 1
+navet	Miserables.txt 3
+navigating	Miserables.txt 1
+navigation	Miserables.txt 2
+naviguer	Miserables.txt 1
+navy	Miserables.txt 2
+nazareth	Miserables.txt 2
+ne	NotreDame_De_Paris.txt 9, Miserables.txt 8
+neapolitan	NotreDame_De_Paris.txt 1
+near	NotreDame_De_Paris.txt 49, Miserables.txt 268
+nearer	NotreDame_De_Paris.txt 8, Miserables.txt 19
+nearest	NotreDame_De_Paris.txt 2, Miserables.txt 10
+nearing	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nearly	NotreDame_De_Paris.txt 17, Miserables.txt 102
+neat	Miserables.txt 11
+neath	Miserables.txt 1
+neatherd	Miserables.txt 1
+neatly	Miserables.txt 5
+neatness	NotreDame_De_Paris.txt 1
+nebula	Miserables.txt 1
+nebulous	Miserables.txt 1
+nec	NotreDame_De_Paris.txt 1
+necessaries	Miserables.txt 1
+necessarily	NotreDame_De_Paris.txt 4, Miserables.txt 12
+necessary	NotreDame_De_Paris.txt 17, Miserables.txt 127
+necessitating	Miserables.txt 1
+necessities	NotreDame_De_Paris.txt 1, Miserables.txt 6
+necessitous	Miserables.txt 2
+necessity	NotreDame_De_Paris.txt 5, Miserables.txt 39
+neck	NotreDame_De_Paris.txt 51, Miserables.txt 72
+necked	Miserables.txt 6
+necker	Miserables.txt 1
+necklace	NotreDame_De_Paris.txt 1, Miserables.txt 3
+necklet	Miserables.txt 4
+necklets	Miserables.txt 3
+necks	NotreDame_De_Paris.txt 3, Miserables.txt 5
+neckties	Miserables.txt 1
+necromancy	NotreDame_De_Paris.txt 1
+nectar	Miserables.txt 1
+nee	Miserables.txt 1
+need	NotreDame_De_Paris.txt 26, Miserables.txt 100
+needed	NotreDame_De_Paris.txt 8, Miserables.txt 23
+needham	Miserables.txt 2
+needle	NotreDame_De_Paris.txt 1, Miserables.txt 7
+needles	NotreDame_De_Paris.txt 2, Miserables.txt 4
+needlework	NotreDame_De_Paris.txt 1, Miserables.txt 1
+needs	NotreDame_De_Paris.txt 4, Miserables.txt 27
+needy	Miserables.txt 1
+nefas	NotreDame_De_Paris.txt 1, Miserables.txt 1
+negation	Miserables.txt 1
+negative	NotreDame_De_Paris.txt 2, Miserables.txt 3
+neglect	Miserables.txt 1
+neglected	NotreDame_De_Paris.txt 2, Miserables.txt 9
+neglecting	NotreDame_De_Paris.txt 2, Miserables.txt 1
+neglects	Miserables.txt 2
+negligence	NotreDame_De_Paris.txt 2, Miserables.txt 1
+negligent	NotreDame_De_Paris.txt 1, Miserables.txt 1
+negligently	NotreDame_De_Paris.txt 2
+nego	NotreDame_De_Paris.txt 1
+negotiations	Miserables.txt 1
+negro	Miserables.txt 4
+negroes	Miserables.txt 1
+neiges	Miserables.txt 1
+neighbor	NotreDame_De_Paris.txt 24, Miserables.txt 34
+neighborhood	NotreDame_De_Paris.txt 2, Miserables.txt 43
+neighboring	NotreDame_De_Paris.txt 8, Miserables.txt 25
+neighborliness	Miserables.txt 1
+neighbors	NotreDame_De_Paris.txt 15, Miserables.txt 21
+neighed	NotreDame_De_Paris.txt 1
+neighing	Miserables.txt 1
+neither	NotreDame_De_Paris.txt 46, Miserables.txt 130
+nemo	Miserables.txt 1
+nemorin	Miserables.txt 2
+nemours	NotreDame_De_Paris.txt 3
+neologism	Miserables.txt 1
+nephew	NotreDame_De_Paris.txt 3, Miserables.txt 6
+neptune	NotreDame_De_Paris.txt 2, Miserables.txt 1
+neptunerie	NotreDame_De_Paris.txt 1
+neptunus	NotreDame_De_Paris.txt 1
+nereids	Miserables.txt 1
+neri	Miserables.txt 2
+nero	Miserables.txt 7
+neros	Miserables.txt 1
+nerros	NotreDame_De_Paris.txt 1
+nerval	Miserables.txt 1
+nerved	Miserables.txt 1
+nerves	Miserables.txt 1
+nervous	Miserables.txt 3
+nes	NotreDame_De_Paris.txt 1
+nesle	NotreDame_De_Paris.txt 8
+ness	NotreDame_De_Paris.txt 2
+nest	NotreDame_De_Paris.txt 6, Miserables.txt 19
+nesting	Miserables.txt 1
+nestle	Miserables.txt 1
+nestled	NotreDame_De_Paris.txt 1, Miserables.txt 2
+nestling	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nestor	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nests	NotreDame_De_Paris.txt 2, Miserables.txt 7
+net	NotreDame_De_Paris.txt 1, Miserables.txt 12
+nets	Miserables.txt 3
+netting	Miserables.txt 4
+nettle	Miserables.txt 9
+nettles	Miserables.txt 10
+netto	Miserables.txt 1
+network	NotreDame_De_Paris.txt 4, Miserables.txt 9
+networks	Miserables.txt 1
+neuf	NotreDame_De_Paris.txt 5, Miserables.txt 7
+neufchateau	Miserables.txt 2
+neufs	NotreDame_De_Paris.txt 1
+neuilly	Miserables.txt 5
+neustadt	Miserables.txt 1
+neuter	Miserables.txt 1
+neutral	Miserables.txt 3
+neutrality	Miserables.txt 1
+neutralized	Miserables.txt 1
+neutralizing	NotreDame_De_Paris.txt 1
+neuve	NotreDame_De_Paris.txt 2, Miserables.txt 6
+never	NotreDame_De_Paris.txt 90, Miserables.txt 402
+nevers	NotreDame_De_Paris.txt 1, Miserables.txt 2
+nevertheless	NotreDame_De_Paris.txt 80, Miserables.txt 149
+new	NotreDame_De_Paris.txt 71, Miserables.txt 163
+newborn	Miserables.txt 1
+newby	NotreDame_De_Paris.txt 1, Miserables.txt 1
+newcomer	NotreDame_De_Paris.txt 1, Miserables.txt 8
+newer	NotreDame_De_Paris.txt 1
+newly	NotreDame_De_Paris.txt 2, Miserables.txt 4
+news	NotreDame_De_Paris.txt 4, Miserables.txt 12
+newsletter	NotreDame_De_Paris.txt 1, Miserables.txt 1
+newspaper	Miserables.txt 6
+newspapers	Miserables.txt 23
+newton	Miserables.txt 2
+next	NotreDame_De_Paris.txt 14, Miserables.txt 50
+ney	Miserables.txt 14
+nez	Miserables.txt 4
+ni	NotreDame_De_Paris.txt 6
+niagara	Miserables.txt 1
+nibble	Miserables.txt 1
+nibbled	Miserables.txt 1
+nibbling	Miserables.txt 3
+nibelungen	NotreDame_De_Paris.txt 2
+nicaise	Miserables.txt 1
+nice	NotreDame_De_Paris.txt 1, Miserables.txt 16
+nicely	Miserables.txt 3
+niche	NotreDame_De_Paris.txt 3, Miserables.txt 8
+niches	NotreDame_De_Paris.txt 3, Miserables.txt 1
+nicholas	NotreDame_De_Paris.txt 5, Miserables.txt 3
+nicholases	Miserables.txt 1
+nick	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nicked	Miserables.txt 1
+nickname	Miserables.txt 8
+nicknamed	Miserables.txt 3
+nicknames	Miserables.txt 1
+nicolas	NotreDame_De_Paris.txt 7, Miserables.txt 3
+nicolette	Miserables.txt 34
+nid	Miserables.txt 1
+nie	Miserables.txt 1
+niece	Miserables.txt 3
+niggardly	NotreDame_De_Paris.txt 1
+nigh	NotreDame_De_Paris.txt 1
+night	NotreDame_De_Paris.txt 132, Miserables.txt 447
+nightcap	Miserables.txt 1
+nightcaps	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nightfall	NotreDame_De_Paris.txt 3, Miserables.txt 29
+nightingale	NotreDame_De_Paris.txt 1, Miserables.txt 3
+nightingales	Miserables.txt 2
+nightmare	NotreDame_De_Paris.txt 3, Miserables.txt 6
+nightmares	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nights	NotreDame_De_Paris.txt 4, Miserables.txt 21
+nightstand	Miserables.txt 2
+nihilism	Miserables.txt 3
+nihilist	Miserables.txt 1
+nihilque	Miserables.txt 1
+nil	Miserables.txt 1
+nile	NotreDame_De_Paris.txt 1, Miserables.txt 3
+nimble	Miserables.txt 2
+nimbleness	Miserables.txt 1
+nimbly	NotreDame_De_Paris.txt 3, Miserables.txt 1
+nimbus	Miserables.txt 1
+nimois	Miserables.txt 1
+nine	NotreDame_De_Paris.txt 8, Miserables.txt 54
+ninepins	Miserables.txt 1
+nineteen	NotreDame_De_Paris.txt 4, Miserables.txt 22
+nineteenth	NotreDame_De_Paris.txt 2, Miserables.txt 23
+ninety	NotreDame_De_Paris.txt 2, Miserables.txt 15
+nineveh	Miserables.txt 4
+nini	Miserables.txt 2
+ninnies	NotreDame_De_Paris.txt 1, Miserables.txt 2
+ninny	Miserables.txt 6
+ninth	NotreDame_De_Paris.txt 4, Miserables.txt 4
+ninthly	Miserables.txt 1
+nipped	Miserables.txt 2
+nipples	NotreDame_De_Paris.txt 1
+nisi	Miserables.txt 1
+nisibi	Miserables.txt 1
+nisus	Miserables.txt 1
+nitrate	Miserables.txt 1
+nitric	NotreDame_De_Paris.txt 1
+nitrous	Miserables.txt 1
+nivelles	Miserables.txt 18
+nivernais	Miserables.txt 1
+nix	Miserables.txt 1
+no	NotreDame_De_Paris.txt 540, Miserables.txt 1971
+noah	NotreDame_De_Paris.txt 1
+nobility	NotreDame_De_Paris.txt 9, Miserables.txt 8
+noble	NotreDame_De_Paris.txt 15, Miserables.txt 25
+nobleman	NotreDame_De_Paris.txt 1
+nobler	NotreDame_De_Paris.txt 1
+nobles	NotreDame_De_Paris.txt 1
+nobly	NotreDame_De_Paris.txt 1, Miserables.txt 2
+nobody	NotreDame_De_Paris.txt 1, Miserables.txt 8
+nocturnal	NotreDame_De_Paris.txt 7, Miserables.txt 24
+nocturne	Miserables.txt 1
+nod	Miserables.txt 2
+nodded	NotreDame_De_Paris.txt 1, Miserables.txt 3
+noddles	Miserables.txt 2
+nodier	Miserables.txt 2
+noe	Miserables.txt 1
+noel	NotreDame_De_Paris.txt 12
+nogent	Miserables.txt 2
+noir	Miserables.txt 1
+noire	Miserables.txt 1
+noiret	NotreDame_De_Paris.txt 1
+noise	NotreDame_De_Paris.txt 50, Miserables.txt 76
+noised	NotreDame_De_Paris.txt 1
+noiseless	Miserables.txt 1
+noiselessly	NotreDame_De_Paris.txt 1, Miserables.txt 1
+noises	NotreDame_De_Paris.txt 3, Miserables.txt 6
+noisily	NotreDame_De_Paris.txt 3, Miserables.txt 9
+noisome	NotreDame_De_Paris.txt 1
+noisy	NotreDame_De_Paris.txt 11, Miserables.txt 5
+noli	NotreDame_De_Paris.txt 1
+nolle	Miserables.txt 1
+nom	NotreDame_De_Paris.txt 1
+nombre	Miserables.txt 1
+nombril	NotreDame_De_Paris.txt 1
+nombrill	NotreDame_De_Paris.txt 1
+nomen	NotreDame_De_Paris.txt 1
+nomenclature	Miserables.txt 1
+nomentanus	Miserables.txt 1
+nomina	Miserables.txt 1
+nominor	NotreDame_De_Paris.txt 1
+non	NotreDame_De_Paris.txt 18, Miserables.txt 9
+nonaindi	NotreDame_De_Paris.txt 1
+nonaindieres	Miserables.txt 1
+nonamdieres	Miserables.txt 1
+none	NotreDame_De_Paris.txt 16, Miserables.txt 83
+nonproprietary	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nons	Miserables.txt 1
+nonsense	NotreDame_De_Paris.txt 4, Miserables.txt 13
+nonsensical	Miserables.txt 1
+nonsentient	Miserables.txt 1
+nook	NotreDame_De_Paris.txt 4, Miserables.txt 10
+nooks	NotreDame_De_Paris.txt 1, Miserables.txt 10
+noon	NotreDame_De_Paris.txt 2, Miserables.txt 3
+noonday	NotreDame_De_Paris.txt 4, Miserables.txt 5
+noose	NotreDame_De_Paris.txt 5
+nor	NotreDame_De_Paris.txt 84, Miserables.txt 219
+nordhausen	NotreDame_De_Paris.txt 1
+norimbergoe	NotreDame_De_Paris.txt 1
+normal	NotreDame_De_Paris.txt 1, Miserables.txt 3
+norman	NotreDame_De_Paris.txt 2, Miserables.txt 5
+normandie	Miserables.txt 2
+normandy	NotreDame_De_Paris.txt 2, Miserables.txt 1
+normans	NotreDame_De_Paris.txt 1
+nornine	NotreDame_De_Paris.txt 1
+north	NotreDame_De_Paris.txt 11, Miserables.txt 18
+northeast	Miserables.txt 1
+northern	NotreDame_De_Paris.txt 4, Miserables.txt 4
+northward	NotreDame_De_Paris.txt 1
+norway	Miserables.txt 2
+nos	NotreDame_De_Paris.txt 1, Miserables.txt 7
+nose	NotreDame_De_Paris.txt 24, Miserables.txt 54
+nosed	NotreDame_De_Paris.txt 1, Miserables.txt 4
+nosegay	NotreDame_De_Paris.txt 1, Miserables.txt 1
+noses	NotreDame_De_Paris.txt 2, Miserables.txt 5
+noster	NotreDame_De_Paris.txt 2, Miserables.txt 2
+nostras	Miserables.txt 2
+nostrils	NotreDame_De_Paris.txt 3, Miserables.txt 9
+nostroe	NotreDame_De_Paris.txt 3
+nostrum	NotreDame_De_Paris.txt 1
+not	NotreDame_De_Paris.txt 1133, Miserables.txt 3802
+notabilities	Miserables.txt 1
+notable	NotreDame_De_Paris.txt 3, Miserables.txt 4
+notably	Miserables.txt 4
+notaire	Miserables.txt 2
+notaries	Miserables.txt 2
+notary	NotreDame_De_Paris.txt 5, Miserables.txt 12
+notation	Miserables.txt 2
+notch	NotreDame_De_Paris.txt 1
+notched	NotreDame_De_Paris.txt 6, Miserables.txt 1
+note	NotreDame_De_Paris.txt 7, Miserables.txt 63
+notebook	Miserables.txt 2
+noted	NotreDame_De_Paris.txt 1, Miserables.txt 13
+notes	NotreDame_De_Paris.txt 3, Miserables.txt 13
+nothing	NotreDame_De_Paris.txt 149, Miserables.txt 736
+nothingness	NotreDame_De_Paris.txt 3, Miserables.txt 10
+nothings	Miserables.txt 2
+notice	NotreDame_De_Paris.txt 6, Miserables.txt 33
+noticeable	NotreDame_De_Paris.txt 1
+noticed	NotreDame_De_Paris.txt 26, Miserables.txt 63
+notices	Miserables.txt 2
+noticing	NotreDame_De_Paris.txt 1, Miserables.txt 3
+notification	Miserables.txt 1
+notifies	NotreDame_De_Paris.txt 1, Miserables.txt 2
+notify	NotreDame_De_Paris.txt 1, Miserables.txt 1
+noting	Miserables.txt 1
+notion	Miserables.txt 5
+notions	Miserables.txt 1
+notoriete	Miserables.txt 1
+notoriety	Miserables.txt 2
+notorious	Miserables.txt 2
+notre	NotreDame_De_Paris.txt 153, Miserables.txt 21
+notwithstanding	Miserables.txt 1
+nought	Miserables.txt 2
+nourish	NotreDame_De_Paris.txt 1, Miserables.txt 3
+nourished	NotreDame_De_Paris.txt 3, Miserables.txt 1
+nourishes	Miserables.txt 1
+nourishing	Miserables.txt 1
+nourishment	NotreDame_De_Paris.txt 1, Miserables.txt 4
+nous	Miserables.txt 16
+nov	Miserables.txt 1
+nova	NotreDame_De_Paris.txt 1
+novel	Miserables.txt 9
+novelties	Miserables.txt 2
+novelty	NotreDame_De_Paris.txt 1, Miserables.txt 4
+november	NotreDame_De_Paris.txt 3
+novi	Miserables.txt 1
+novice	NotreDame_De_Paris.txt 1, Miserables.txt 4
+novices	Miserables.txt 8
+novum	Miserables.txt 1
+now	NotreDame_De_Paris.txt 141, Miserables.txt 568
+nowadays	NotreDame_De_Paris.txt 4, Miserables.txt 18
+nowhere	Miserables.txt 4
+nowise	Miserables.txt 1
+noxious	Miserables.txt 1
+noyon	NotreDame_De_Paris.txt 1
+nuces	NotreDame_De_Paris.txt 1
+nude	NotreDame_De_Paris.txt 2, Miserables.txt 9
+nudged	Miserables.txt 1
+nudges	Miserables.txt 1
+nudity	NotreDame_De_Paris.txt 1, Miserables.txt 8
+nudus	NotreDame_De_Paris.txt 1
+nuevas	NotreDame_De_Paris.txt 1
+nuit	NotreDame_De_Paris.txt 2, Miserables.txt 2
+null	Miserables.txt 1
+nullo	NotreDame_De_Paris.txt 2
+nullus	NotreDame_De_Paris.txt 1
+number	NotreDame_De_Paris.txt 24, Miserables.txt 77
+numbered	Miserables.txt 4
+numbering	Miserables.txt 1
+numberless	NotreDame_De_Paris.txt 4
+numbers	NotreDame_De_Paris.txt 3, Miserables.txt 12
+numbness	NotreDame_De_Paris.txt 1
+numellas	NotreDame_De_Paris.txt 1
+numen	NotreDame_De_Paris.txt 1
+numeration	Miserables.txt 1
+numerical	Miserables.txt 1
+numerically	Miserables.txt 1
+numerous	NotreDame_De_Paris.txt 11, Miserables.txt 21
+nummas	Miserables.txt 1
+numskull	Miserables.txt 2
+nun	NotreDame_De_Paris.txt 10, Miserables.txt 41
+nunc	NotreDame_De_Paris.txt 1, Miserables.txt 1
+nuncio	Miserables.txt 5
+nunlike	NotreDame_De_Paris.txt 1
+nuns	NotreDame_De_Paris.txt 2, Miserables.txt 50
+nuper	NotreDame_De_Paris.txt 1
+nuptial	NotreDame_De_Paris.txt 2, Miserables.txt 8
+nuptials	Miserables.txt 2
+nuremberg	NotreDame_De_Paris.txt 2
+nurse	NotreDame_De_Paris.txt 2, Miserables.txt 10
+nursed	NotreDame_De_Paris.txt 1, Miserables.txt 4
+nursery	Miserables.txt 2
+nurses	NotreDame_De_Paris.txt 1, Miserables.txt 6
+nursing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+nut	NotreDame_De_Paris.txt 3, Miserables.txt 5
+nutrition	Miserables.txt 1
+nutshell	NotreDame_De_Paris.txt 1
+nutum	Miserables.txt 1
+nymph	NotreDame_De_Paris.txt 1, Miserables.txt 2
+nymphaeas	Miserables.txt 1
+nymphs	Miserables.txt 3
+nypho	NotreDame_De_Paris.txt 1

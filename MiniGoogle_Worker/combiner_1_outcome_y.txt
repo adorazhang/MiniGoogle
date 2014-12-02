@@ -1,0 +1,58 @@
+y	NotreDame_De_Paris.txt 3, Miserables.txt 6
+yard	NotreDame_De_Paris.txt 1, Miserables.txt 33
+yards	NotreDame_De_Paris.txt 2, Miserables.txt 9
+yarrow	Miserables.txt 2
+yataghans	Miserables.txt 1
+yawn	NotreDame_De_Paris.txt 1, Miserables.txt 2
+yawned	NotreDame_De_Paris.txt 1, Miserables.txt 11
+yawning	NotreDame_De_Paris.txt 1, Miserables.txt 14
+yawns	Miserables.txt 2
+ye	NotreDame_De_Paris.txt 3, Miserables.txt 3
+year	NotreDame_De_Paris.txt 47, Miserables.txt 117
+yearly	Miserables.txt 2
+years	NotreDame_De_Paris.txt 81, Miserables.txt 363
+yell	Miserables.txt 1
+yelled	Miserables.txt 2
+yelling	Miserables.txt 2
+yellow	NotreDame_De_Paris.txt 23, Miserables.txt 58
+yellowed	Miserables.txt 1
+yellowish	Miserables.txt 2
+yells	NotreDame_De_Paris.txt 1
+yelped	NotreDame_De_Paris.txt 3, Miserables.txt 1
+yelping	NotreDame_De_Paris.txt 4
+yes	NotreDame_De_Paris.txt 95, Miserables.txt 253
+yesses	Miserables.txt 1
+yesterday	NotreDame_De_Paris.txt 10, Miserables.txt 43
+yestere	Miserables.txt 1
+yet	NotreDame_De_Paris.txt 56, Miserables.txt 163
+yeux	NotreDame_De_Paris.txt 1
+yew	Miserables.txt 1
+yield	NotreDame_De_Paris.txt 1, Miserables.txt 10
+yielded	NotreDame_De_Paris.txt 5, Miserables.txt 18
+yielding	NotreDame_De_Paris.txt 3, Miserables.txt 6
+yields	NotreDame_De_Paris.txt 1, Miserables.txt 8
+yoke	NotreDame_De_Paris.txt 1, Miserables.txt 3
+yolk	NotreDame_De_Paris.txt 1
+yon	NotreDame_De_Paris.txt 1
+yonder	NotreDame_De_Paris.txt 37, Miserables.txt 33
+yonne	Miserables.txt 1
+yore	Miserables.txt 3
+york	Miserables.txt 2
+you	NotreDame_De_Paris.txt 1458, Miserables.txt 3725
+young	NotreDame_De_Paris.txt 213, Miserables.txt 420
+younger	NotreDame_De_Paris.txt 3, Miserables.txt 19
+youngest	NotreDame_De_Paris.txt 2, Miserables.txt 5
+your	NotreDame_De_Paris.txt 356, Miserables.txt 760
+yours	NotreDame_De_Paris.txt 12, Miserables.txt 20
+yourself	NotreDame_De_Paris.txt 31, Miserables.txt 97
+yourselves	NotreDame_De_Paris.txt 3, Miserables.txt 19
+youth	NotreDame_De_Paris.txt 8, Miserables.txt 68
+youthful	NotreDame_De_Paris.txt 1, Miserables.txt 10
+youthfulness	NotreDame_De_Paris.txt 1
+youths	Miserables.txt 1
+yoways	Miserables.txt 1
+yuste	Miserables.txt 1
+yvela	NotreDame_De_Paris.txt 1
+yves	NotreDame_De_Paris.txt 1
+yvetot	Miserables.txt 1
+yvon	Miserables.txt 1

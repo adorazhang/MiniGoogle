@@ -1,0 +1,16 @@
+x	NotreDame_De_Paris.txt 1, Miserables.txt 37
+xaxov	NotreDame_De_Paris.txt 1
+xi	NotreDame_De_Paris.txt 59, Miserables.txt 27
+xii	NotreDame_De_Paris.txt 2, Miserables.txt 17
+xiii	NotreDame_De_Paris.txt 3, Miserables.txt 17
+xiv	NotreDame_De_Paris.txt 6, Miserables.txt 23
+xix	Miserables.txt 6
+xv	NotreDame_De_Paris.txt 7, Miserables.txt 20
+xvi	NotreDame_De_Paris.txt 1, Miserables.txt 23
+xvii	Miserables.txt 12
+xviii	Miserables.txt 34
+xx	Miserables.txt 4
+xxi	Miserables.txt 4
+xxii	Miserables.txt 4
+xxiii	Miserables.txt 2
+xxiv	Miserables.txt 2

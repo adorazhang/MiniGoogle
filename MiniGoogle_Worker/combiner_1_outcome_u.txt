@@ -1,0 +1,455 @@
+u	NotreDame_De_Paris.txt 3, Miserables.txt 14
+ubaye	Miserables.txt 1
+ubayette	Miserables.txt 1
+ubi	NotreDame_De_Paris.txt 2
+ubiquity	NotreDame_De_Paris.txt 1, Miserables.txt 2
+uce	Miserables.txt 1
+uche	Miserables.txt 1
+ueya	NotreDame_De_Paris.txt 1
+ugene	NotreDame_De_Paris.txt 1
+ugh	NotreDame_De_Paris.txt 3
+uglier	NotreDame_De_Paris.txt 1
+ugliest	NotreDame_De_Paris.txt 1, Miserables.txt 1
+ugliness	NotreDame_De_Paris.txt 10, Miserables.txt 8
+ugly	NotreDame_De_Paris.txt 12, Miserables.txt 38
+ugolino	Miserables.txt 1
+uhlans	Miserables.txt 1
+ulbach	Miserables.txt 2
+ulcer	NotreDame_De_Paris.txt 1, Miserables.txt 4
+ulcers	Miserables.txt 2
+ulm	Miserables.txt 2
+ulterior	Miserables.txt 4
+ultimam	NotreDame_De_Paris.txt 1
+ultime	Miserables.txt 5
+ultra	Miserables.txt 8
+ultramontane	Miserables.txt 1
+ultras	Miserables.txt 2
+ulysses	Miserables.txt 1
+umbras	NotreDame_De_Paris.txt 1
+umbrella	Miserables.txt 8
+un	NotreDame_De_Paris.txt 9, Miserables.txt 45
+una	NotreDame_De_Paris.txt 1
+unable	NotreDame_De_Paris.txt 7, Miserables.txt 5
+unaccepted	Miserables.txt 1
+unaccompanied	Miserables.txt 1
+unaccustomed	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unacquainted	Miserables.txt 1
+unaided	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unamiable	Miserables.txt 1
+unanimities	Miserables.txt 1
+unanimity	Miserables.txt 3
+unanimous	NotreDame_De_Paris.txt 3, Miserables.txt 4
+unanimously	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unanswerable	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unanswered	Miserables.txt 2
+unapproachable	Miserables.txt 1
+unarmed	Miserables.txt 1
+unassailable	Miserables.txt 1
+unattached	NotreDame_De_Paris.txt 5
+unattractive	Miserables.txt 1
+unavenged	Miserables.txt 1
+unavowed	Miserables.txt 1
+unaware	Miserables.txt 1
+unbearable	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unblessed	Miserables.txt 1
+unbooted	NotreDame_De_Paris.txt 1
+unbound	NotreDame_De_Paris.txt 2, Miserables.txt 1
+unbreathable	Miserables.txt 1
+unbribable	Miserables.txt 1
+unbridled	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unbroken	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unbuckled	NotreDame_De_Paris.txt 1
+unbuckling	Miserables.txt 1
+unbuttoned	NotreDame_De_Paris.txt 1, Miserables.txt 3
+uncanny	Miserables.txt 1
+unceasing	Miserables.txt 1
+unceasingly	NotreDame_De_Paris.txt 2, Miserables.txt 1
+unceremoniousness	Miserables.txt 1
+uncertain	Miserables.txt 5
+uncertainty	Miserables.txt 5
+unchained	Miserables.txt 2
+unchangeable	NotreDame_De_Paris.txt 1
+uncharitable	Miserables.txt 1
+uncle	NotreDame_De_Paris.txt 3, Miserables.txt 9
+unclean	NotreDame_De_Paris.txt 1, Miserables.txt 8
+uncleannesses	Miserables.txt 1
+unclouded	Miserables.txt 1
+uncoiffed	Miserables.txt 1
+uncoiled	Miserables.txt 1
+uncomfortable	NotreDame_De_Paris.txt 1, Miserables.txt 3
+uncommon	NotreDame_De_Paris.txt 1
+uncompromising	Miserables.txt 1
+unconcern	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unconcerned	Miserables.txt 1
+unconquerable	NotreDame_De_Paris.txt 1, Miserables.txt 3
+unconscious	NotreDame_De_Paris.txt 3, Miserables.txt 10
+unconsciously	NotreDame_De_Paris.txt 1, Miserables.txt 10
+uncovered	NotreDame_De_Paris.txt 3, Miserables.txt 5
+uncovering	NotreDame_De_Paris.txt 1
+uncultivated	Miserables.txt 2
+uncurtained	Miserables.txt 1
+unde	NotreDame_De_Paris.txt 1
+undeceive	NotreDame_De_Paris.txt 1, Miserables.txt 2
+undeceived	Miserables.txt 1
+undeceiveth	NotreDame_De_Paris.txt 1
+undecided	NotreDame_De_Paris.txt 3, Miserables.txt 5
+undecipherable	Miserables.txt 1
+undeclared	Miserables.txt 1
+undefinable	Miserables.txt 1
+undefined	Miserables.txt 1
+under	NotreDame_De_Paris.txt 112, Miserables.txt 466
+underbrush	Miserables.txt 2
+underfoot	Miserables.txt 2
+undergo	NotreDame_De_Paris.txt 1, Miserables.txt 10
+undergoes	NotreDame_De_Paris.txt 1, Miserables.txt 2
+undergoing	NotreDame_De_Paris.txt 1, Miserables.txt 8
+undergone	NotreDame_De_Paris.txt 1, Miserables.txt 14
+underground	NotreDame_De_Paris.txt 1, Miserables.txt 6
+undergrowth	Miserables.txt 2
+underhand	NotreDame_De_Paris.txt 1, Miserables.txt 2
+underline	Miserables.txt 1
+underlined	Miserables.txt 2
+underlings	NotreDame_De_Paris.txt 2
+underlying	NotreDame_De_Paris.txt 1, Miserables.txt 4
+undermined	Miserables.txt 3
+undermines	Miserables.txt 6
+undermining	Miserables.txt 1
+underminings	Miserables.txt 1
+underneath	NotreDame_De_Paris.txt 3, Miserables.txt 5
+underpinning	Miserables.txt 3
+understand	NotreDame_De_Paris.txt 30, Miserables.txt 127
+understanding	NotreDame_De_Paris.txt 9, Miserables.txt 23
+understands	NotreDame_De_Paris.txt 3, Miserables.txt 9
+understate	Miserables.txt 1
+understood	NotreDame_De_Paris.txt 25, Miserables.txt 87
+undertake	NotreDame_De_Paris.txt 4, Miserables.txt 5
+undertaken	Miserables.txt 7
+undertaker	Miserables.txt 12
+undertakers	Miserables.txt 1
+undertakes	Miserables.txt 2
+undertaking	NotreDame_De_Paris.txt 1, Miserables.txt 2
+undertone	Miserables.txt 2
+undertook	Miserables.txt 6
+underwent	NotreDame_De_Paris.txt 1, Miserables.txt 11
+undid	NotreDame_De_Paris.txt 2, Miserables.txt 2
+undiscoverable	Miserables.txt 2
+undisputed	Miserables.txt 2
+undisturbed	NotreDame_De_Paris.txt 1
+undo	Miserables.txt 1
+undoing	Miserables.txt 1
+undone	Miserables.txt 2
+undoubtedly	NotreDame_De_Paris.txt 1, Miserables.txt 3
+undress	Miserables.txt 3
+undressed	NotreDame_De_Paris.txt 1, Miserables.txt 1
+undressing	Miserables.txt 4
+undulate	Miserables.txt 1
+undulated	NotreDame_De_Paris.txt 1, Miserables.txt 7
+undulates	NotreDame_De_Paris.txt 1, Miserables.txt 1
+undulating	NotreDame_De_Paris.txt 1, Miserables.txt 6
+undulation	Miserables.txt 1
+undulations	NotreDame_De_Paris.txt 1, Miserables.txt 6
+une	NotreDame_De_Paris.txt 3, Miserables.txt 15
+unearth	NotreDame_De_Paris.txt 1
+unearthed	Miserables.txt 3
+uneasily	NotreDame_De_Paris.txt 3, Miserables.txt 2
+uneasiness	NotreDame_De_Paris.txt 4, Miserables.txt 14
+uneasy	NotreDame_De_Paris.txt 10, Miserables.txt 41
+uneffaceable	Miserables.txt 1
+unemployed	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unenclosed	Miserables.txt 1
+unendingly	NotreDame_De_Paris.txt 1
+unendurable	Miserables.txt 2
+unenforceability	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unequal	NotreDame_De_Paris.txt 1, Miserables.txt 6
+unequally	Miserables.txt 1
+unescorted	Miserables.txt 1
+uneven	NotreDame_De_Paris.txt 1, Miserables.txt 4
+unevenness	NotreDame_De_Paris.txt 1, Miserables.txt 3
+unexpected	NotreDame_De_Paris.txt 8, Miserables.txt 39
+unexpectedly	Miserables.txt 4
+unfailing	Miserables.txt 1
+unfaithful	Miserables.txt 1
+unfamiliar	Miserables.txt 3
+unfastened	NotreDame_De_Paris.txt 3, Miserables.txt 2
+unfastening	NotreDame_De_Paris.txt 1
+unfathomable	Miserables.txt 9
+unfinished	Miserables.txt 1
+unfit	Miserables.txt 1
+unfitted	Miserables.txt 1
+unfold	NotreDame_De_Paris.txt 1, Miserables.txt 3
+unfolded	NotreDame_De_Paris.txt 1, Miserables.txt 22
+unfolding	Miserables.txt 7
+unfoldings	Miserables.txt 1
+unfolds	Miserables.txt 1
+unforeseen	Miserables.txt 13
+unfortunate	NotreDame_De_Paris.txt 14, Miserables.txt 36
+unfortunately	NotreDame_De_Paris.txt 8, Miserables.txt 8
+unfortunates	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unfrequented	Miserables.txt 1
+unfurnished	Miserables.txt 1
+ungild	Miserables.txt 1
+unglued	Miserables.txt 1
+ungovernable	Miserables.txt 1
+ungraceful	Miserables.txt 1
+ungracefully	NotreDame_De_Paris.txt 1
+ungracious	Miserables.txt 1
+ungrafted	Miserables.txt 1
+ungrateful	NotreDame_De_Paris.txt 1, Miserables.txt 5
+unguent	NotreDame_De_Paris.txt 1
+unguents	NotreDame_De_Paris.txt 2
+unhappily	Miserables.txt 1
+unhappiness	NotreDame_De_Paris.txt 6, Miserables.txt 15
+unhappy	NotreDame_De_Paris.txt 57, Miserables.txt 56
+unharness	Miserables.txt 2
+unharnessed	Miserables.txt 5
+unharnessing	Miserables.txt 1
+unhealthy	Miserables.txt 15
+unheard	NotreDame_De_Paris.txt 3, Miserables.txt 14
+unhesitatingly	Miserables.txt 1
+unhewn	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unhitched	NotreDame_De_Paris.txt 1
+unhook	Miserables.txt 2
+unhooked	Miserables.txt 1
+unhooking	Miserables.txt 1
+unhorsed	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unicorn	NotreDame_De_Paris.txt 1
+uniform	NotreDame_De_Paris.txt 7, Miserables.txt 25
+uniformity	Miserables.txt 1
+uniforms	Miserables.txt 10
+uninhabited	Miserables.txt 9
+unintelligible	NotreDame_De_Paris.txt 4, Miserables.txt 6
+unintentionally	Miserables.txt 2
+uninterruptedly	Miserables.txt 3
+union	NotreDame_De_Paris.txt 2, Miserables.txt 4
+unique	NotreDame_De_Paris.txt 1, Miserables.txt 8
+unison	Miserables.txt 3
+unit	NotreDame_De_Paris.txt 1
+unite	NotreDame_De_Paris.txt 1, Miserables.txt 6
+united	NotreDame_De_Paris.txt 14, Miserables.txt 18
+unites	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unity	NotreDame_De_Paris.txt 9, Miserables.txt 8
+universal	NotreDame_De_Paris.txt 10, Miserables.txt 31
+universally	Miserables.txt 1
+universe	NotreDame_De_Paris.txt 5, Miserables.txt 29
+universite	Miserables.txt 1
+university	NotreDame_De_Paris.txt 46
+unjust	NotreDame_De_Paris.txt 1, Miserables.txt 14
+unjustifiable	Miserables.txt 1
+unjustly	NotreDame_De_Paris.txt 1, Miserables.txt 5
+unkind	Miserables.txt 2
+unknown	NotreDame_De_Paris.txt 15, Miserables.txt 88
+unknowns	Miserables.txt 1
+unlace	NotreDame_De_Paris.txt 1
+unlearning	Miserables.txt 2
+unless	NotreDame_De_Paris.txt 14, Miserables.txt 22
+unlettered	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unlike	NotreDame_De_Paris.txt 1, Miserables.txt 6
+unlink	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unload	Miserables.txt 1
+unloading	Miserables.txt 1
+unlocked	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unlooked	Miserables.txt 1
+unloose	NotreDame_De_Paris.txt 1
+unloosed	NotreDame_De_Paris.txt 2, Miserables.txt 1
+unlucky	NotreDame_De_Paris.txt 7, Miserables.txt 4
+unmade	Miserables.txt 1
+unmarried	Miserables.txt 5
+unmasked	Miserables.txt 8
+unmasking	Miserables.txt 1
+unmercifully	NotreDame_De_Paris.txt 1
+unmerited	Miserables.txt 1
+unmethodical	Miserables.txt 1
+unmistakably	Miserables.txt 1
+unmitigated	Miserables.txt 1
+unnailed	Miserables.txt 1
+unnatural	Miserables.txt 1
+unnecessary	NotreDame_De_Paris.txt 2, Miserables.txt 7
+unnoticed	NotreDame_De_Paris.txt 1, Miserables.txt 3
+unobjectionable	Miserables.txt 1
+unobtrusive	Miserables.txt 2
+unoccupied	Miserables.txt 2
+unorganized	Miserables.txt 1
+unpardoningly	Miserables.txt 1
+unpasted	Miserables.txt 1
+unpaved	NotreDame_De_Paris.txt 3, Miserables.txt 7
+unperceived	Miserables.txt 1
+unpleasant	NotreDame_De_Paris.txt 2, Miserables.txt 6
+unpleasantness	Miserables.txt 4
+unpolished	Miserables.txt 1
+unpopularity	NotreDame_De_Paris.txt 2
+unprecedented	NotreDame_De_Paris.txt 1, Miserables.txt 23
+unpremeditated	Miserables.txt 2
+unprepared	Miserables.txt 2
+unprepossessing	Miserables.txt 4
+unpretending	Miserables.txt 1
+unprofitable	Miserables.txt 1
+unprotected	Miserables.txt 3
+unprovided	Miserables.txt 1
+unpublished	NotreDame_De_Paris.txt 1, Miserables.txt 3
+unpunished	NotreDame_De_Paris.txt 1
+unravelled	Miserables.txt 1
+unravelling	NotreDame_De_Paris.txt 1
+unread	Miserables.txt 1
+unreasonable	NotreDame_De_Paris.txt 2, Miserables.txt 2
+unreasoning	Miserables.txt 1
+unrecognizable	Miserables.txt 3
+unrelenting	NotreDame_De_Paris.txt 1
+unreserved	Miserables.txt 1
+unrhymed	NotreDame_De_Paris.txt 1
+unriddled	Miserables.txt 1
+unrivalled	NotreDame_De_Paris.txt 1
+unrolled	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unrolling	NotreDame_De_Paris.txt 1
+uns	Miserables.txt 6
+unscrew	Miserables.txt 1
+unscrewed	Miserables.txt 2
+unscrupulous	Miserables.txt 2
+unsealed	Miserables.txt 3
+unseasonable	NotreDame_De_Paris.txt 1
+unseated	Miserables.txt 2
+unseen	Miserables.txt 3
+unshaded	Miserables.txt 1
+unshapely	NotreDame_De_Paris.txt 1
+unsheathed	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unsheltered	Miserables.txt 2
+unskilful	Miserables.txt 1
+unsolicited	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unsolved	Miserables.txt 1
+unspeakable	NotreDame_De_Paris.txt 2, Miserables.txt 2
+unspeakably	Miserables.txt 1
+unspotted	Miserables.txt 1
+unstable	Miserables.txt 1
+unstopped	Miserables.txt 1
+unstrung	Miserables.txt 1
+unsuccessful	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unsuitable	NotreDame_De_Paris.txt 1
+unsuspicious	Miserables.txt 1
+untamed	NotreDame_De_Paris.txt 1
+untidy	Miserables.txt 1
+untie	Miserables.txt 2
+untied	NotreDame_De_Paris.txt 2, Miserables.txt 6
+until	NotreDame_De_Paris.txt 30, Miserables.txt 97
+untoward	NotreDame_De_Paris.txt 1
+untraceable	Miserables.txt 1
+untrue	Miserables.txt 1
+untwine	Miserables.txt 1
+untwined	NotreDame_De_Paris.txt 1
+unum	NotreDame_De_Paris.txt 1
+unused	Miserables.txt 3
+unusual	NotreDame_De_Paris.txt 1, Miserables.txt 2
+unutterable	Miserables.txt 4
+unuttered	NotreDame_De_Paris.txt 1
+unvarying	Miserables.txt 1
+unveil	Miserables.txt 1
+unveiled	Miserables.txt 2
+unwelded	Miserables.txt 1
+unwieldy	NotreDame_De_Paris.txt 1
+unwilling	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unwinding	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unwittingly	Miserables.txt 1
+unwonted	NotreDame_De_Paris.txt 1, Miserables.txt 1
+unworthy	Miserables.txt 6
+unyielding	NotreDame_De_Paris.txt 1
+unzains	NotreDame_De_Paris.txt 3
+up	NotreDame_De_Paris.txt 236, Miserables.txt 930
+updated	NotreDame_De_Paris.txt 1, Miserables.txt 2
+upheaval	Miserables.txt 1
+upheaves	Miserables.txt 1
+upheld	Miserables.txt 12
+uphold	Miserables.txt 4
+upholders	Miserables.txt 1
+upholding	Miserables.txt 4
+upholstered	Miserables.txt 1
+uplift	Miserables.txt 1
+uplifted	NotreDame_De_Paris.txt 2, Miserables.txt 10
+uplifting	Miserables.txt 1
+uplifts	Miserables.txt 1
+upon	NotreDame_De_Paris.txt 430, Miserables.txt 484
+upper	NotreDame_De_Paris.txt 23, Miserables.txt 36
+upraised	Miserables.txt 2
+upright	NotreDame_De_Paris.txt 9, Miserables.txt 23
+uprightness	Miserables.txt 1
+uprights	NotreDame_De_Paris.txt 1
+uprising	Miserables.txt 23
+uprisings	Miserables.txt 7
+uproar	NotreDame_De_Paris.txt 16, Miserables.txt 39
+uproariously	Miserables.txt 1
+uprooted	NotreDame_De_Paris.txt 1, Miserables.txt 5
+uproots	Miserables.txt 1
+upset	NotreDame_De_Paris.txt 4, Miserables.txt 6
+upsets	NotreDame_De_Paris.txt 1, Miserables.txt 2
+upsetting	Miserables.txt 4
+upside	Miserables.txt 4
+upstairs	NotreDame_De_Paris.txt 2, Miserables.txt 5
+upstream	Miserables.txt 2
+upward	NotreDame_De_Paris.txt 1, Miserables.txt 3
+upwards	NotreDame_De_Paris.txt 4, Miserables.txt 3
+urania	NotreDame_De_Paris.txt 1
+urbain	Miserables.txt 6
+urbanists	Miserables.txt 1
+urbi	Miserables.txt 1
+urbis	Miserables.txt 3
+urcens	NotreDame_De_Paris.txt 1
+urchin	Miserables.txt 19
+urchindom	Miserables.txt 1
+urchins	NotreDame_De_Paris.txt 2, Miserables.txt 5
+urfe	Miserables.txt 1
+urge	NotreDame_De_Paris.txt 1, Miserables.txt 1
+urged	NotreDame_De_Paris.txt 1, Miserables.txt 9
+urgency	Miserables.txt 1
+urgent	Miserables.txt 3
+urgently	NotreDame_De_Paris.txt 1
+urges	Miserables.txt 2
+urging	NotreDame_De_Paris.txt 2, Miserables.txt 2
+uri	Miserables.txt 1
+urine	Miserables.txt 1
+urn	Miserables.txt 2
+ursins	NotreDame_De_Paris.txt 2
+ursule	Miserables.txt 21
+ursuline	Miserables.txt 1
+ursulines	Miserables.txt 1
+us	NotreDame_De_Paris.txt 148, Miserables.txt 519
+usage	NotreDame_De_Paris.txt 2, Miserables.txt 3
+usages	Miserables.txt 1
+use	NotreDame_De_Paris.txt 25, Miserables.txt 101
+used	NotreDame_De_Paris.txt 11, Miserables.txt 54
+useful	Miserables.txt 45
+usefully	Miserables.txt 4
+usefulness	Miserables.txt 2
+useless	NotreDame_De_Paris.txt 9, Miserables.txt 40
+uselessness	NotreDame_De_Paris.txt 1, Miserables.txt 2
+user	NotreDame_De_Paris.txt 3, Miserables.txt 3
+uses	Miserables.txt 4
+usher	NotreDame_De_Paris.txt 15, Miserables.txt 21
+ushers	Miserables.txt 3
+using	NotreDame_De_Paris.txt 5, Miserables.txt 7
+usque	NotreDame_De_Paris.txt 1
+usual	NotreDame_De_Paris.txt 8, Miserables.txt 32
+usually	NotreDame_De_Paris.txt 2, Miserables.txt 14
+usurer	Miserables.txt 1
+usurp	Miserables.txt 1
+usurpation	Miserables.txt 3
+usurped	Miserables.txt 1
+usurper	Miserables.txt 3
+usurps	Miserables.txt 1
+usury	Miserables.txt 1
+usus	Miserables.txt 1
+ut	NotreDame_De_Paris.txt 3, Miserables.txt 3
+utensil	Miserables.txt 1
+utensils	NotreDame_De_Paris.txt 5, Miserables.txt 4
+utility	NotreDame_De_Paris.txt 2, Miserables.txt 7
+utilize	Miserables.txt 1
+utilized	Miserables.txt 1
+utmost	NotreDame_De_Paris.txt 1, Miserables.txt 1
+utopia	Miserables.txt 11
+utopians	Miserables.txt 2
+utopias	Miserables.txt 1
+utrecht	NotreDame_De_Paris.txt 1, Miserables.txt 5
+utter	NotreDame_De_Paris.txt 11, Miserables.txt 35
+utterance	NotreDame_De_Paris.txt 1, Miserables.txt 7
+uttered	NotreDame_De_Paris.txt 33, Miserables.txt 83
+utterest	Miserables.txt 1
+uttering	NotreDame_De_Paris.txt 14, Miserables.txt 23
+utterly	NotreDame_De_Paris.txt 9, Miserables.txt 28
+utters	Miserables.txt 3
+uxbridge	Miserables.txt 2

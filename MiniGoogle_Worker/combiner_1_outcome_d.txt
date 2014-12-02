@@ -1,0 +1,1716 @@
+d	NotreDame_De_Paris.txt 52, Miserables.txt 183
+dab	Miserables.txt 2
+dabbled	Miserables.txt 1
+dabs	Miserables.txt 1
+dabuge	Miserables.txt 1
+dactyl	NotreDame_De_Paris.txt 1
+daddy	Miserables.txt 3
+dado	Miserables.txt 1
+dados	NotreDame_De_Paris.txt 1
+daedalus	NotreDame_De_Paris.txt 4, Miserables.txt 1
+daelli	Miserables.txt 1
+daemonum	NotreDame_De_Paris.txt 1
+dagger	NotreDame_De_Paris.txt 11, Miserables.txt 8
+daggers	NotreDame_De_Paris.txt 5
+dagobert	NotreDame_De_Paris.txt 1
+dague	Miserables.txt 1
+dahlia	Miserables.txt 19
+dahlias	Miserables.txt 2
+dahuille	NotreDame_De_Paris.txt 1
+daigning	Miserables.txt 1
+dail	Miserables.txt 1
+daily	NotreDame_De_Paris.txt 1, Miserables.txt 7
+daim	NotreDame_De_Paris.txt 6
+dainties	NotreDame_De_Paris.txt 1, Miserables.txt 1
+daintily	Miserables.txt 1
+daintiness	NotreDame_De_Paris.txt 2
+dainty	NotreDame_De_Paris.txt 3, Miserables.txt 3
+dairies	Miserables.txt 4
+dais	NotreDame_De_Paris.txt 4, Miserables.txt 3
+daisies	NotreDame_De_Paris.txt 1, Miserables.txt 3
+daisy	NotreDame_De_Paris.txt 3, Miserables.txt 2
+daiz	NotreDame_De_Paris.txt 1
+dallemagne	Miserables.txt 1
+dalmatics	NotreDame_De_Paris.txt 1
+dalmatie	Miserables.txt 1
+dam	Miserables.txt 1
+damage	NotreDame_De_Paris.txt 3, Miserables.txt 5
+damaged	NotreDame_De_Paris.txt 1, Miserables.txt 4
+damages	NotreDame_De_Paris.txt 5, Miserables.txt 5
+damas	Miserables.txt 1
+damascened	NotreDame_De_Paris.txt 1
+damascus	Miserables.txt 2
+damasippus	Miserables.txt 1
+damask	NotreDame_De_Paris.txt 5, Miserables.txt 8
+damasks	Miserables.txt 1
+damb	Miserables.txt 1
+dambray	Miserables.txt 2
+dame	NotreDame_De_Paris.txt 177, Miserables.txt 17
+dames	NotreDame_De_Paris.txt 5, Miserables.txt 1
+dammed	NotreDame_De_Paris.txt 1
+damn	NotreDame_De_Paris.txt 1
+damnable	NotreDame_De_Paris.txt 1
+damnation	NotreDame_De_Paris.txt 5, Miserables.txt 4
+damned	NotreDame_De_Paris.txt 8, Miserables.txt 7
+damnerais	Miserables.txt 1
+damoiselle	NotreDame_De_Paris.txt 6
+damoiselles	NotreDame_De_Paris.txt 2
+damp	NotreDame_De_Paris.txt 2, Miserables.txt 11
+dampen	Miserables.txt 1
+damper	Miserables.txt 2
+dampmartin	NotreDame_De_Paris.txt 1
+dampness	NotreDame_De_Paris.txt 2, Miserables.txt 4
+damsel	NotreDame_De_Paris.txt 6
+damsels	NotreDame_De_Paris.txt 9
+dance	NotreDame_De_Paris.txt 15, Miserables.txt 10
+danced	NotreDame_De_Paris.txt 5, Miserables.txt 5
+dancer	NotreDame_De_Paris.txt 29, Miserables.txt 5
+dancers	Miserables.txt 3
+dances	NotreDame_De_Paris.txt 4, Miserables.txt 5
+dancing	NotreDame_De_Paris.txt 14, Miserables.txt 4
+dand	NotreDame_De_Paris.txt 1
+dandelions	Miserables.txt 2
+dandies	Miserables.txt 3
+dandified	Miserables.txt 2
+dandle	Miserables.txt 1
+dandling	Miserables.txt 1
+dandy	Miserables.txt 10
+danger	NotreDame_De_Paris.txt 5, Miserables.txt 38
+dangerous	Miserables.txt 31
+dangerously	Miserables.txt 2
+dangers	NotreDame_De_Paris.txt 2, Miserables.txt 6
+dangle	Miserables.txt 1
+dangling	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dans	NotreDame_De_Paris.txt 1, Miserables.txt 20
+dante	NotreDame_De_Paris.txt 5, Miserables.txt 13
+dantes	Miserables.txt 1
+danton	Miserables.txt 14
+danube	Miserables.txt 1
+daphnis	Miserables.txt 1
+dapifero	NotreDame_De_Paris.txt 1
+dappes	Miserables.txt 1
+dappled	NotreDame_De_Paris.txt 1
+dardant	Miserables.txt 1
+dare	NotreDame_De_Paris.txt 7, Miserables.txt 23
+dared	NotreDame_De_Paris.txt 18, Miserables.txt 36
+dares	NotreDame_De_Paris.txt 1, Miserables.txt 2
+daring	NotreDame_De_Paris.txt 5, Miserables.txt 28
+dark	NotreDame_De_Paris.txt 44, Miserables.txt 119
+darkened	NotreDame_De_Paris.txt 1
+darker	Miserables.txt 1
+darkest	NotreDame_De_Paris.txt 2, Miserables.txt 2
+darkly	NotreDame_De_Paris.txt 1
+darkmans	Miserables.txt 1
+darkness	NotreDame_De_Paris.txt 23, Miserables.txt 141
+darknesses	Miserables.txt 1
+darling	Miserables.txt 5
+darned	Miserables.txt 1
+daron	Miserables.txt 1
+dart	NotreDame_De_Paris.txt 3, Miserables.txt 5
+darted	NotreDame_De_Paris.txt 8, Miserables.txt 17
+darting	NotreDame_De_Paris.txt 1, Miserables.txt 5
+darts	Miserables.txt 3
+das	Miserables.txt 1
+dash	NotreDame_De_Paris.txt 5, Miserables.txt 7
+dashed	NotreDame_De_Paris.txt 8, Miserables.txt 7
+dashes	NotreDame_De_Paris.txt 3, Miserables.txt 2
+dashing	NotreDame_De_Paris.txt 1, Miserables.txt 4
+data	NotreDame_De_Paris.txt 1, Miserables.txt 2
+date	NotreDame_De_Paris.txt 10, Miserables.txt 34
+dated	NotreDame_De_Paris.txt 2, Miserables.txt 3
+dates	NotreDame_De_Paris.txt 1, Miserables.txt 6
+dating	NotreDame_De_Paris.txt 2, Miserables.txt 1
+datum	NotreDame_De_Paris.txt 1
+daub	NotreDame_De_Paris.txt 1, Miserables.txt 4
+daubed	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dauber	Miserables.txt 1
+daubing	Miserables.txt 5
+daubs	Miserables.txt 1
+dauby	NotreDame_De_Paris.txt 1
+daughter	NotreDame_De_Paris.txt 83, Miserables.txt 124
+daughters	NotreDame_De_Paris.txt 2, Miserables.txt 38
+daumesnil	NotreDame_De_Paris.txt 1
+daumont	Miserables.txt 1
+dauphin	NotreDame_De_Paris.txt 13, Miserables.txt 4
+dauphine	NotreDame_De_Paris.txt 2, Miserables.txt 4
+dauphines	Miserables.txt 1
+dauphiness	NotreDame_De_Paris.txt 2
+dauphins	Miserables.txt 5
+dauphiny	NotreDame_De_Paris.txt 1
+dautin	Miserables.txt 1
+dautun	Miserables.txt 1
+dauvet	NotreDame_De_Paris.txt 1
+david	Miserables.txt 7
+dawn	NotreDame_De_Paris.txt 3, Miserables.txt 64
+dawned	Miserables.txt 2
+dawning	NotreDame_De_Paris.txt 1, Miserables.txt 9
+dawns	Miserables.txt 2
+day	NotreDame_De_Paris.txt 249, Miserables.txt 805
+daybreak	NotreDame_De_Paris.txt 4, Miserables.txt 29
+daylight	NotreDame_De_Paris.txt 10, Miserables.txt 54
+days	NotreDame_De_Paris.txt 45, Miserables.txt 192
+daytime	Miserables.txt 5
+dazed	NotreDame_De_Paris.txt 4
+dazzle	Miserables.txt 3
+dazzled	NotreDame_De_Paris.txt 6, Miserables.txt 33
+dazzlement	NotreDame_De_Paris.txt 1
+dazzles	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dazzling	NotreDame_De_Paris.txt 15, Miserables.txt 28
+dazzlingly	Miserables.txt 2
+de	NotreDame_De_Paris.txt 409, Miserables.txt 639
+dea	NotreDame_De_Paris.txt 1
+deacon	NotreDame_De_Paris.txt 2, Miserables.txt 1
+deacons	NotreDame_De_Paris.txt 1
+dead	NotreDame_De_Paris.txt 61, Miserables.txt 249
+deaden	Miserables.txt 4
+deadened	Miserables.txt 3
+deadly	Miserables.txt 3
+deaf	NotreDame_De_Paris.txt 76, Miserables.txt 17
+deafen	NotreDame_De_Paris.txt 2
+deafened	NotreDame_De_Paris.txt 1, Miserables.txt 2
+deafening	NotreDame_De_Paris.txt 5, Miserables.txt 3
+deafness	NotreDame_De_Paris.txt 6, Miserables.txt 2
+deal	NotreDame_De_Paris.txt 21, Miserables.txt 76
+dealer	NotreDame_De_Paris.txt 1, Miserables.txt 16
+dealers	Miserables.txt 4
+dealing	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dealings	NotreDame_De_Paris.txt 2
+deals	Miserables.txt 3
+dealt	NotreDame_De_Paris.txt 7, Miserables.txt 3
+dean	Miserables.txt 1
+deaneries	NotreDame_De_Paris.txt 1
+deans	NotreDame_De_Paris.txt 1
+dear	NotreDame_De_Paris.txt 41, Miserables.txt 44
+dearer	Miserables.txt 1
+dearest	Miserables.txt 5
+dearly	NotreDame_De_Paris.txt 3, Miserables.txt 7
+dearness	Miserables.txt 1
+death	NotreDame_De_Paris.txt 65, Miserables.txt 243
+deathblow	NotreDame_De_Paris.txt 1
+deathly	Miserables.txt 1
+deaths	Miserables.txt 4
+debacchantis	NotreDame_De_Paris.txt 1
+debacchatio	NotreDame_De_Paris.txt 1
+debacker	Miserables.txt 1
+debarcation	NotreDame_De_Paris.txt 1
+debarring	NotreDame_De_Paris.txt 1
+debased	Miserables.txt 3
+debasements	NotreDame_De_Paris.txt 1
+debasing	Miserables.txt 1
+debate	Miserables.txt 4
+debated	NotreDame_De_Paris.txt 1
+debates	NotreDame_De_Paris.txt 1
+debauch	NotreDame_De_Paris.txt 1
+debauched	Miserables.txt 2
+debauchees	NotreDame_De_Paris.txt 2
+debaucheries	Miserables.txt 1
+debauchery	NotreDame_De_Paris.txt 4, Miserables.txt 2
+debauching	Miserables.txt 1
+debet	NotreDame_De_Paris.txt 1
+debilitated	Miserables.txt 1
+debou	NotreDame_De_Paris.txt 2
+debouch	NotreDame_De_Paris.txt 1, Miserables.txt 2
+debouched	NotreDame_De_Paris.txt 3, Miserables.txt 4
+debouches	Miserables.txt 1
+debrye	Miserables.txt 1
+debt	NotreDame_De_Paris.txt 1, Miserables.txt 15
+debtor	NotreDame_De_Paris.txt 1, Miserables.txt 1
+debtors	Miserables.txt 1
+debts	NotreDame_De_Paris.txt 1, Miserables.txt 9
+dec	Miserables.txt 1
+decadence	NotreDame_De_Paris.txt 4
+decamp	Miserables.txt 4
+decamped	Miserables.txt 1
+decamping	Miserables.txt 1
+decantantur	NotreDame_De_Paris.txt 1
+decanter	Miserables.txt 1
+decapitate	NotreDame_De_Paris.txt 1
+decapitated	Miserables.txt 3
+decarade	Miserables.txt 1
+decay	NotreDame_De_Paris.txt 1, Miserables.txt 6
+decayed	NotreDame_De_Paris.txt 1
+decaying	NotreDame_De_Paris.txt 1
+decazes	Miserables.txt 3
+decease	Miserables.txt 1
+deceased	NotreDame_De_Paris.txt 1, Miserables.txt 2
+deceit	Miserables.txt 1
+deceive	NotreDame_De_Paris.txt 2, Miserables.txt 3
+deceived	NotreDame_De_Paris.txt 3, Miserables.txt 10
+deceives	Miserables.txt 3
+deceiving	Miserables.txt 7
+december	NotreDame_De_Paris.txt 1, Miserables.txt 8
+decency	Miserables.txt 3
+decent	NotreDame_De_Paris.txt 2, Miserables.txt 4
+deceptions	Miserables.txt 1
+deceptive	Miserables.txt 2
+dechiraverunt	NotreDame_De_Paris.txt 1
+decide	NotreDame_De_Paris.txt 3, Miserables.txt 10
+decided	NotreDame_De_Paris.txt 6, Miserables.txt 26
+decidedly	NotreDame_De_Paris.txt 5, Miserables.txt 25
+decimate	Miserables.txt 1
+decimated	Miserables.txt 6
+decipher	NotreDame_De_Paris.txt 2, Miserables.txt 1
+deciphered	Miserables.txt 3
+deciphering	NotreDame_De_Paris.txt 1, Miserables.txt 1
+decision	NotreDame_De_Paris.txt 1, Miserables.txt 18
+decisions	NotreDame_De_Paris.txt 1
+decisive	NotreDame_De_Paris.txt 2, Miserables.txt 17
+deck	Miserables.txt 3
+decked	NotreDame_De_Paris.txt 5, Miserables.txt 6
+deckest	Miserables.txt 1
+decks	Miserables.txt 4
+declaimer	Miserables.txt 4
+declaimers	Miserables.txt 2
+declaiming	NotreDame_De_Paris.txt 1, Miserables.txt 1
+declamations	Miserables.txt 3
+declaration	NotreDame_De_Paris.txt 3, Miserables.txt 6
+declarations	Miserables.txt 1
+declare	NotreDame_De_Paris.txt 1, Miserables.txt 11
+declared	NotreDame_De_Paris.txt 2, Miserables.txt 26
+declaremus	NotreDame_De_Paris.txt 1
+declares	NotreDame_De_Paris.txt 1, Miserables.txt 2
+declaring	NotreDame_De_Paris.txt 1, Miserables.txt 3
+decline	NotreDame_De_Paris.txt 1, Miserables.txt 7
+declined	Miserables.txt 2
+declines	Miserables.txt 1
+declining	NotreDame_De_Paris.txt 2, Miserables.txt 5
+declivities	Miserables.txt 1
+declivity	Miserables.txt 4
+decoiffee	Miserables.txt 1
+decolla	Miserables.txt 1
+decomposition	Miserables.txt 2
+decompositions	Miserables.txt 1
+decorated	Miserables.txt 10
+decoration	Miserables.txt 6
+decorations	NotreDame_De_Paris.txt 1
+decorously	NotreDame_De_Paris.txt 1
+decreased	Miserables.txt 4
+decreases	Miserables.txt 1
+decreasing	Miserables.txt 1
+decree	NotreDame_De_Paris.txt 8, Miserables.txt 5
+decreed	Miserables.txt 4
+decrees	Miserables.txt 4
+decrepit	NotreDame_De_Paris.txt 5, Miserables.txt 11
+decrepitude	Miserables.txt 3
+decres	Miserables.txt 1
+decretal	NotreDame_De_Paris.txt 1
+decretalists	NotreDame_De_Paris.txt 1
+decretals	NotreDame_De_Paris.txt 6
+decretists	NotreDame_De_Paris.txt 1
+decurions	Miserables.txt 1
+dedicated	Miserables.txt 1
+dedication	Miserables.txt 2
+deduced	NotreDame_De_Paris.txt 1
+deduct	Miserables.txt 1
+deductible	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deduction	Miserables.txt 2
+deed	NotreDame_De_Paris.txt 5, Miserables.txt 17
+deeds	NotreDame_De_Paris.txt 8, Miserables.txt 28
+deem	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deemed	NotreDame_De_Paris.txt 1
+deep	NotreDame_De_Paris.txt 28, Miserables.txt 59
+deepen	NotreDame_De_Paris.txt 1
+deepened	Miserables.txt 1
+deepening	Miserables.txt 1
+deeper	NotreDame_De_Paris.txt 9, Miserables.txt 9
+deepest	NotreDame_De_Paris.txt 2, Miserables.txt 2
+deeply	NotreDame_De_Paris.txt 15, Miserables.txt 32
+deer	NotreDame_De_Paris.txt 3
+defaced	Miserables.txt 2
+defacing	NotreDame_De_Paris.txt 1
+default	NotreDame_De_Paris.txt 1, Miserables.txt 7
+defeat	Miserables.txt 8
+defeated	Miserables.txt 1
+defect	NotreDame_De_Paris.txt 6, Miserables.txt 11
+defective	NotreDame_De_Paris.txt 4, Miserables.txt 3
+defects	NotreDame_De_Paris.txt 2, Miserables.txt 4
+defence	NotreDame_De_Paris.txt 3, Miserables.txt 14
+defenceless	Miserables.txt 1
+defend	NotreDame_De_Paris.txt 3, Miserables.txt 17
+defendant	NotreDame_De_Paris.txt 1, Miserables.txt 1
+defended	NotreDame_De_Paris.txt 3, Miserables.txt 13
+defender	Miserables.txt 1
+defenders	Miserables.txt 1
+defending	NotreDame_De_Paris.txt 6, Miserables.txt 4
+defends	Miserables.txt 6
+defendu	Miserables.txt 1
+defensive	NotreDame_De_Paris.txt 2, Miserables.txt 1
+defer	NotreDame_De_Paris.txt 1
+deference	Miserables.txt 4
+deferential	Miserables.txt 2
+defiance	NotreDame_De_Paris.txt 3, Miserables.txt 5
+defiantly	Miserables.txt 1
+defier	Miserables.txt 1
+defile	Miserables.txt 1
+defiled	NotreDame_De_Paris.txt 1
+defilement	Miserables.txt 1
+defiles	Miserables.txt 1
+defiling	NotreDame_De_Paris.txt 1, Miserables.txt 1
+define	Miserables.txt 2
+defined	NotreDame_De_Paris.txt 2, Miserables.txt 5
+definite	NotreDame_De_Paris.txt 2, Miserables.txt 2
+definitely	Miserables.txt 5
+definiteness	NotreDame_De_Paris.txt 1, Miserables.txt 1
+definition	Miserables.txt 2
+definitive	NotreDame_De_Paris.txt 3, Miserables.txt 13
+deflected	Miserables.txt 1
+deformed	NotreDame_De_Paris.txt 8, Miserables.txt 8
+deformities	Miserables.txt 3
+deformity	NotreDame_De_Paris.txt 10, Miserables.txt 8
+defuit	NotreDame_De_Paris.txt 1
+defunct	NotreDame_De_Paris.txt 1, Miserables.txt 2
+defy	Miserables.txt 2
+degenerate	Miserables.txt 2
+degenerated	Miserables.txt 2
+degenerates	Miserables.txt 1
+degradation	Miserables.txt 5
+degradations	NotreDame_De_Paris.txt 1, Miserables.txt 1
+degraded	Miserables.txt 4
+degrading	Miserables.txt 2
+degree	NotreDame_De_Paris.txt 15, Miserables.txt 40
+degrees	NotreDame_De_Paris.txt 6, Miserables.txt 14
+dehaze	Miserables.txt 1
+dei	Miserables.txt 2
+deification	Miserables.txt 1
+deified	Miserables.txt 1
+deign	NotreDame_De_Paris.txt 1, Miserables.txt 5
+deigned	NotreDame_De_Paris.txt 2, Miserables.txt 4
+deigning	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deity	Miserables.txt 1
+deja	Miserables.txt 1
+dejected	Miserables.txt 10
+dejection	NotreDame_De_Paris.txt 1, Miserables.txt 9
+del	NotreDame_De_Paris.txt 1
+delalot	Miserables.txt 1
+delancey	Miserables.txt 1
+delancre	Miserables.txt 1
+delaporte	Miserables.txt 1
+delaveau	Miserables.txt 1
+delaverderie	Miserables.txt 1
+delay	Miserables.txt 10
+delayed	Miserables.txt 4
+delegate	Miserables.txt 1
+deletions	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deleuze	Miserables.txt 1
+deliberate	Miserables.txt 12
+deliberated	Miserables.txt 1
+deliberately	Miserables.txt 1
+deliberating	Miserables.txt 3
+deliberation	Miserables.txt 9
+delicacies	NotreDame_De_Paris.txt 1, Miserables.txt 1
+delicacy	NotreDame_De_Paris.txt 3, Miserables.txt 6
+delicate	NotreDame_De_Paris.txt 24, Miserables.txt 26
+delicately	NotreDame_De_Paris.txt 2
+delicious	NotreDame_De_Paris.txt 1, Miserables.txt 9
+deliciously	Miserables.txt 1
+delicti	Miserables.txt 1
+delight	NotreDame_De_Paris.txt 5, Miserables.txt 29
+delighted	NotreDame_De_Paris.txt 7, Miserables.txt 20
+delightful	Miserables.txt 9
+delightfully	NotreDame_De_Paris.txt 1
+delights	Miserables.txt 6
+delille	Miserables.txt 2
+delinquencies	NotreDame_De_Paris.txt 1
+delinquent	Miserables.txt 1
+delinquents	Miserables.txt 2
+delirious	NotreDame_De_Paris.txt 1, Miserables.txt 2
+delirium	NotreDame_De_Paris.txt 3, Miserables.txt 7
+deliriums	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deliver	NotreDame_De_Paris.txt 5, Miserables.txt 25
+deliverance	Miserables.txt 8
+delivered	NotreDame_De_Paris.txt 8, Miserables.txt 23
+deliverer	NotreDame_De_Paris.txt 1, Miserables.txt 1
+delivering	NotreDame_De_Paris.txt 1, Miserables.txt 4
+delivers	Miserables.txt 4
+delivery	Miserables.txt 2
+della	Miserables.txt 1
+delorme	NotreDame_De_Paris.txt 1, Miserables.txt 3
+delort	Miserables.txt 5
+delphos	Miserables.txt 2
+delude	Miserables.txt 1
+deluded	Miserables.txt 1
+deluding	NotreDame_De_Paris.txt 1
+deluge	NotreDame_De_Paris.txt 2, Miserables.txt 4
+delusion	Miserables.txt 1
+delve	Miserables.txt 1
+delvincourt	Miserables.txt 2
+demagogical	Miserables.txt 1
+demagogue	Miserables.txt 2
+demagogues	Miserables.txt 1
+demand	NotreDame_De_Paris.txt 3, Miserables.txt 26
+demandait	Miserables.txt 2
+demanded	NotreDame_De_Paris.txt 15, Miserables.txt 60
+demanding	NotreDame_De_Paris.txt 1, Miserables.txt 3
+demands	NotreDame_De_Paris.txt 2, Miserables.txt 13
+demeanor	Miserables.txt 1
+demens	Miserables.txt 1
+demerits	NotreDame_De_Paris.txt 2
+demi	NotreDame_De_Paris.txt 4, Miserables.txt 9
+demigod	Miserables.txt 1
+democracy	NotreDame_De_Paris.txt 1, Miserables.txt 10
+democrat	Miserables.txt 3
+democratic	Miserables.txt 9
+democrats	Miserables.txt 2
+demoiselle	NotreDame_De_Paris.txt 4
+demoiselles	NotreDame_De_Paris.txt 1
+demolish	NotreDame_De_Paris.txt 2, Miserables.txt 3
+demolished	NotreDame_De_Paris.txt 4, Miserables.txt 15
+demolishers	NotreDame_De_Paris.txt 1
+demolishes	NotreDame_De_Paris.txt 1, Miserables.txt 2
+demolishing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+demolition	NotreDame_De_Paris.txt 3, Miserables.txt 5
+demolitions	NotreDame_De_Paris.txt 1, Miserables.txt 2
+demon	NotreDame_De_Paris.txt 28, Miserables.txt 12
+demonetized	Miserables.txt 1
+demoniac	NotreDame_De_Paris.txt 1
+demons	NotreDame_De_Paris.txt 4, Miserables.txt 10
+demonstrata	NotreDame_De_Paris.txt 1
+demonstrate	Miserables.txt 2
+demonstrated	NotreDame_De_Paris.txt 2, Miserables.txt 2
+demonstrates	NotreDame_De_Paris.txt 1, Miserables.txt 1
+demonstrating	NotreDame_De_Paris.txt 1
+demonstration	Miserables.txt 2
+demonstrations	Miserables.txt 1
+demonstrator	NotreDame_De_Paris.txt 1, Miserables.txt 1
+demontrais	Miserables.txt 1
+demoralized	Miserables.txt 1
+demos	Miserables.txt 1
+den	NotreDame_De_Paris.txt 7, Miserables.txt 20
+denarios	NotreDame_De_Paris.txt 1
+denial	NotreDame_De_Paris.txt 2, Miserables.txt 8
+denials	Miserables.txt 3
+denied	NotreDame_De_Paris.txt 2, Miserables.txt 12
+deniers	NotreDame_De_Paris.txt 14
+denies	Miserables.txt 7
+denis	NotreDame_De_Paris.txt 17, Miserables.txt 30
+denizens	Miserables.txt 1
+denominated	Miserables.txt 2
+denoted	Miserables.txt 1
+denotes	Miserables.txt 1
+denounce	NotreDame_De_Paris.txt 1, Miserables.txt 14
+denounced	NotreDame_De_Paris.txt 3, Miserables.txt 14
+denounces	Miserables.txt 1
+denouncing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dens	Miserables.txt 1
+dense	NotreDame_De_Paris.txt 9, Miserables.txt 16
+densely	Miserables.txt 1
+denseness	Miserables.txt 1
+denser	Miserables.txt 2
+densest	Miserables.txt 2
+densities	Miserables.txt 1
+density	Miserables.txt 9
+dental	Miserables.txt 2
+dentated	NotreDame_De_Paris.txt 1
+dented	Miserables.txt 1
+denticulation	NotreDame_De_Paris.txt 1
+denticulations	NotreDame_De_Paris.txt 1
+dentist	Miserables.txt 3
+dentro	NotreDame_De_Paris.txt 2
+denudation	Miserables.txt 1
+denuded	NotreDame_De_Paris.txt 1, Miserables.txt 1
+denunciation	Miserables.txt 1
+denunciator	NotreDame_De_Paris.txt 1, Miserables.txt 1
+deny	NotreDame_De_Paris.txt 8, Miserables.txt 12
+denying	NotreDame_De_Paris.txt 2
+deo	Miserables.txt 1
+depart	NotreDame_De_Paris.txt 3, Miserables.txt 7
+departed	NotreDame_De_Paris.txt 7, Miserables.txt 16
+departing	NotreDame_De_Paris.txt 2, Miserables.txt 4
+department	Miserables.txt 12
+departmental	Miserables.txt 1
+departments	Miserables.txt 4
+departs	Miserables.txt 3
+departure	NotreDame_De_Paris.txt 6, Miserables.txt 67
+departures	Miserables.txt 2
+depeche	Miserables.txt 1
+depend	NotreDame_De_Paris.txt 1, Miserables.txt 4
+depended	NotreDame_De_Paris.txt 2, Miserables.txt 4
+dependency	NotreDame_De_Paris.txt 1
+dependent	NotreDame_De_Paris.txt 1
+dependents	Miserables.txt 1
+depending	Miserables.txt 3
+depends	NotreDame_De_Paris.txt 3, Miserables.txt 2
+depict	Miserables.txt 2
+depicted	NotreDame_De_Paris.txt 3, Miserables.txt 4
+depicting	NotreDame_De_Paris.txt 1, Miserables.txt 1
+depleted	NotreDame_De_Paris.txt 1
+deplorable	NotreDame_De_Paris.txt 2
+deplore	Miserables.txt 1
+deployed	Miserables.txt 4
+depopulated	Miserables.txt 2
+depopulates	Miserables.txt 1
+deposit	NotreDame_De_Paris.txt 2, Miserables.txt 13
+deposited	NotreDame_De_Paris.txt 9, Miserables.txt 28
+depositing	NotreDame_De_Paris.txt 1, Miserables.txt 3
+deposition	NotreDame_De_Paris.txt 2, Miserables.txt 5
+depositions	Miserables.txt 2
+deposits	NotreDame_De_Paris.txt 1
+depraved	NotreDame_De_Paris.txt 2, Miserables.txt 2
+deprecated	Miserables.txt 1
+depressed	NotreDame_De_Paris.txt 1, Miserables.txt 1
+depresses	Miserables.txt 1
+depressing	Miserables.txt 2
+depression	NotreDame_De_Paris.txt 2, Miserables.txt 5
+deprivation	Miserables.txt 1
+deprive	Miserables.txt 6
+deprived	NotreDame_De_Paris.txt 5, Miserables.txt 8
+deprives	Miserables.txt 2
+depriving	Miserables.txt 1
+depth	NotreDame_De_Paris.txt 1, Miserables.txt 32
+depths	NotreDame_De_Paris.txt 17, Miserables.txt 107
+depuratory	Miserables.txt 1
+deputies	Miserables.txt 4
+deputy	Miserables.txt 4
+der	NotreDame_De_Paris.txt 1, Miserables.txt 1
+derailed	Miserables.txt 2
+derailment	Miserables.txt 1
+deranged	Miserables.txt 1
+derbac	Miserables.txt 1
+derided	Miserables.txt 1
+derides	Miserables.txt 1
+derision	NotreDame_De_Paris.txt 5, Miserables.txt 1
+derisive	NotreDame_De_Paris.txt 3, Miserables.txt 1
+derivative	NotreDame_De_Paris.txt 3, Miserables.txt 5
+derivatives	Miserables.txt 1
+derive	NotreDame_De_Paris.txt 1, Miserables.txt 2
+derived	NotreDame_De_Paris.txt 5, Miserables.txt 9
+derniers	NotreDame_De_Paris.txt 1
+dervishes	Miserables.txt 1
+des	NotreDame_De_Paris.txt 60, Miserables.txt 156
+desaix	Miserables.txt 1
+desaugiers	Miserables.txt 3
+descamisados	Miserables.txt 2
+descartes	Miserables.txt 5
+descend	NotreDame_De_Paris.txt 12, Miserables.txt 28
+descendant	Miserables.txt 2
+descended	NotreDame_De_Paris.txt 24, Miserables.txt 59
+descending	NotreDame_De_Paris.txt 7, Miserables.txt 22
+descends	Miserables.txt 9
+descent	NotreDame_De_Paris.txt 2, Miserables.txt 13
+descents	NotreDame_De_Paris.txt 1
+describe	NotreDame_De_Paris.txt 4, Miserables.txt 2
+described	NotreDame_De_Paris.txt 7, Miserables.txt 16
+describes	Miserables.txt 3
+describing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+descried	NotreDame_De_Paris.txt 3, Miserables.txt 10
+description	NotreDame_De_Paris.txt 3, Miserables.txt 14
+descry	Miserables.txt 3
+deseaved	Miserables.txt 1
+deserre	Miserables.txt 1
+desert	NotreDame_De_Paris.txt 4, Miserables.txt 10
+deserted	NotreDame_De_Paris.txt 26, Miserables.txt 74
+deserters	Miserables.txt 2
+deserting	Miserables.txt 2
+desertion	NotreDame_De_Paris.txt 1
+deserts	NotreDame_De_Paris.txt 1
+deserve	NotreDame_De_Paris.txt 3, Miserables.txt 4
+deserved	NotreDame_De_Paris.txt 1, Miserables.txt 7
+deserves	NotreDame_De_Paris.txt 3, Miserables.txt 2
+deservest	Miserables.txt 1
+deserving	NotreDame_De_Paris.txt 1, Miserables.txt 5
+desiccating	Miserables.txt 1
+design	NotreDame_De_Paris.txt 1, Miserables.txt 2
+designate	NotreDame_De_Paris.txt 1, Miserables.txt 7
+designated	NotreDame_De_Paris.txt 2, Miserables.txt 20
+designates	Miserables.txt 2
+designating	Miserables.txt 2
+designation	Miserables.txt 1
+designations	NotreDame_De_Paris.txt 1
+designed	Miserables.txt 2
+designs	NotreDame_De_Paris.txt 2, Miserables.txt 1
+desirable	Miserables.txt 4
+desire	NotreDame_De_Paris.txt 13, Miserables.txt 55
+desired	NotreDame_De_Paris.txt 6, Miserables.txt 26
+desires	NotreDame_De_Paris.txt 4, Miserables.txt 21
+desiring	Miserables.txt 2
+desirous	NotreDame_De_Paris.txt 4, Miserables.txt 17
+desk	Miserables.txt 8
+desks	NotreDame_De_Paris.txt 1
+desmarets	Miserables.txt 1
+desmeared	NotreDame_De_Paris.txt 1
+desmoulins	Miserables.txt 4
+desnouettes	Miserables.txt 2
+desnoyer	Miserables.txt 1
+desolate	NotreDame_De_Paris.txt 1, Miserables.txt 1
+desolations	Miserables.txt 3
+despair	NotreDame_De_Paris.txt 34, Miserables.txt 79
+despaired	Miserables.txt 2
+despairing	NotreDame_De_Paris.txt 2, Miserables.txt 18
+despairs	Miserables.txt 3
+despatch	NotreDame_De_Paris.txt 1, Miserables.txt 3
+despatched	NotreDame_De_Paris.txt 2, Miserables.txt 9
+despatches	NotreDame_De_Paris.txt 2, Miserables.txt 1
+despatching	Miserables.txt 2
+desperate	NotreDame_De_Paris.txt 8, Miserables.txt 30
+desperately	NotreDame_De_Paris.txt 1, Miserables.txt 7
+desperation	NotreDame_De_Paris.txt 1, Miserables.txt 2
+despicable	Miserables.txt 1
+despise	NotreDame_De_Paris.txt 4, Miserables.txt 9
+despised	NotreDame_De_Paris.txt 3, Miserables.txt 6
+despises	Miserables.txt 1
+despite	NotreDame_De_Paris.txt 2, Miserables.txt 3
+despoil	Miserables.txt 1
+despoiled	NotreDame_De_Paris.txt 2, Miserables.txt 2
+despondency	Miserables.txt 3
+despondent	Miserables.txt 1
+despot	Miserables.txt 12
+despotic	Miserables.txt 2
+despotism	Miserables.txt 10
+despots	Miserables.txt 3
+despreaux	NotreDame_De_Paris.txt 1
+desprez	Miserables.txt 1
+desrues	Miserables.txt 1
+dessert	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dessolles	Miserables.txt 1
+dessous	Miserables.txt 2
+dessus	NotreDame_De_Paris.txt 1
+destin	Miserables.txt 1
+destination	NotreDame_De_Paris.txt 1, Miserables.txt 3
+destined	NotreDame_De_Paris.txt 6, Miserables.txt 23
+destinies	NotreDame_De_Paris.txt 2, Miserables.txt 9
+destining	Miserables.txt 1
+destiny	NotreDame_De_Paris.txt 7, Miserables.txt 77
+destitute	NotreDame_De_Paris.txt 1, Miserables.txt 4
+destitution	Miserables.txt 9
+destitutions	Miserables.txt 1
+destroy	NotreDame_De_Paris.txt 6, Miserables.txt 12
+destroyed	NotreDame_De_Paris.txt 9, Miserables.txt 13
+destroying	NotreDame_De_Paris.txt 2, Miserables.txt 3
+destruction	NotreDame_De_Paris.txt 2, Miserables.txt 5
+destructive	Miserables.txt 1
+detach	NotreDame_De_Paris.txt 3, Miserables.txt 4
+detached	NotreDame_De_Paris.txt 8, Miserables.txt 20
+detaching	NotreDame_De_Paris.txt 3
+detachment	Miserables.txt 9
+detail	NotreDame_De_Paris.txt 4, Miserables.txt 33
+detailed	Miserables.txt 2
+details	NotreDame_De_Paris.txt 8, Miserables.txt 33
+detain	Miserables.txt 3
+detained	NotreDame_De_Paris.txt 3, Miserables.txt 7
+detaining	Miserables.txt 1
+detected	Miserables.txt 2
+detention	Miserables.txt 1
+deteriorated	Miserables.txt 1
+determinances	NotreDame_De_Paris.txt 1
+determination	Miserables.txt 2
+determine	NotreDame_De_Paris.txt 2, Miserables.txt 3
+determined	NotreDame_De_Paris.txt 5, Miserables.txt 9
+determines	Miserables.txt 1
+determining	Miserables.txt 2
+deterred	Miserables.txt 1
+detest	Miserables.txt 5
+detestable	NotreDame_De_Paris.txt 1, Miserables.txt 4
+detested	Miserables.txt 5
+detesting	NotreDame_De_Paris.txt 1
+detests	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dethrone	NotreDame_De_Paris.txt 1
+dethroned	NotreDame_De_Paris.txt 3, Miserables.txt 1
+dethroning	NotreDame_De_Paris.txt 1
+detonation	NotreDame_De_Paris.txt 2, Miserables.txt 4
+detour	Miserables.txt 1
+detours	Miserables.txt 1
+detract	NotreDame_De_Paris.txt 1, Miserables.txt 1
+detracted	Miserables.txt 4
+detritus	Miserables.txt 2
+deuce	NotreDame_De_Paris.txt 8, Miserables.txt 30
+deum	NotreDame_De_Paris.txt 4, Miserables.txt 4
+deus	NotreDame_De_Paris.txt 4
+deutz	Miserables.txt 1
+deux	Miserables.txt 14
+deuxmilliards	Miserables.txt 1
+devait	Miserables.txt 1
+devant	NotreDame_De_Paris.txt 1, Miserables.txt 1
+devastate	NotreDame_De_Paris.txt 1
+devastated	NotreDame_De_Paris.txt 1, Miserables.txt 2
+develop	NotreDame_De_Paris.txt 4, Miserables.txt 6
+developed	NotreDame_De_Paris.txt 9, Miserables.txt 11
+developing	NotreDame_De_Paris.txt 1
+development	NotreDame_De_Paris.txt 2, Miserables.txt 8
+developments	NotreDame_De_Paris.txt 1
+develops	NotreDame_De_Paris.txt 2, Miserables.txt 3
+deviation	Miserables.txt 1
+deviations	NotreDame_De_Paris.txt 2
+device	NotreDame_De_Paris.txt 4, Miserables.txt 6
+devices	Miserables.txt 7
+devil	NotreDame_De_Paris.txt 72, Miserables.txt 57
+devilish	NotreDame_De_Paris.txt 2, Miserables.txt 3
+devils	NotreDame_De_Paris.txt 2, Miserables.txt 4
+devise	NotreDame_De_Paris.txt 1, Miserables.txt 3
+devised	NotreDame_De_Paris.txt 2
+devising	Miserables.txt 1
+devisser	Miserables.txt 1
+devoid	NotreDame_De_Paris.txt 2, Miserables.txt 3
+devolny	Miserables.txt 1
+devolving	Miserables.txt 2
+devorant	Miserables.txt 1
+devote	Miserables.txt 3
+devoted	NotreDame_De_Paris.txt 2, Miserables.txt 13
+devotee	Miserables.txt 2
+devotees	NotreDame_De_Paris.txt 1
+devotion	NotreDame_De_Paris.txt 7, Miserables.txt 24
+devour	NotreDame_De_Paris.txt 5, Miserables.txt 15
+devoured	NotreDame_De_Paris.txt 16, Miserables.txt 5
+devourer	NotreDame_De_Paris.txt 1
+devouring	NotreDame_De_Paris.txt 4, Miserables.txt 6
+devours	NotreDame_De_Paris.txt 3, Miserables.txt 3
+devout	NotreDame_De_Paris.txt 8, Miserables.txt 1
+devoutly	NotreDame_De_Paris.txt 5, Miserables.txt 2
+devoutness	NotreDame_De_Paris.txt 2
+devrait	Miserables.txt 2
+dew	NotreDame_De_Paris.txt 1, Miserables.txt 10
+dexeubolos	NotreDame_De_Paris.txt 1
+dexterity	NotreDame_De_Paris.txt 2
+diabetes	Miserables.txt 1
+diable	NotreDame_De_Paris.txt 1, Miserables.txt 3
+diables	Miserables.txt 1
+diabolical	NotreDame_De_Paris.txt 2, Miserables.txt 1
+diabolically	NotreDame_De_Paris.txt 1
+diabolus	Miserables.txt 1
+diaconate	Miserables.txt 1
+diacre	NotreDame_De_Paris.txt 1
+diadem	NotreDame_De_Paris.txt 1
+diagnosed	Miserables.txt 1
+diagnoses	NotreDame_De_Paris.txt 1
+diagnosis	Miserables.txt 2
+diagonal	Miserables.txt 1
+diagonally	Miserables.txt 1
+dialect	Miserables.txt 12
+dialects	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dialogue	NotreDame_De_Paris.txt 3, Miserables.txt 23
+dialogues	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dialogus	NotreDame_De_Paris.txt 1
+diameter	NotreDame_De_Paris.txt 1, Miserables.txt 3
+diametrically	NotreDame_De_Paris.txt 1
+diamond	NotreDame_De_Paris.txt 2, Miserables.txt 5
+diamonds	NotreDame_De_Paris.txt 2, Miserables.txt 10
+diana	NotreDame_De_Paris.txt 2, Miserables.txt 2
+diane	NotreDame_De_Paris.txt 8, Miserables.txt 1
+diaphaneity	Miserables.txt 2
+diaphanous	NotreDame_De_Paris.txt 1
+diaphragm	Miserables.txt 1
+diaphragms	Miserables.txt 1
+diatribe	Miserables.txt 2
+diavolus	NotreDame_De_Paris.txt 1
+dicas	Miserables.txt 1
+dice	NotreDame_De_Paris.txt 6
+dicere	Miserables.txt 1
+dicite	NotreDame_De_Paris.txt 1
+dictate	NotreDame_De_Paris.txt 1, Miserables.txt 5
+dictated	NotreDame_De_Paris.txt 1, Miserables.txt 5
+dictates	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dictation	NotreDame_De_Paris.txt 3, Miserables.txt 2
+dictator	Miserables.txt 1
+dictatorship	Miserables.txt 1
+dictees	Miserables.txt 1
+dictionaries	Miserables.txt 1
+dictionary	Miserables.txt 2
+dicto	NotreDame_De_Paris.txt 1
+did	NotreDame_De_Paris.txt 225, Miserables.txt 994
+didascalon	NotreDame_De_Paris.txt 1
+diderot	Miserables.txt 8
+didn	Miserables.txt 14
+didorus	Miserables.txt 1
+didst	Miserables.txt 9
+didymus	NotreDame_De_Paris.txt 2
+die	NotreDame_De_Paris.txt 35, Miserables.txt 119
+died	NotreDame_De_Paris.txt 19, Miserables.txt 59
+dien	NotreDame_De_Paris.txt 1
+dieppe	NotreDame_De_Paris.txt 1
+dier	Miserables.txt 1
+dies	NotreDame_De_Paris.txt 2, Miserables.txt 13
+diet	Miserables.txt 3
+dieu	NotreDame_De_Paris.txt 52, Miserables.txt 34
+differed	Miserables.txt 2
+difference	NotreDame_De_Paris.txt 8, Miserables.txt 34
+differences	NotreDame_De_Paris.txt 2, Miserables.txt 2
+different	NotreDame_De_Paris.txt 15, Miserables.txt 49
+differently	NotreDame_De_Paris.txt 2, Miserables.txt 1
+differing	NotreDame_De_Paris.txt 1, Miserables.txt 1
+differs	Miserables.txt 1
+difficult	NotreDame_De_Paris.txt 15, Miserables.txt 39
+difficulties	Miserables.txt 5
+difficulty	NotreDame_De_Paris.txt 12, Miserables.txt 53
+difforme	NotreDame_De_Paris.txt 1
+diffuse	NotreDame_De_Paris.txt 1, Miserables.txt 4
+diffused	NotreDame_De_Paris.txt 2, Miserables.txt 4
+diffuses	Miserables.txt 1
+dig	Miserables.txt 6
+digest	Miserables.txt 2
+digested	NotreDame_De_Paris.txt 2, Miserables.txt 1
+digesting	Miserables.txt 1
+digestion	Miserables.txt 4
+digestive	Miserables.txt 1
+digger	Miserables.txt 50
+diggers	Miserables.txt 2
+digging	NotreDame_De_Paris.txt 2, Miserables.txt 4
+dignae	Miserables.txt 1
+dignified	NotreDame_De_Paris.txt 2, Miserables.txt 7
+dignify	Miserables.txt 1
+dignifying	Miserables.txt 1
+dignitaries	NotreDame_De_Paris.txt 3
+dignitas	NotreDame_De_Paris.txt 1
+dignite	Miserables.txt 1
+dignities	NotreDame_De_Paris.txt 1, Miserables.txt 5
+dignity	NotreDame_De_Paris.txt 5, Miserables.txt 23
+digression	Miserables.txt 3
+digs	Miserables.txt 4
+digue	Miserables.txt 1
+dike	NotreDame_De_Paris.txt 1, Miserables.txt 3
+diked	Miserables.txt 1
+dikes	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dilapidated	NotreDame_De_Paris.txt 2, Miserables.txt 18
+dilapidation	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dilapitated	NotreDame_De_Paris.txt 1
+dilated	NotreDame_De_Paris.txt 2, Miserables.txt 2
+dilates	Miserables.txt 3
+dilating	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dilemma	NotreDame_De_Paris.txt 2, Miserables.txt 7
+dilemmas	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dilettante	Miserables.txt 1
+diligence	NotreDame_De_Paris.txt 1, Miserables.txt 21
+diligences	Miserables.txt 3
+diligent	NotreDame_De_Paris.txt 1
+diligently	Miserables.txt 1
+dilute	Miserables.txt 1
+dim	NotreDame_De_Paris.txt 2, Miserables.txt 11
+dimensions	Miserables.txt 4
+dimidiam	NotreDame_De_Paris.txt 1
+dimidio	NotreDame_De_Paris.txt 1
+diminish	Miserables.txt 4
+diminished	NotreDame_De_Paris.txt 1, Miserables.txt 10
+diminishes	Miserables.txt 4
+diminishing	Miserables.txt 6
+diminution	Miserables.txt 8
+diminutive	Miserables.txt 2
+diminutiveness	Miserables.txt 1
+dimly	NotreDame_De_Paris.txt 5, Miserables.txt 5
+dimmed	Miserables.txt 2
+dimness	Miserables.txt 3
+dimple	Miserables.txt 1
+dimpled	Miserables.txt 2
+din	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dinary	NotreDame_De_Paris.txt 1
+dincourt	Miserables.txt 1
+dine	Miserables.txt 15
+dined	Miserables.txt 13
+diner	Miserables.txt 1
+ding	Miserables.txt 2
+dingy	NotreDame_De_Paris.txt 2
+dining	Miserables.txt 23
+dinner	NotreDame_De_Paris.txt 1, Miserables.txt 37
+dinners	Miserables.txt 5
+dint	NotreDame_De_Paris.txt 2, Miserables.txt 28
+diocesan	Miserables.txt 1
+diocese	Miserables.txt 13
+diogenes	NotreDame_De_Paris.txt 2, Miserables.txt 10
+diomed	Miserables.txt 1
+diomedes	Miserables.txt 1
+dion	Miserables.txt 1
+dip	NotreDame_De_Paris.txt 1, Miserables.txt 1
+diplomacy	Miserables.txt 3
+diplomat	NotreDame_De_Paris.txt 1, Miserables.txt 1
+diplomatic	Miserables.txt 1
+dipped	NotreDame_De_Paris.txt 1, Miserables.txt 8
+dipper	NotreDame_De_Paris.txt 1
+dipping	Miserables.txt 3
+dips	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dirais	Miserables.txt 1
+dire	NotreDame_De_Paris.txt 1, Miserables.txt 2
+direct	NotreDame_De_Paris.txt 5, Miserables.txt 20
+directed	NotreDame_De_Paris.txt 14, Miserables.txt 55
+directing	NotreDame_De_Paris.txt 3, Miserables.txt 9
+direction	NotreDame_De_Paris.txt 25, Miserables.txt 121
+directions	NotreDame_De_Paris.txt 4, Miserables.txt 13
+directly	NotreDame_De_Paris.txt 7, Miserables.txt 27
+directness	Miserables.txt 1
+director	NotreDame_De_Paris.txt 1, Miserables.txt 8
+directory	Miserables.txt 6
+directs	Miserables.txt 1
+dirt	Miserables.txt 5
+dirty	NotreDame_De_Paris.txt 7, Miserables.txt 12
+dis	Miserables.txt 2
+disabled	Miserables.txt 2
+disabling	Miserables.txt 1
+disaccord	Miserables.txt 1
+disadvantage	Miserables.txt 2
+disadvantages	Miserables.txt 1
+disaggregate	Miserables.txt 1
+disaggregation	Miserables.txt 1
+disagreeable	NotreDame_De_Paris.txt 6, Miserables.txt 13
+disagreement	Miserables.txt 1
+disappear	NotreDame_De_Paris.txt 13, Miserables.txt 21
+disappearance	NotreDame_De_Paris.txt 2, Miserables.txt 14
+disappearances	Miserables.txt 3
+disappeared	NotreDame_De_Paris.txt 41, Miserables.txt 105
+disappearing	NotreDame_De_Paris.txt 1, Miserables.txt 12
+disappears	NotreDame_De_Paris.txt 2, Miserables.txt 10
+disappointed	NotreDame_De_Paris.txt 1
+disappointment	NotreDame_De_Paris.txt 2, Miserables.txt 5
+disappointments	Miserables.txt 1
+disapprove	Miserables.txt 1
+disarm	Miserables.txt 1
+disarmed	NotreDame_De_Paris.txt 1, Miserables.txt 6
+disarming	Miserables.txt 1
+disarrange	NotreDame_De_Paris.txt 1, Miserables.txt 3
+disarranged	NotreDame_De_Paris.txt 2, Miserables.txt 2
+disarranges	Miserables.txt 2
+disarranging	Miserables.txt 2
+disarray	NotreDame_De_Paris.txt 2, Miserables.txt 1
+disassociated	Miserables.txt 1
+disaster	NotreDame_De_Paris.txt 1, Miserables.txt 12
+disasters	Miserables.txt 2
+disastrous	Miserables.txt 4
+disastrously	Miserables.txt 1
+disbanding	Miserables.txt 1
+discarded	Miserables.txt 2
+discarding	Miserables.txt 1
+discern	Miserables.txt 1
+discerned	NotreDame_De_Paris.txt 2, Miserables.txt 4
+discernible	Miserables.txt 7
+discernment	NotreDame_De_Paris.txt 1, Miserables.txt 1
+discharge	NotreDame_De_Paris.txt 7, Miserables.txt 23
+discharged	NotreDame_De_Paris.txt 3, Miserables.txt 17
+discharges	NotreDame_De_Paris.txt 1, Miserables.txt 6
+discharging	NotreDame_De_Paris.txt 1, Miserables.txt 3
+disciple	NotreDame_De_Paris.txt 2, Miserables.txt 2
+disciplina	NotreDame_De_Paris.txt 1
+disciplinae	Miserables.txt 1
+discipline	NotreDame_De_Paris.txt 7, Miserables.txt 13
+disciplined	NotreDame_De_Paris.txt 2, Miserables.txt 1
+discipulorum	NotreDame_De_Paris.txt 1
+disclaim	NotreDame_De_Paris.txt 1, Miserables.txt 1
+disclaimer	NotreDame_De_Paris.txt 3, Miserables.txt 3
+disclaimers	NotreDame_De_Paris.txt 1, Miserables.txt 1
+disclose	Miserables.txt 1
+disclosed	Miserables.txt 2
+disclosing	Miserables.txt 1
+discobols	Miserables.txt 1
+discomfited	NotreDame_De_Paris.txt 2
+discomfiture	NotreDame_De_Paris.txt 1, Miserables.txt 1
+discomfort	NotreDame_De_Paris.txt 1, Miserables.txt 4
+discommoded	Miserables.txt 1
+disconcert	Miserables.txt 3
+disconcerted	NotreDame_De_Paris.txt 2, Miserables.txt 9
+disconcerts	Miserables.txt 4
+disconsolate	Miserables.txt 1
+discontent	NotreDame_De_Paris.txt 3
+discontented	Miserables.txt 3
+discontinue	NotreDame_De_Paris.txt 2, Miserables.txt 1
+discontinued	Miserables.txt 4
+discord	NotreDame_De_Paris.txt 1, Miserables.txt 1
+discordant	Miserables.txt 1
+discount	Miserables.txt 2
+discounts	Miserables.txt 1
+discourage	Miserables.txt 1
+discouraged	NotreDame_De_Paris.txt 4, Miserables.txt 6
+discouragement	NotreDame_De_Paris.txt 2, Miserables.txt 2
+discouragements	Miserables.txt 1
+discourse	Miserables.txt 4
+discoursed	Miserables.txt 1
+discourses	Miserables.txt 1
+discover	NotreDame_De_Paris.txt 5, Miserables.txt 14
+discovered	NotreDame_De_Paris.txt 5, Miserables.txt 37
+discoveries	NotreDame_De_Paris.txt 1, Miserables.txt 2
+discovering	NotreDame_De_Paris.txt 1, Miserables.txt 4
+discovers	NotreDame_De_Paris.txt 1, Miserables.txt 1
+discovery	NotreDame_De_Paris.txt 1, Miserables.txt 8
+discredit	Miserables.txt 2
+discreet	NotreDame_De_Paris.txt 4, Miserables.txt 10
+discreetly	Miserables.txt 6
+discretion	NotreDame_De_Paris.txt 1, Miserables.txt 6
+discretionary	Miserables.txt 1
+disculpates	Miserables.txt 1
+discuss	Miserables.txt 9
+discussed	Miserables.txt 6
+discussing	NotreDame_De_Paris.txt 1, Miserables.txt 7
+discussion	Miserables.txt 11
+discussions	Miserables.txt 1
+disdain	NotreDame_De_Paris.txt 12, Miserables.txt 11
+disdained	NotreDame_De_Paris.txt 1, Miserables.txt 4
+disdainful	NotreDame_De_Paris.txt 3, Miserables.txt 7
+disdainfully	NotreDame_De_Paris.txt 1, Miserables.txt 3
+disdaining	Miserables.txt 1
+disdains	Miserables.txt 2
+disease	NotreDame_De_Paris.txt 1, Miserables.txt 6
+diseased	Miserables.txt 1
+diseases	Miserables.txt 1
+disembark	NotreDame_De_Paris.txt 1
+disembarkation	Miserables.txt 1
+disembarking	Miserables.txt 3
+disembowelled	NotreDame_De_Paris.txt 2, Miserables.txt 3
+disenchant	NotreDame_De_Paris.txt 1
+disenchanted	NotreDame_De_Paris.txt 1
+disencumbered	Miserables.txt 2
+disengage	NotreDame_De_Paris.txt 1, Miserables.txt 2
+disengaged	NotreDame_De_Paris.txt 1, Miserables.txt 5
+disengaging	Miserables.txt 1
+disentangle	Miserables.txt 2
+disentangled	NotreDame_De_Paris.txt 2, Miserables.txt 1
+disentangling	Miserables.txt 1
+disfavor	Miserables.txt 1
+disfigure	NotreDame_De_Paris.txt 4, Miserables.txt 1
+disfigured	NotreDame_De_Paris.txt 2, Miserables.txt 7
+disfigurement	Miserables.txt 1
+disfrocked	NotreDame_De_Paris.txt 1
+disgorged	NotreDame_De_Paris.txt 1
+disgrace	NotreDame_De_Paris.txt 2, Miserables.txt 13
+disgraced	Miserables.txt 2
+disgraceful	Miserables.txt 1
+disgraces	Miserables.txt 2
+disguise	NotreDame_De_Paris.txt 1, Miserables.txt 12
+disguised	Miserables.txt 9
+disguises	Miserables.txt 1
+disguising	Miserables.txt 1
+disgust	NotreDame_De_Paris.txt 4, Miserables.txt 6
+disgusted	NotreDame_De_Paris.txt 1, Miserables.txt 2
+disgusting	Miserables.txt 1
+disgusts	Miserables.txt 2
+dish	NotreDame_De_Paris.txt 3, Miserables.txt 10
+dishclouts	Miserables.txt 1
+disheartened	NotreDame_De_Paris.txt 1
+dishes	NotreDame_De_Paris.txt 1, Miserables.txt 6
+dishevelled	NotreDame_De_Paris.txt 6, Miserables.txt 7
+dishevelment	Miserables.txt 1
+dishevelments	Miserables.txt 1
+dishonest	Miserables.txt 1
+dishonor	Miserables.txt 2
+dishonorable	NotreDame_De_Paris.txt 1
+dishonored	NotreDame_De_Paris.txt 2, Miserables.txt 2
+disinclined	NotreDame_De_Paris.txt 1, Miserables.txt 1
+disinfected	Miserables.txt 2
+disinfection	Miserables.txt 2
+disingenuous	Miserables.txt 1
+disinherit	Miserables.txt 2
+disinherited	Miserables.txt 4
+disintegrated	Miserables.txt 1
+disintegration	Miserables.txt 1
+disinterested	Miserables.txt 5
+disinterestedness	Miserables.txt 6
+disjointed	Miserables.txt 1
+disk	NotreDame_De_Paris.txt 2, Miserables.txt 2
+disks	NotreDame_De_Paris.txt 1
+dislike	Miserables.txt 2
+dislocate	Miserables.txt 1
+dislocated	NotreDame_De_Paris.txt 2, Miserables.txt 6
+dislocation	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dislodge	NotreDame_De_Paris.txt 1
+dislodged	Miserables.txt 5
+dislodging	NotreDame_De_Paris.txt 1
+disloyalty	NotreDame_De_Paris.txt 1
+dismal	Miserables.txt 7
+dismally	Miserables.txt 1
+dismantle	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dismantled	NotreDame_De_Paris.txt 1, Miserables.txt 5
+dismas	Miserables.txt 6
+dismay	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dismayed	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dismembered	NotreDame_De_Paris.txt 1
+dismemberment	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dismiss	Miserables.txt 5
+dismissal	Miserables.txt 3
+dismissed	NotreDame_De_Paris.txt 1, Miserables.txt 9
+dismisses	Miserables.txt 1
+dismissing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dismount	Miserables.txt 1
+dismounted	NotreDame_De_Paris.txt 1, Miserables.txt 2
+disobedient	Miserables.txt 1
+disobey	Miserables.txt 1
+disobeying	Miserables.txt 1
+disobliging	Miserables.txt 1
+disome	NotreDame_De_Paris.txt 1
+disorder	NotreDame_De_Paris.txt 8, Miserables.txt 21
+disordered	NotreDame_De_Paris.txt 3, Miserables.txt 3
+disorderly	NotreDame_De_Paris.txt 3, Miserables.txt 2
+disorganization	Miserables.txt 1
+disorganized	NotreDame_De_Paris.txt 1, Miserables.txt 2
+disorganizes	Miserables.txt 1
+disorganizing	Miserables.txt 1
+disown	Miserables.txt 2
+disowned	Miserables.txt 2
+dispel	Miserables.txt 1
+dispelled	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dispensary	Miserables.txt 1
+dispensation	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dispensations	Miserables.txt 1
+dispense	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dispensed	NotreDame_De_Paris.txt 2
+dispenser	Miserables.txt 1
+disperse	Miserables.txt 2
+dispersed	NotreDame_De_Paris.txt 2, Miserables.txt 12
+disperses	Miserables.txt 3
+dispersion	Miserables.txt 1
+displace	Miserables.txt 3
+displaced	NotreDame_De_Paris.txt 1, Miserables.txt 6
+displacement	Miserables.txt 2
+display	NotreDame_De_Paris.txt 3, Miserables.txt 9
+displayed	NotreDame_De_Paris.txt 2, Miserables.txt 22
+displaying	NotreDame_De_Paris.txt 7, Miserables.txt 9
+displays	Miserables.txt 3
+displease	NotreDame_De_Paris.txt 1, Miserables.txt 2
+displeased	NotreDame_De_Paris.txt 4, Miserables.txt 8
+displeases	NotreDame_De_Paris.txt 4
+displeasing	NotreDame_De_Paris.txt 2, Miserables.txt 6
+displeasure	NotreDame_De_Paris.txt 6, Miserables.txt 4
+disporting	NotreDame_De_Paris.txt 1
+disposal	Miserables.txt 5
+dispose	Miserables.txt 4
+disposed	NotreDame_De_Paris.txt 3, Miserables.txt 5
+disposing	Miserables.txt 1
+disposition	NotreDame_De_Paris.txt 3, Miserables.txt 6
+disproportionate	NotreDame_De_Paris.txt 1, Miserables.txt 1
+disproportionately	Miserables.txt 2
+disproportioned	Miserables.txt 1
+disputations	NotreDame_De_Paris.txt 1
+dispute	NotreDame_De_Paris.txt 1, Miserables.txt 8
+disputed	NotreDame_De_Paris.txt 1, Miserables.txt 3
+disputes	NotreDame_De_Paris.txt 1, Miserables.txt 3
+disputing	NotreDame_De_Paris.txt 3, Miserables.txt 2
+disquiet	NotreDame_De_Paris.txt 1, Miserables.txt 2
+disquieting	Miserables.txt 7
+disquietude	Miserables.txt 1
+disrepute	Miserables.txt 2
+disrespect	NotreDame_De_Paris.txt 1
+disrespectful	Miserables.txt 1
+dissatisfied	Miserables.txt 2
+dissecting	Miserables.txt 1
+dissects	Miserables.txt 1
+dissembling	NotreDame_De_Paris.txt 1
+disseminated	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dissensions	Miserables.txt 1
+dissertation	Miserables.txt 3
+dissidiorum	NotreDame_De_Paris.txt 1
+dissimilar	NotreDame_De_Paris.txt 1
+dissimulate	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dissimulation	Miserables.txt 3
+dissipate	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dissipated	NotreDame_De_Paris.txt 3, Miserables.txt 9
+dissipates	Miserables.txt 1
+dissipating	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dissolute	NotreDame_De_Paris.txt 1
+dissolution	Miserables.txt 1
+dissolve	Miserables.txt 2
+dissolved	Miserables.txt 6
+dissolvents	Miserables.txt 1
+dissolves	Miserables.txt 2
+dissolving	Miserables.txt 3
+dissonances	Miserables.txt 1
+dissuade	Miserables.txt 1
+distaff	NotreDame_De_Paris.txt 2
+distaffs	NotreDame_De_Paris.txt 2
+distance	NotreDame_De_Paris.txt 14, Miserables.txt 89
+distances	Miserables.txt 9
+distant	NotreDame_De_Paris.txt 10, Miserables.txt 57
+distends	Miserables.txt 1
+distich	Miserables.txt 1
+distiches	NotreDame_De_Paris.txt 1, Miserables.txt 1
+distilleries	Miserables.txt 1
+distillery	Miserables.txt 2
+distills	Miserables.txt 1
+distinct	NotreDame_De_Paris.txt 9, Miserables.txt 21
+distinction	NotreDame_De_Paris.txt 2, Miserables.txt 9
+distinctions	Miserables.txt 1
+distinctive	NotreDame_De_Paris.txt 1, Miserables.txt 1
+distinctly	NotreDame_De_Paris.txt 6, Miserables.txt 37
+distinctness	NotreDame_De_Paris.txt 1, Miserables.txt 1
+distinguish	NotreDame_De_Paris.txt 17, Miserables.txt 23
+distinguishable	Miserables.txt 3
+distinguished	NotreDame_De_Paris.txt 13, Miserables.txt 32
+distinguishes	NotreDame_De_Paris.txt 1, Miserables.txt 5
+distinguishing	NotreDame_De_Paris.txt 1
+distort	NotreDame_De_Paris.txt 1
+distorted	NotreDame_De_Paris.txt 2, Miserables.txt 1
+distract	Miserables.txt 1
+distracted	NotreDame_De_Paris.txt 5, Miserables.txt 8
+distractedly	NotreDame_De_Paris.txt 1, Miserables.txt 2
+distraction	NotreDame_De_Paris.txt 1, Miserables.txt 2
+distractions	Miserables.txt 4
+distress	NotreDame_De_Paris.txt 6, Miserables.txt 30
+distressed	NotreDame_De_Paris.txt 1
+distresses	NotreDame_De_Paris.txt 1, Miserables.txt 4
+distressing	NotreDame_De_Paris.txt 1, Miserables.txt 1
+distribute	NotreDame_De_Paris.txt 6, Miserables.txt 7
+distributed	NotreDame_De_Paris.txt 5, Miserables.txt 12
+distributes	Miserables.txt 1
+distributing	NotreDame_De_Paris.txt 7, Miserables.txt 8
+distribution	NotreDame_De_Paris.txt 8, Miserables.txt 11
+distributor	NotreDame_De_Paris.txt 1, Miserables.txt 1
+district	Miserables.txt 45
+districts	Miserables.txt 2
+distrust	NotreDame_De_Paris.txt 2, Miserables.txt 14
+distrusted	NotreDame_De_Paris.txt 1, Miserables.txt 2
+distrustful	NotreDame_De_Paris.txt 2, Miserables.txt 1
+distrusts	NotreDame_De_Paris.txt 1
+disturb	NotreDame_De_Paris.txt 3, Miserables.txt 11
+disturbance	NotreDame_De_Paris.txt 2, Miserables.txt 1
+disturbances	NotreDame_De_Paris.txt 1, Miserables.txt 1
+disturbed	NotreDame_De_Paris.txt 12, Miserables.txt 21
+disturbing	NotreDame_De_Paris.txt 2, Miserables.txt 5
+disturbs	NotreDame_De_Paris.txt 2, Miserables.txt 2
+disuse	Miserables.txt 2
+disused	Miserables.txt 1
+dit	Miserables.txt 1
+ditch	Miserables.txt 14
+ditches	Miserables.txt 4
+dithryamb	Miserables.txt 1
+dithyrambs	Miserables.txt 2
+ditto	Miserables.txt 1
+ditty	NotreDame_De_Paris.txt 5, Miserables.txt 4
+dived	Miserables.txt 2
+diver	Miserables.txt 2
+divergent	NotreDame_De_Paris.txt 1
+divers	NotreDame_De_Paris.txt 2, Miserables.txt 13
+diversa	NotreDame_De_Paris.txt 1
+diverse	NotreDame_De_Paris.txt 1, Miserables.txt 3
+diversely	Miserables.txt 1
+diversion	NotreDame_De_Paris.txt 5, Miserables.txt 9
+diversity	NotreDame_De_Paris.txt 2
+divert	Miserables.txt 4
+diverted	NotreDame_De_Paris.txt 4, Miserables.txt 5
+diverting	NotreDame_De_Paris.txt 3, Miserables.txt 1
+diverts	Miserables.txt 1
+dives	Miserables.txt 1
+divide	NotreDame_De_Paris.txt 1, Miserables.txt 1
+divided	NotreDame_De_Paris.txt 8, Miserables.txt 14
+divides	Miserables.txt 5
+dividing	Miserables.txt 2
+divin	Miserables.txt 1
+divina	Miserables.txt 1
+divination	Miserables.txt 5
+divine	NotreDame_De_Paris.txt 12, Miserables.txt 69
+divined	NotreDame_De_Paris.txt 4, Miserables.txt 29
+divinely	NotreDame_De_Paris.txt 1, Miserables.txt 4
+divinities	NotreDame_De_Paris.txt 1, Miserables.txt 1
+divinity	NotreDame_De_Paris.txt 2, Miserables.txt 2
+divinum	Miserables.txt 3
+division	Miserables.txt 18
+divisions	NotreDame_De_Paris.txt 1, Miserables.txt 9
+divorce	NotreDame_De_Paris.txt 1, Miserables.txt 1
+divorced	Miserables.txt 1
+divrs	Miserables.txt 1
+dix	Miserables.txt 2
+dizziness	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dizzy	Miserables.txt 12
+djali	NotreDame_De_Paris.txt 36
+dnop	Miserables.txt 1
+do	NotreDame_De_Paris.txt 324, Miserables.txt 932
+docile	NotreDame_De_Paris.txt 3
+docility	NotreDame_De_Paris.txt 1
+dock	Miserables.txt 3
+docket	Miserables.txt 6
+docks	Miserables.txt 1
+docteur	NotreDame_De_Paris.txt 1, Miserables.txt 1
+doctor	NotreDame_De_Paris.txt 17, Miserables.txt 89
+doctors	NotreDame_De_Paris.txt 5, Miserables.txt 5
+doctorum	NotreDame_De_Paris.txt 1
+doctrina	NotreDame_De_Paris.txt 1
+doctrinaires	Miserables.txt 1
+doctrinarian	Miserables.txt 3
+doctrinarians	Miserables.txt 3
+doctrinary	Miserables.txt 1
+doctrine	Miserables.txt 2
+doctrines	NotreDame_De_Paris.txt 1, Miserables.txt 4
+document	NotreDame_De_Paris.txt 1, Miserables.txt 3
+documents	NotreDame_De_Paris.txt 6, Miserables.txt 6
+dod	Miserables.txt 1
+dodge	Miserables.txt 2
+dodona	Miserables.txt 1
+dodu	Miserables.txt 1
+does	NotreDame_De_Paris.txt 71, Miserables.txt 344
+doeskin	NotreDame_De_Paris.txt 1
+doesn	NotreDame_De_Paris.txt 1, Miserables.txt 6
+dog	NotreDame_De_Paris.txt 26, Miserables.txt 62
+doge	NotreDame_De_Paris.txt 2
+dogged	Miserables.txt 1
+doggy	Miserables.txt 1
+dogma	NotreDame_De_Paris.txt 3, Miserables.txt 9
+dogmas	Miserables.txt 4
+dogmatic	NotreDame_De_Paris.txt 1
+dogmatism	Miserables.txt 1
+dogs	NotreDame_De_Paris.txt 13, Miserables.txt 28
+dogue	Miserables.txt 1
+doing	NotreDame_De_Paris.txt 18, Miserables.txt 78
+doings	Miserables.txt 2
+doled	Miserables.txt 1
+doleful	NotreDame_De_Paris.txt 2, Miserables.txt 3
+dolefully	Miserables.txt 3
+doll	NotreDame_De_Paris.txt 2, Miserables.txt 53
+dolls	Miserables.txt 6
+dolmans	Miserables.txt 1
+dolmen	NotreDame_De_Paris.txt 1
+dolorous	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dolphin	NotreDame_De_Paris.txt 4
+dolt	NotreDame_De_Paris.txt 2
+dolts	NotreDame_De_Paris.txt 1
+dom	NotreDame_De_Paris.txt 66, Miserables.txt 2
+domain	NotreDame_De_Paris.txt 8, Miserables.txt 11
+domaine	NotreDame_De_Paris.txt 1
+domains	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dome	NotreDame_De_Paris.txt 7, Miserables.txt 11
+domes	NotreDame_De_Paris.txt 1, Miserables.txt 1
+domestic	NotreDame_De_Paris.txt 5, Miserables.txt 10
+domesticity	Miserables.txt 1
+domestics	NotreDame_De_Paris.txt 1, Miserables.txt 3
+domicile	Miserables.txt 3
+domiciled	Miserables.txt 1
+domiciles	Miserables.txt 2
+domiciliary	Miserables.txt 1
+dominant	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dominate	Miserables.txt 3
+dominated	NotreDame_De_Paris.txt 4, Miserables.txt 8
+dominating	NotreDame_De_Paris.txt 2, Miserables.txt 2
+domination	Miserables.txt 4
+domince	NotreDame_De_Paris.txt 1
+domine	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dominicans	Miserables.txt 1
+dominique	NotreDame_De_Paris.txt 1, Miserables.txt 5
+domino	Miserables.txt 1
+dominoe	NotreDame_De_Paris.txt 2
+dominoes	Miserables.txt 2
+dominos	Miserables.txt 1
+dominum	NotreDame_De_Paris.txt 3
+dominus	NotreDame_De_Paris.txt 1, Miserables.txt 1
+domitian	Miserables.txt 2
+domne	NotreDame_De_Paris.txt 1
+domni	NotreDame_De_Paris.txt 1
+domon	Miserables.txt 2
+domum	NotreDame_De_Paris.txt 1, Miserables.txt 1
+domus	NotreDame_De_Paris.txt 1
+don	NotreDame_De_Paris.txt 34, Miserables.txt 222
+dona	Miserables.txt 1
+donate	NotreDame_De_Paris.txt 4, Miserables.txt 4
+donation	NotreDame_De_Paris.txt 1, Miserables.txt 1
+donations	NotreDame_De_Paris.txt 15, Miserables.txt 16
+donc	Miserables.txt 1
+done	NotreDame_De_Paris.txt 60, Miserables.txt 228
+dong	Miserables.txt 2
+donjon	NotreDame_De_Paris.txt 11
+donkey	Miserables.txt 1
+donnais	Miserables.txt 2
+donne	Miserables.txt 1
+donned	NotreDame_De_Paris.txt 2, Miserables.txt 4
+donning	NotreDame_De_Paris.txt 1, Miserables.txt 1
+donors	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dons	Miserables.txt 1
+donzelot	Miserables.txt 2
+doomed	Miserables.txt 1
+door	NotreDame_De_Paris.txt 166, Miserables.txt 483
+doorpost	Miserables.txt 1
+doors	NotreDame_De_Paris.txt 24, Miserables.txt 61
+doorsteps	Miserables.txt 2
+doorway	NotreDame_De_Paris.txt 1, Miserables.txt 6
+doorways	Miserables.txt 1
+dora	NotreDame_De_Paris.txt 1
+dorante	Miserables.txt 1
+dore	Miserables.txt 1
+doric	Miserables.txt 1
+dorimon	Miserables.txt 1
+doriolle	NotreDame_De_Paris.txt 1
+doris	Miserables.txt 1
+dormans	NotreDame_De_Paris.txt 2
+dormer	NotreDame_De_Paris.txt 3, Miserables.txt 9
+dormitories	Miserables.txt 6
+dormitory	NotreDame_De_Paris.txt 1, Miserables.txt 7
+dormiunt	Miserables.txt 1
+dornberg	Miserables.txt 1
+dorsal	Miserables.txt 2
+dort	Miserables.txt 1
+dos	NotreDame_De_Paris.txt 1
+dose	Miserables.txt 1
+doses	Miserables.txt 1
+dossier	Miserables.txt 1
+dost	NotreDame_De_Paris.txt 3, Miserables.txt 14
+dotage	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dotards	Miserables.txt 1
+doth	NotreDame_De_Paris.txt 8, Miserables.txt 1
+dotted	NotreDame_De_Paris.txt 1, Miserables.txt 3
+douai	Miserables.txt 2
+double	NotreDame_De_Paris.txt 29, Miserables.txt 67
+doubled	NotreDame_De_Paris.txt 6, Miserables.txt 6
+doubles	Miserables.txt 1
+doublet	NotreDame_De_Paris.txt 18
+doublets	NotreDame_De_Paris.txt 4
+doubling	NotreDame_De_Paris.txt 1
+doubly	NotreDame_De_Paris.txt 3, Miserables.txt 5
+doubt	NotreDame_De_Paris.txt 57, Miserables.txt 109
+doubted	NotreDame_De_Paris.txt 5, Miserables.txt 4
+doubtful	NotreDame_De_Paris.txt 2, Miserables.txt 6
+doubting	NotreDame_De_Paris.txt 1
+doubtless	Miserables.txt 8
+doubts	NotreDame_De_Paris.txt 2, Miserables.txt 9
+douce	Miserables.txt 1
+doulx	NotreDame_De_Paris.txt 1
+doumec	Miserables.txt 1
+doux	Miserables.txt 2
+dove	NotreDame_De_Paris.txt 2, Miserables.txt 7
+doves	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dowager	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dowagers	Miserables.txt 2
+dowered	Miserables.txt 1
+down	NotreDame_De_Paris.txt 115, Miserables.txt 331
+downcast	NotreDame_De_Paris.txt 1, Miserables.txt 9
+downfall	Miserables.txt 3
+downloading	NotreDame_De_Paris.txt 1, Miserables.txt 1
+downpour	Miserables.txt 6
+downright	Miserables.txt 4
+downs	Miserables.txt 2
+downstairs	Miserables.txt 1
+downstream	Miserables.txt 1
+downward	NotreDame_De_Paris.txt 3, Miserables.txt 8
+downwards	NotreDame_De_Paris.txt 2, Miserables.txt 3
+dowry	NotreDame_De_Paris.txt 1, Miserables.txt 3
+doze	Miserables.txt 3
+dozed	Miserables.txt 2
+dozen	NotreDame_De_Paris.txt 3, Miserables.txt 12
+dozens	Miserables.txt 1
+dozing	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dr	NotreDame_De_Paris.txt 4, Miserables.txt 2
+dracatholicum	Miserables.txt 1
+draco	Miserables.txt 1
+draft	Miserables.txt 3
+drag	NotreDame_De_Paris.txt 12, Miserables.txt 18
+dragged	NotreDame_De_Paris.txt 16, Miserables.txt 25
+dragging	NotreDame_De_Paris.txt 10, Miserables.txt 18
+dragon	NotreDame_De_Paris.txt 4, Miserables.txt 11
+dragonfly	Miserables.txt 1
+dragonnades	Miserables.txt 1
+dragons	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dragoon	Miserables.txt 5
+dragoons	Miserables.txt 18
+drags	NotreDame_De_Paris.txt 1, Miserables.txt 3
+draguignan	Miserables.txt 1
+drain	NotreDame_De_Paris.txt 1, Miserables.txt 8
+drainage	Miserables.txt 3
+drained	Miserables.txt 2
+drains	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dram	NotreDame_De_Paris.txt 8, Miserables.txt 6
+drama	NotreDame_De_Paris.txt 5, Miserables.txt 22
+dramas	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dramatic	NotreDame_De_Paris.txt 6, Miserables.txt 8
+drancy	Miserables.txt 1
+drank	NotreDame_De_Paris.txt 4, Miserables.txt 22
+drapeau	Miserables.txt 6
+draped	NotreDame_De_Paris.txt 4, Miserables.txt 7
+draperie	NotreDame_De_Paris.txt 1
+draperies	NotreDame_De_Paris.txt 3, Miserables.txt 1
+drapery	NotreDame_De_Paris.txt 3, Miserables.txt 1
+drapes	Miserables.txt 1
+draught	NotreDame_De_Paris.txt 2, Miserables.txt 5
+draughts	NotreDame_De_Paris.txt 1, Miserables.txt 1
+draw	NotreDame_De_Paris.txt 14, Miserables.txt 35
+drawbridge	NotreDame_De_Paris.txt 4
+drawer	NotreDame_De_Paris.txt 3, Miserables.txt 16
+drawers	Miserables.txt 5
+drawing	NotreDame_De_Paris.txt 9, Miserables.txt 71
+drawl	NotreDame_De_Paris.txt 1, Miserables.txt 1
+drawled	NotreDame_De_Paris.txt 1
+drawling	NotreDame_De_Paris.txt 1
+drawn	NotreDame_De_Paris.txt 15, Miserables.txt 53
+draws	NotreDame_De_Paris.txt 3, Miserables.txt 10
+dray	Miserables.txt 10
+drays	Miserables.txt 2
+dread	NotreDame_De_Paris.txt 2, Miserables.txt 1
+dreaded	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dreadful	NotreDame_De_Paris.txt 1, Miserables.txt 4
+dream	NotreDame_De_Paris.txt 14, Miserables.txt 64
+dreamed	NotreDame_De_Paris.txt 7, Miserables.txt 19
+dreamer	NotreDame_De_Paris.txt 1, Miserables.txt 12
+dreamers	Miserables.txt 7
+dreamily	NotreDame_De_Paris.txt 4
+dreaminess	Miserables.txt 2
+dreaming	NotreDame_De_Paris.txt 8, Miserables.txt 19
+dreams	NotreDame_De_Paris.txt 10, Miserables.txt 47
+dreamy	NotreDame_De_Paris.txt 6, Miserables.txt 6
+dreary	Miserables.txt 2
+dregs	NotreDame_De_Paris.txt 1, Miserables.txt 2
+drenched	NotreDame_De_Paris.txt 4, Miserables.txt 5
+dresden	Miserables.txt 2
+dresos	Miserables.txt 1
+dress	NotreDame_De_Paris.txt 8, Miserables.txt 40
+dressed	NotreDame_De_Paris.txt 19, Miserables.txt 80
+dresser	NotreDame_De_Paris.txt 2, Miserables.txt 11
+dressers	Miserables.txt 1
+dresses	Miserables.txt 6
+dressing	NotreDame_De_Paris.txt 8, Miserables.txt 22
+dressings	Miserables.txt 3
+dreux	NotreDame_De_Paris.txt 1
+drew	NotreDame_De_Paris.txt 24, Miserables.txt 113
+dried	NotreDame_De_Paris.txt 2, Miserables.txt 13
+dries	Miserables.txt 1
+drift	NotreDame_De_Paris.txt 1
+drifted	NotreDame_De_Paris.txt 1
+drifts	NotreDame_De_Paris.txt 1
+drilled	Miserables.txt 1
+drilling	Miserables.txt 1
+drink	NotreDame_De_Paris.txt 18, Miserables.txt 50
+drinkable	Miserables.txt 1
+drinker	NotreDame_De_Paris.txt 2, Miserables.txt 8
+drinkers	NotreDame_De_Paris.txt 5, Miserables.txt 11
+drinking	NotreDame_De_Paris.txt 9, Miserables.txt 29
+drinks	Miserables.txt 7
+drip	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dripped	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dripping	NotreDame_De_Paris.txt 6, Miserables.txt 14
+drippings	Miserables.txt 1
+drips	Miserables.txt 1
+drive	NotreDame_De_Paris.txt 2, Miserables.txt 15
+driven	NotreDame_De_Paris.txt 6, Miserables.txt 20
+driver	Miserables.txt 10
+drivers	Miserables.txt 2
+drives	Miserables.txt 2
+driving	NotreDame_De_Paris.txt 6, Miserables.txt 13
+drizzling	Miserables.txt 1
+drogheda	Miserables.txt 1
+droit	Miserables.txt 20
+drolesses	Miserables.txt 1
+droll	NotreDame_De_Paris.txt 4, Miserables.txt 2
+drone	NotreDame_De_Paris.txt 1
+droned	NotreDame_De_Paris.txt 2, Miserables.txt 2
+drones	NotreDame_De_Paris.txt 1
+droop	NotreDame_De_Paris.txt 2, Miserables.txt 2
+drooped	NotreDame_De_Paris.txt 2, Miserables.txt 2
+drooping	NotreDame_De_Paris.txt 6, Miserables.txt 24
+drop	NotreDame_De_Paris.txt 24, Miserables.txt 37
+dropped	NotreDame_De_Paris.txt 17, Miserables.txt 62
+dropping	NotreDame_De_Paris.txt 1, Miserables.txt 4
+drops	NotreDame_De_Paris.txt 7, Miserables.txt 18
+dropsy	NotreDame_De_Paris.txt 1
+drouet	Miserables.txt 3
+drouot	Miserables.txt 1
+drove	NotreDame_De_Paris.txt 2, Miserables.txt 7
+drover	Miserables.txt 1
+drown	NotreDame_De_Paris.txt 2, Miserables.txt 6
+drowned	NotreDame_De_Paris.txt 9, Miserables.txt 10
+drowning	Miserables.txt 7
+drownings	NotreDame_De_Paris.txt 1
+drowns	Miserables.txt 1
+drowsiness	Miserables.txt 1
+drudge	Miserables.txt 1
+drugged	Miserables.txt 1
+drugget	Miserables.txt 2
+drugs	NotreDame_De_Paris.txt 1, Miserables.txt 8
+druid	Miserables.txt 1
+druids	Miserables.txt 1
+drum	NotreDame_De_Paris.txt 2, Miserables.txt 11
+drummer	Miserables.txt 4
+drums	NotreDame_De_Paris.txt 2, Miserables.txt 8
+drunk	NotreDame_De_Paris.txt 7, Miserables.txt 33
+drunkard	Miserables.txt 5
+drunkards	Miserables.txt 1
+drunken	NotreDame_De_Paris.txt 5, Miserables.txt 16
+drunkenness	Miserables.txt 6
+dry	NotreDame_De_Paris.txt 17, Miserables.txt 31
+dryads	Miserables.txt 1
+drying	Miserables.txt 5
+dryly	NotreDame_De_Paris.txt 3, Miserables.txt 2
+dryness	NotreDame_De_Paris.txt 1
+ds	Miserables.txt 1
+du	NotreDame_De_Paris.txt 55, Miserables.txt 152
+dubarry	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dubartas	NotreDame_De_Paris.txt 1
+dubbed	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dubious	Miserables.txt 2
+dubois	Miserables.txt 3
+duc	NotreDame_De_Paris.txt 3, Miserables.txt 32
+ducal	Miserables.txt 2
+duce	Miserables.txt 2
+duchene	Miserables.txt 2
+duchesne	Miserables.txt 1
+duchess	Miserables.txt 4
+duchesse	NotreDame_De_Paris.txt 1, Miserables.txt 4
+duchesses	NotreDame_De_Paris.txt 1, Miserables.txt 4
+duchy	NotreDame_De_Paris.txt 1
+duck	Miserables.txt 3
+ducked	Miserables.txt 1
+ducks	Miserables.txt 2
+duclos	Miserables.txt 1
+ducray	Miserables.txt 2
+ducts	Miserables.txt 3
+ducum	NotreDame_De_Paris.txt 1
+duds	Miserables.txt 7
+due	NotreDame_De_Paris.txt 1, Miserables.txt 21
+duel	Miserables.txt 7
+duels	NotreDame_De_Paris.txt 1, Miserables.txt 1
+duenna	Miserables.txt 1
+dues	NotreDame_De_Paris.txt 1
+duet	NotreDame_De_Paris.txt 2
+duffer	Miserables.txt 1
+dufond	Miserables.txt 1
+dufour	Miserables.txt 1
+dufresne	Miserables.txt 1
+dug	NotreDame_De_Paris.txt 1, Miserables.txt 8
+duhesme	Miserables.txt 1
+duke	NotreDame_De_Paris.txt 33, Miserables.txt 12
+dukes	Miserables.txt 2
+duleau	Miserables.txt 1
+dull	NotreDame_De_Paris.txt 9, Miserables.txt 43
+dullards	Miserables.txt 1
+dulled	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dulls	Miserables.txt 2
+dully	Miserables.txt 1
+dulness	Miserables.txt 1
+duly	Miserables.txt 2
+dum	Miserables.txt 1
+dumarsais	Miserables.txt 1
+dumb	NotreDame_De_Paris.txt 7, Miserables.txt 5
+dumbfounded	NotreDame_De_Paris.txt 4
+dumenil	Miserables.txt 1
+duminil	Miserables.txt 1
+dumollard	Miserables.txt 1
+dumont	Miserables.txt 2
+dumouriez	Miserables.txt 1
+dung	NotreDame_De_Paris.txt 2, Miserables.txt 15
+dungeon	NotreDame_De_Paris.txt 7, Miserables.txt 10
+dungeons	Miserables.txt 7
+dunghill	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dunkerque	Miserables.txt 1
+dupe	Miserables.txt 6
+duped	Miserables.txt 1
+duperre	Miserables.txt 1
+duplat	Miserables.txt 3
+duplicates	Miserables.txt 1
+dupont	Miserables.txt 1
+duprat	Miserables.txt 1
+dupuytren	Miserables.txt 2
+duquesne	Miserables.txt 1
+durable	NotreDame_De_Paris.txt 6
+durance	Miserables.txt 1
+duras	Miserables.txt 1
+duration	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dure	Miserables.txt 1
+durer	Miserables.txt 3
+durham	Miserables.txt 1
+duri	NotreDame_De_Paris.txt 1
+during	NotreDame_De_Paris.txt 47, Miserables.txt 131
+durs	Miserables.txt 1
+durutte	Miserables.txt 3
+dusk	Miserables.txt 15
+dusky	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dust	NotreDame_De_Paris.txt 8, Miserables.txt 33
+dusted	NotreDame_De_Paris.txt 1, Miserables.txt 1
+duster	Miserables.txt 2
+dusting	Miserables.txt 1
+dusty	NotreDame_De_Paris.txt 1, Miserables.txt 3
+dutch	Miserables.txt 5
+dutemple	Miserables.txt 1
+duties	Miserables.txt 30
+duty	NotreDame_De_Paris.txt 6, Miserables.txt 94
+duvivier	Miserables.txt 1
+dwarf	NotreDame_De_Paris.txt 2, Miserables.txt 6
+dwarfed	Miserables.txt 2
+dwell	NotreDame_De_Paris.txt 2, Miserables.txt 9
+dwellers	Miserables.txt 2
+dwellest	Miserables.txt 1
+dwelling	NotreDame_De_Paris.txt 4, Miserables.txt 18
+dwellings	NotreDame_De_Paris.txt 2, Miserables.txt 8
+dwells	NotreDame_De_Paris.txt 1, Miserables.txt 2
+dwelt	NotreDame_De_Paris.txt 1, Miserables.txt 14
+dwindle	Miserables.txt 1
+dy	NotreDame_De_Paris.txt 2
+dye	NotreDame_De_Paris.txt 1, Miserables.txt 1
+dyer	NotreDame_De_Paris.txt 1
+dying	NotreDame_De_Paris.txt 16, Miserables.txt 51
+dyle	Miserables.txt 1
+dymaerzelle	NotreDame_De_Paris.txt 1
+dynamic	Miserables.txt 1
+dynasties	Miserables.txt 1
+dynasty	Miserables.txt 12

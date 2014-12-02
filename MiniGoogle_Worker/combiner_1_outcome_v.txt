@@ -1,0 +1,594 @@
+v	NotreDame_De_Paris.txt 27, Miserables.txt 71
+va	Miserables.txt 1
+vacancy	Miserables.txt 1
+vacant	NotreDame_De_Paris.txt 4, Miserables.txt 4
+vacarmini	Miserables.txt 1
+vacation	Miserables.txt 2
+vaccine	Miserables.txt 1
+vache	Miserables.txt 1
+vaches	NotreDame_De_Paris.txt 3
+vachettes	NotreDame_De_Paris.txt 1
+vacillate	Miserables.txt 2
+vacillated	Miserables.txt 1
+vacillating	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vacillation	Miserables.txt 3
+vacuum	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vade	Miserables.txt 2
+vadeboncoeur	Miserables.txt 1
+vae	Miserables.txt 1
+vagabond	NotreDame_De_Paris.txt 28, Miserables.txt 7
+vagabondage	NotreDame_De_Paris.txt 1, Miserables.txt 2
+vagabondism	Miserables.txt 1
+vagabonds	NotreDame_De_Paris.txt 37, Miserables.txt 5
+vagaries	NotreDame_De_Paris.txt 1
+vagrancy	Miserables.txt 2
+vagrant	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vagrants	Miserables.txt 3
+vague	NotreDame_De_Paris.txt 15, Miserables.txt 82
+vaguely	NotreDame_De_Paris.txt 7, Miserables.txt 49
+vagueness	Miserables.txt 4
+vaguest	Miserables.txt 1
+vah	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vain	NotreDame_De_Paris.txt 14, Miserables.txt 35
+vainest	NotreDame_De_Paris.txt 1
+vainglory	Miserables.txt 1
+vainly	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vair	Miserables.txt 1
+vais	Miserables.txt 1
+val	NotreDame_De_Paris.txt 6, Miserables.txt 6
+valde	Miserables.txt 1
+valence	NotreDame_De_Paris.txt 1
+valenciennes	Miserables.txt 1
+valentinian	Miserables.txt 1
+valet	NotreDame_De_Paris.txt 4, Miserables.txt 2
+valets	NotreDame_De_Paris.txt 1
+valetudinarian	Miserables.txt 1
+valiant	NotreDame_De_Paris.txt 3, Miserables.txt 11
+valiantly	NotreDame_De_Paris.txt 1, Miserables.txt 3
+valid	Miserables.txt 1
+valise	Miserables.txt 11
+valises	Miserables.txt 1
+valjean	Miserables.txt 1119
+vallee	Miserables.txt 1
+valleret	NotreDame_De_Paris.txt 1
+valley	Miserables.txt 14
+valleys	Miserables.txt 2
+vallier	NotreDame_De_Paris.txt 1
+vallombrosa	Miserables.txt 1
+valmont	NotreDame_De_Paris.txt 1
+valmy	Miserables.txt 1
+valogne	NotreDame_De_Paris.txt 1
+valois	Miserables.txt 3
+valor	NotreDame_De_Paris.txt 1, Miserables.txt 2
+valsin	Miserables.txt 1
+valuable	Miserables.txt 4
+valuations	Miserables.txt 1
+value	NotreDame_De_Paris.txt 3, Miserables.txt 9
+valves	Miserables.txt 1
+vampire	NotreDame_De_Paris.txt 4, Miserables.txt 1
+vampires	NotreDame_De_Paris.txt 3
+van	NotreDame_De_Paris.txt 1, Miserables.txt 7
+vancouver	Miserables.txt 1
+vandal	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vandalism	NotreDame_De_Paris.txt 1
+vandals	NotreDame_De_Paris.txt 2
+vandeleur	Miserables.txt 2
+vandermeulen	Miserables.txt 2
+vane	NotreDame_De_Paris.txt 1
+vanes	NotreDame_De_Paris.txt 1
+vanguard	Miserables.txt 3
+vanguards	Miserables.txt 1
+vanilla	NotreDame_De_Paris.txt 2, Miserables.txt 2
+vanish	NotreDame_De_Paris.txt 1, Miserables.txt 17
+vanished	NotreDame_De_Paris.txt 5, Miserables.txt 54
+vanishes	Miserables.txt 8
+vanishing	NotreDame_De_Paris.txt 3, Miserables.txt 10
+vanities	NotreDame_De_Paris.txt 2, Miserables.txt 2
+vanity	NotreDame_De_Paris.txt 4, Miserables.txt 12
+vanquished	NotreDame_De_Paris.txt 1, Miserables.txt 18
+vanquishing	Miserables.txt 1
+vantana	Miserables.txt 1
+vantane	Miserables.txt 1
+vantbrace	Miserables.txt 1
+vanterne	Miserables.txt 1
+vantes	NotreDame_De_Paris.txt 1
+vanum	Miserables.txt 1
+vanvre	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vanvres	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vapor	NotreDame_De_Paris.txt 2, Miserables.txt 7
+vapors	NotreDame_De_Paris.txt 4, Miserables.txt 3
+var	Miserables.txt 3
+varennes	Miserables.txt 1
+vargouleme	Miserables.txt 1
+variable	NotreDame_De_Paris.txt 1, Miserables.txt 1
+variance	Miserables.txt 2
+variant	Miserables.txt 1
+variation	Miserables.txt 3
+variatur	Miserables.txt 1
+varied	NotreDame_De_Paris.txt 5, Miserables.txt 10
+variegated	NotreDame_De_Paris.txt 1
+varies	Miserables.txt 2
+varieties	NotreDame_De_Paris.txt 1, Miserables.txt 4
+variety	NotreDame_De_Paris.txt 7, Miserables.txt 12
+various	NotreDame_De_Paris.txt 2, Miserables.txt 25
+variously	NotreDame_De_Paris.txt 1, Miserables.txt 2
+varlet	NotreDame_De_Paris.txt 1
+varnish	Miserables.txt 2
+varnished	Miserables.txt 6
+varus	Miserables.txt 1
+vary	Miserables.txt 3
+varying	Miserables.txt 5
+vas	NotreDame_De_Paris.txt 1
+vasaphanta	Miserables.txt 1
+vase	NotreDame_De_Paris.txt 3, Miserables.txt 5
+vases	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vassal	NotreDame_De_Paris.txt 4
+vassals	NotreDame_De_Paris.txt 4
+vast	NotreDame_De_Paris.txt 31, Miserables.txt 72
+vastly	Miserables.txt 1
+vastness	Miserables.txt 1
+vat	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vatican	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vaubernier	Miserables.txt 1
+vaublanc	Miserables.txt 2
+vaubois	Miserables.txt 3
+vaud	Miserables.txt 1
+vaudeville	Miserables.txt 5
+vaudevilles	Miserables.txt 2
+vaugirard	Miserables.txt 18
+vaugirarde	NotreDame_De_Paris.txt 1
+vaulabelle	Miserables.txt 1
+vault	NotreDame_De_Paris.txt 20, Miserables.txt 45
+vaulted	NotreDame_De_Paris.txt 7, Miserables.txt 10
+vaulting	Miserables.txt 2
+vaults	NotreDame_De_Paris.txt 6, Miserables.txt 11
+vauvert	NotreDame_De_Paris.txt 1, Miserables.txt 1
+ve	NotreDame_De_Paris.txt 79, Miserables.txt 25
+veal	Miserables.txt 1
+veaux	NotreDame_De_Paris.txt 1
+vecu	Miserables.txt 1
+veda	Miserables.txt 1
+vedas	NotreDame_De_Paris.txt 1
+veered	Miserables.txt 1
+vegetable	NotreDame_De_Paris.txt 1, Miserables.txt 2
+vegetables	Miserables.txt 6
+vegetate	Miserables.txt 1
+vegetated	Miserables.txt 1
+vegetates	Miserables.txt 1
+vegetating	NotreDame_De_Paris.txt 1
+vegetation	NotreDame_De_Paris.txt 3, Miserables.txt 11
+vegetations	Miserables.txt 1
+vehemence	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vehement	NotreDame_De_Paris.txt 1
+vehicle	Miserables.txt 33
+vehicles	Miserables.txt 22
+veil	NotreDame_De_Paris.txt 6, Miserables.txt 30
+veiled	NotreDame_De_Paris.txt 4, Miserables.txt 10
+veils	Miserables.txt 7
+vein	Miserables.txt 2
+veins	NotreDame_De_Paris.txt 4, Miserables.txt 12
+vejanus	Miserables.txt 1
+vel	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vellum	NotreDame_De_Paris.txt 1
+velocity	NotreDame_De_Paris.txt 1
+velvet	NotreDame_De_Paris.txt 16, Miserables.txt 26
+venant	Miserables.txt 1
+venantius	NotreDame_De_Paris.txt 1
+vence	Miserables.txt 1
+vend	Miserables.txt 1
+vendean	Miserables.txt 2
+vendee	Miserables.txt 2
+vendemiaire	Miserables.txt 2
+venders	NotreDame_De_Paris.txt 1
+vendetta	Miserables.txt 1
+vendidi	NotreDame_De_Paris.txt 1
+vendome	NotreDame_De_Paris.txt 1, Miserables.txt 2
+vendregesile	NotreDame_De_Paris.txt 1
+vendu	Miserables.txt 1
+venerable	NotreDame_De_Paris.txt 12, Miserables.txt 27
+venerate	Miserables.txt 3
+venerated	NotreDame_De_Paris.txt 1, Miserables.txt 7
+venerates	Miserables.txt 1
+venerating	Miserables.txt 1
+veneration	NotreDame_De_Paris.txt 1, Miserables.txt 15
+venery	Miserables.txt 3
+venetian	Miserables.txt 3
+venetiis	Miserables.txt 1
+venez	Miserables.txt 1
+vengeance	NotreDame_De_Paris.txt 4, Miserables.txt 5
+vengeances	NotreDame_De_Paris.txt 1
+venial	Miserables.txt 3
+venice	NotreDame_De_Paris.txt 3, Miserables.txt 12
+venin	NotreDame_De_Paris.txt 1
+venir	Miserables.txt 1
+venit	NotreDame_De_Paris.txt 1
+venom	Miserables.txt 1
+venomous	NotreDame_De_Paris.txt 1, Miserables.txt 6
+venous	Miserables.txt 1
+vent	NotreDame_De_Paris.txt 8, Miserables.txt 24
+ventilated	Miserables.txt 1
+venting	NotreDame_De_Paris.txt 1
+ventre	NotreDame_De_Paris.txt 8, Miserables.txt 1
+ventregoulette	Miserables.txt 1
+ventriloquist	Miserables.txt 10
+vents	Miserables.txt 2
+venture	NotreDame_De_Paris.txt 2, Miserables.txt 7
+ventured	NotreDame_De_Paris.txt 6, Miserables.txt 20
+venturing	NotreDame_De_Paris.txt 1, Miserables.txt 2
+venus	NotreDame_De_Paris.txt 7, Miserables.txt 11
+vera	NotreDame_De_Paris.txt 1
+veracious	NotreDame_De_Paris.txt 1
+veracity	Miserables.txt 1
+veramente	NotreDame_De_Paris.txt 1
+veranda	Miserables.txt 1
+verba	NotreDame_De_Paris.txt 1
+verbal	Miserables.txt 3
+verberare	NotreDame_De_Paris.txt 1
+verbum	NotreDame_De_Paris.txt 1
+verdant	Miserables.txt 3
+verdelet	NotreDame_De_Paris.txt 1
+verdets	Miserables.txt 1
+verdict	Miserables.txt 3
+verdigris	Miserables.txt 4
+verdun	NotreDame_De_Paris.txt 3
+verdure	NotreDame_De_Paris.txt 2, Miserables.txt 3
+verga	Miserables.txt 13
+verge	NotreDame_De_Paris.txt 2, Miserables.txt 16
+vergniaud	Miserables.txt 1
+verified	NotreDame_De_Paris.txt 1, Miserables.txt 5
+verify	Miserables.txt 3
+verifying	Miserables.txt 1
+verily	NotreDame_De_Paris.txt 1
+verin	NotreDame_De_Paris.txt 1
+veritable	NotreDame_De_Paris.txt 8, Miserables.txt 17
+vermicelli	NotreDame_De_Paris.txt 2
+vermin	Miserables.txt 8
+vermis	Miserables.txt 1
+vernacular	NotreDame_De_Paris.txt 1
+vernon	Miserables.txt 20
+vero	NotreDame_De_Paris.txt 1
+verra	NotreDame_De_Paris.txt 1
+verrerie	NotreDame_De_Paris.txt 2, Miserables.txt 7
+verres	Miserables.txt 1
+verrue	Miserables.txt 1
+versa	NotreDame_De_Paris.txt 1
+versailles	Miserables.txt 2
+verse	NotreDame_De_Paris.txt 5, Miserables.txt 14
+versed	Miserables.txt 1
+verses	NotreDame_De_Paris.txt 4, Miserables.txt 22
+version	NotreDame_De_Paris.txt 1, Miserables.txt 1
+versions	Miserables.txt 1
+verso	Miserables.txt 2
+versus	Miserables.txt 1
+vert	Miserables.txt 9
+vertebrae	NotreDame_De_Paris.txt 1
+vertebral	Miserables.txt 3
+vertical	NotreDame_De_Paris.txt 3, Miserables.txt 4
+vertically	NotreDame_De_Paris.txt 1
+vertigo	NotreDame_De_Paris.txt 3, Miserables.txt 6
+vertu	Miserables.txt 2
+vertus	Miserables.txt 1
+verum	NotreDame_De_Paris.txt 1
+very	NotreDame_De_Paris.txt 338, Miserables.txt 923
+vescovo	Miserables.txt 1
+vesle	NotreDame_De_Paris.txt 4
+vesper	NotreDame_De_Paris.txt 1
+vespers	NotreDame_De_Paris.txt 4, Miserables.txt 3
+vespertillos	Miserables.txt 1
+vessel	NotreDame_De_Paris.txt 8, Miserables.txt 17
+vessels	Miserables.txt 5
+vest	Miserables.txt 3
+vestal	Miserables.txt 2
+vestals	Miserables.txt 1
+vestem	NotreDame_De_Paris.txt 1
+vestibule	NotreDame_De_Paris.txt 3, Miserables.txt 3
+vestige	NotreDame_De_Paris.txt 1
+vestiges	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vestment	NotreDame_De_Paris.txt 1
+vestments	Miserables.txt 1
+vestry	NotreDame_De_Paris.txt 1
+vests	Miserables.txt 1
+vesture	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vetches	Miserables.txt 1
+veteran	Miserables.txt 11
+veterans	Miserables.txt 4
+veto	Miserables.txt 1
+vetustate	NotreDame_De_Paris.txt 1
+veut	Miserables.txt 1
+veuvain	Miserables.txt 2
+vexation	Miserables.txt 4
+vexations	Miserables.txt 1
+vexatious	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vexed	NotreDame_De_Paris.txt 1, Miserables.txt 12
+vexes	NotreDame_De_Paris.txt 1
+vi	NotreDame_De_Paris.txt 21, Miserables.txt 63
+via	NotreDame_De_Paris.txt 1, Miserables.txt 1
+viands	NotreDame_De_Paris.txt 1
+viaria	NotreDame_De_Paris.txt 1
+vib	Miserables.txt 1
+vibiscus	Miserables.txt 1
+vibrated	NotreDame_De_Paris.txt 2
+vibrates	NotreDame_De_Paris.txt 1
+vibrating	NotreDame_De_Paris.txt 3, Miserables.txt 3
+vibration	NotreDame_De_Paris.txt 9, Miserables.txt 4
+vibrations	NotreDame_De_Paris.txt 3
+vicar	Miserables.txt 4
+vicarage	Miserables.txt 1
+vicars	Miserables.txt 2
+vicarships	Miserables.txt 1
+vice	NotreDame_De_Paris.txt 2, Miserables.txt 11
+vices	NotreDame_De_Paris.txt 1, Miserables.txt 11
+vicinity	NotreDame_De_Paris.txt 5, Miserables.txt 23
+vicious	NotreDame_De_Paris.txt 1, Miserables.txt 9
+viciousness	Miserables.txt 2
+vicissitude	Miserables.txt 1
+vicissitudes	Miserables.txt 5
+vico	NotreDame_De_Paris.txt 1
+vicomte	NotreDame_De_Paris.txt 6, Miserables.txt 7
+vicomtes	Miserables.txt 1
+vicomtess	Miserables.txt 1
+vicomtesse	Miserables.txt 1
+vicomty	NotreDame_De_Paris.txt 1
+victim	NotreDame_De_Paris.txt 14, Miserables.txt 14
+victims	NotreDame_De_Paris.txt 1, Miserables.txt 4
+victis	Miserables.txt 1
+victoires	Miserables.txt 3
+victor	NotreDame_De_Paris.txt 10, Miserables.txt 10
+victories	Miserables.txt 6
+victorious	NotreDame_De_Paris.txt 2, Miserables.txt 8
+victory	NotreDame_De_Paris.txt 5, Miserables.txt 34
+victurnien	Miserables.txt 8
+vide	Miserables.txt 1
+videant	Miserables.txt 1
+vidette	Miserables.txt 2
+videttes	Miserables.txt 1
+vidocq	Miserables.txt 2
+vie	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vied	NotreDame_De_Paris.txt 7, Miserables.txt 2
+vieille	NotreDame_De_Paris.txt 1
+vielle	NotreDame_De_Paris.txt 3, Miserables.txt 3
+vielles	Miserables.txt 4
+vienna	Miserables.txt 5
+vienne	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vieux	NotreDame_De_Paris.txt 1, Miserables.txt 3
+view	NotreDame_De_Paris.txt 26, Miserables.txt 79
+viewed	NotreDame_De_Paris.txt 12, Miserables.txt 22
+viewing	NotreDame_De_Paris.txt 1, Miserables.txt 3
+views	Miserables.txt 3
+vigil	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vigilance	Miserables.txt 3
+vigilant	NotreDame_De_Paris.txt 1, Miserables.txt 2
+viginti	Miserables.txt 1
+vignemale	Miserables.txt 1
+vignes	Miserables.txt 2
+vignettes	Miserables.txt 1
+vignole	NotreDame_De_Paris.txt 1
+vigor	NotreDame_De_Paris.txt 2, Miserables.txt 5
+vigorous	NotreDame_De_Paris.txt 5, Miserables.txt 11
+vigorously	NotreDame_De_Paris.txt 1, Miserables.txt 5
+vii	NotreDame_De_Paris.txt 12, Miserables.txt 50
+viii	NotreDame_De_Paris.txt 3, Miserables.txt 44
+vil	Miserables.txt 1
+vile	NotreDame_De_Paris.txt 1, Miserables.txt 8
+vileness	Miserables.txt 1
+vilest	NotreDame_De_Paris.txt 2
+vilify	NotreDame_De_Paris.txt 1
+village	NotreDame_De_Paris.txt 5, Miserables.txt 48
+villager	Miserables.txt 3
+villagers	Miserables.txt 1
+villages	NotreDame_De_Paris.txt 2, Miserables.txt 8
+villain	NotreDame_De_Paris.txt 1, Miserables.txt 13
+villainous	Miserables.txt 4
+villainously	Miserables.txt 1
+villains	NotreDame_De_Paris.txt 1, Miserables.txt 2
+villainy	Miserables.txt 1
+villanous	NotreDame_De_Paris.txt 10
+villard	Miserables.txt 1
+villas	Miserables.txt 1
+ville	NotreDame_De_Paris.txt 13, Miserables.txt 1
+villele	Miserables.txt 3
+villemomble	Miserables.txt 2
+villeneuve	NotreDame_De_Paris.txt 1
+villers	Miserables.txt 1
+villette	Miserables.txt 1
+villiers	NotreDame_De_Paris.txt 1, Miserables.txt 3
+villon	Miserables.txt 4
+villons	Miserables.txt 1
+vin	Miserables.txt 1
+vincennes	NotreDame_De_Paris.txt 5, Miserables.txt 5
+vincent	Miserables.txt 4
+vinctus	NotreDame_De_Paris.txt 1
+vindelin	NotreDame_De_Paris.txt 1
+vindicte	Miserables.txt 2
+vindictiveness	Miserables.txt 1
+vine	NotreDame_De_Paris.txt 6, Miserables.txt 7
+vinegar	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vines	Miserables.txt 2
+vineyard	Miserables.txt 2
+vingt	Miserables.txt 1
+vinous	Miserables.txt 1
+vins	Miserables.txt 1
+vintage	NotreDame_De_Paris.txt 2, Miserables.txt 2
+vintner	Miserables.txt 1
+vinum	NotreDame_De_Paris.txt 3
+viola	Miserables.txt 1
+violate	NotreDame_De_Paris.txt 1, Miserables.txt 1
+violated	NotreDame_De_Paris.txt 4, Miserables.txt 6
+violates	NotreDame_De_Paris.txt 1, Miserables.txt 3
+violations	Miserables.txt 2
+violator	Miserables.txt 1
+violence	NotreDame_De_Paris.txt 7, Miserables.txt 35
+violences	Miserables.txt 5
+violent	NotreDame_De_Paris.txt 24, Miserables.txt 57
+violently	NotreDame_De_Paris.txt 12, Miserables.txt 16
+violet	NotreDame_De_Paris.txt 8, Miserables.txt 10
+violets	Miserables.txt 2
+violette	NotreDame_De_Paris.txt 1
+violin	Miserables.txt 1
+violins	Miserables.txt 4
+viper	NotreDame_De_Paris.txt 1, Miserables.txt 3
+vipers	Miserables.txt 1
+vir	Miserables.txt 1
+vireton	NotreDame_De_Paris.txt 1
+viretons	NotreDame_De_Paris.txt 1
+virgil	NotreDame_De_Paris.txt 1, Miserables.txt 6
+virgin	NotreDame_De_Paris.txt 42, Miserables.txt 37
+virginal	NotreDame_De_Paris.txt 1, Miserables.txt 5
+virginity	NotreDame_De_Paris.txt 2, Miserables.txt 6
+virgins	NotreDame_De_Paris.txt 2, Miserables.txt 12
+virile	NotreDame_De_Paris.txt 1, Miserables.txt 2
+virtue	NotreDame_De_Paris.txt 20, Miserables.txt 64
+virtues	NotreDame_De_Paris.txt 5, Miserables.txt 10
+virtuoso	Miserables.txt 1
+virtuous	NotreDame_De_Paris.txt 2, Miserables.txt 8
+virtuously	Miserables.txt 1
+virtute	NotreDame_De_Paris.txt 1
+virus	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vis	Miserables.txt 6
+visage	NotreDame_De_Paris.txt 15, Miserables.txt 17
+visages	NotreDame_De_Paris.txt 6, Miserables.txt 5
+viscomty	NotreDame_De_Paris.txt 3
+viscous	Miserables.txt 2
+vise	Miserables.txt 1
+visible	NotreDame_De_Paris.txt 31, Miserables.txt 121
+visibly	NotreDame_De_Paris.txt 5, Miserables.txt 4
+visigoths	Miserables.txt 1
+vision	NotreDame_De_Paris.txt 12, Miserables.txt 33
+visionary	Miserables.txt 7
+visions	Miserables.txt 10
+visit	NotreDame_De_Paris.txt 10, Miserables.txt 36
+visitandines	Miserables.txt 1
+visitation	Miserables.txt 1
+visited	NotreDame_De_Paris.txt 1, Miserables.txt 10
+visiting	NotreDame_De_Paris.txt 2, Miserables.txt 1
+visitor	NotreDame_De_Paris.txt 1, Miserables.txt 3
+visitors	NotreDame_De_Paris.txt 3, Miserables.txt 5
+visits	NotreDame_De_Paris.txt 1, Miserables.txt 14
+visor	Miserables.txt 5
+visored	Miserables.txt 1
+visual	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vitaelampada	Miserables.txt 1
+vital	Miserables.txt 1
+vitality	Miserables.txt 3
+vitals	NotreDame_De_Paris.txt 7
+vitam	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vitari	NotreDame_De_Paris.txt 1
+vitellius	Miserables.txt 1
+vitiated	NotreDame_De_Paris.txt 1
+vitr	NotreDame_De_Paris.txt 1
+vitre	Miserables.txt 2
+vitreous	Miserables.txt 1
+vitriol	Miserables.txt 1
+vitruvius	NotreDame_De_Paris.txt 1
+vittoria	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vivacious	NotreDame_De_Paris.txt 1, Miserables.txt 7
+vivaciously	Miserables.txt 5
+vivacity	Miserables.txt 10
+vivait	Miserables.txt 1
+vivant	Miserables.txt 1
+vivante	NotreDame_De_Paris.txt 1
+vive	Miserables.txt 5
+vivian	Miserables.txt 3
+vivid	NotreDame_De_Paris.txt 4, Miserables.txt 5
+vividly	NotreDame_De_Paris.txt 2, Miserables.txt 3
+vivified	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vivifying	Miserables.txt 1
+vivions	Miserables.txt 1
+vivonne	Miserables.txt 1
+vixi	Miserables.txt 1
+vlajean	Miserables.txt 1
+vobis	Miserables.txt 1
+vocabulary	Miserables.txt 3
+vocal	Miserables.txt 17
+vocales	Miserables.txt 1
+vocation	NotreDame_De_Paris.txt 2, Miserables.txt 4
+vocations	Miserables.txt 2
+voce	NotreDame_De_Paris.txt 1
+vocem	NotreDame_De_Paris.txt 1
+voci	Miserables.txt 1
+vociferate	Miserables.txt 2
+vociferated	NotreDame_De_Paris.txt 1, Miserables.txt 2
+vogue	Miserables.txt 3
+voice	NotreDame_De_Paris.txt 169, Miserables.txt 343
+voiceless	NotreDame_De_Paris.txt 1, Miserables.txt 1
+voices	NotreDame_De_Paris.txt 13, Miserables.txt 40
+voici	Miserables.txt 2
+void	NotreDame_De_Paris.txt 3, Miserables.txt 11
+voids	Miserables.txt 1
+voila	Miserables.txt 1
+voileci	Miserables.txt 2
+voir	NotreDame_De_Paris.txt 2, Miserables.txt 1
+voirmizelle	NotreDame_De_Paris.txt 1
+voit	Miserables.txt 2
+voitures	Miserables.txt 1
+vol	Miserables.txt 1
+volatile	NotreDame_De_Paris.txt 2, Miserables.txt 1
+volatilized	NotreDame_De_Paris.txt 1
+volaverunt	Miserables.txt 1
+volcano	NotreDame_De_Paris.txt 1, Miserables.txt 7
+volcanoes	Miserables.txt 2
+vole	NotreDame_De_Paris.txt 4
+volet	Miserables.txt 1
+voleur	NotreDame_De_Paris.txt 1
+volley	Miserables.txt 3
+volsci	Miserables.txt 1
+voltaire	NotreDame_De_Paris.txt 3, Miserables.txt 40
+voltairian	Miserables.txt 3
+voltairianism	Miserables.txt 1
+voltairians	Miserables.txt 1
+volubility	Miserables.txt 1
+volume	NotreDame_De_Paris.txt 5, Miserables.txt 39
+volumes	NotreDame_De_Paris.txt 3, Miserables.txt 7
+voluminous	Miserables.txt 2
+voluntarily	NotreDame_De_Paris.txt 3, Miserables.txt 3
+voluntary	NotreDame_De_Paris.txt 2, Miserables.txt 5
+volunteer	NotreDame_De_Paris.txt 1, Miserables.txt 4
+volunteers	NotreDame_De_Paris.txt 6, Miserables.txt 6
+voluptuary	Miserables.txt 1
+voluptuous	NotreDame_De_Paris.txt 3, Miserables.txt 6
+voluptuously	Miserables.txt 1
+voluptuousness	NotreDame_De_Paris.txt 3, Miserables.txt 15
+volutes	NotreDame_De_Paris.txt 2
+volvitur	Miserables.txt 1
+vomit	Miserables.txt 1
+vomited	Miserables.txt 2
+vomiting	NotreDame_De_Paris.txt 1
+von	Miserables.txt 1
+vont	Miserables.txt 13
+voracious	Miserables.txt 2
+voracity	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vos	Miserables.txt 2
+vote	NotreDame_De_Paris.txt 2, Miserables.txt 6
+voted	Miserables.txt 7
+voter	Miserables.txt 1
+voters	Miserables.txt 1
+votes	Miserables.txt 2
+voting	Miserables.txt 1
+votre	Miserables.txt 3
+voulgiers	NotreDame_De_Paris.txt 1
+voult	NotreDame_De_Paris.txt 1
+vous	Miserables.txt 9
+vousiergue	Miserables.txt 1
+vow	NotreDame_De_Paris.txt 2
+vowels	NotreDame_De_Paris.txt 1
+vowing	NotreDame_De_Paris.txt 1
+vows	NotreDame_De_Paris.txt 2, Miserables.txt 6
+voyage	NotreDame_De_Paris.txt 2, Miserables.txt 3
+voyages	Miserables.txt 1
+voyais	Miserables.txt 1
+voyant	Miserables.txt 1
+voyer	NotreDame_De_Paris.txt 2
+voyers	NotreDame_De_Paris.txt 1
+vrai	NotreDame_De_Paris.txt 1, Miserables.txt 2
+vre	NotreDame_De_Paris.txt 1
+vue	NotreDame_De_Paris.txt 1
+vulcan	NotreDame_De_Paris.txt 1, Miserables.txt 1
+vulgar	NotreDame_De_Paris.txt 4, Miserables.txt 16
+vulgariter	NotreDame_De_Paris.txt 1
+vulgarly	NotreDame_De_Paris.txt 2, Miserables.txt 1
+vulnerable	Miserables.txt 2
+vult	NotreDame_De_Paris.txt 1
+vulture	Miserables.txt 8
+vultures	Miserables.txt 3
+vyasa	NotreDame_De_Paris.txt 1
+vying	NotreDame_De_Paris.txt 1
