@@ -10,16 +10,16 @@ import java.net.*;
 
 public class nameServer {
 	static nameServerTable table;
-	private static serverThread thread;
+	private static nameServerThread thread;
 	
 	public static void main(String[] args) throws SocketException, FileNotFoundException, UnsupportedEncodingException {
 		// start a thread listening
 		table = new nameServerTable();
-		thread = new serverThread();
+		thread = new nameServerThread();
 		thread.start();
 		
 		// write itself to an AFS file
-		String IP = Utility.getIP();
+		String IP = nameServerUtility.getIP();
 		System.out.println(">>> Name server starts on "+IP+":"+thread.getPort());
 		PrintWriter writer = new PrintWriter("C:/NameServer", "UTF-8");
 		writer.println(IP+"\n"+thread.getPort());

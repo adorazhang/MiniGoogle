@@ -1,33 +1,35 @@
+
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
-
-public class handleConnGoogle extends Thread {
+public class handleConnNS extends Thread {
 	private Socket conn;
 	private DataInputStream in;
 	private DataOutputStream out;
 	
-	handleConnGoogle(Socket connection){
+	handleConnNS(Socket connection){
 		conn = connection;
 	}
-
+	
 	public void run(){
-		// listen to client requests
 		try {
 			in = new DataInputStream(conn.getInputStream());
 		    out = new DataOutputStream( conn.getOutputStream());
 		    byte type = in.readByte();
 		    String data = in.readUTF();
+		    String[] parts = data.split("#");
 		    switch(type){
-		    case 10: // indexing request
-		    	String dir = data;
-		    	index(dir);
+		    case 0:
+			    nameServer.table.addEntry(parts[0], parts[1]);
+			    out.writeByte(1);
+			    out.writeUTF(parts[0]);
 		    	break;
-		    case 12: // query request
-		    	String[] keywords = data.split(",");
-		    	query(keywords);
+		    case 2:
+			    out.writeByte(3);
+			    out.writeUTF(nameServer.table.getService(data));
 		    	break;
 		    default:
 		    	System.out.println("Packet type not supported!");
@@ -37,18 +39,5 @@ public class handleConnGoogle extends Thread {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
-
-	private void query(String[] keywords) throws IOException {
-		
-		//send back result
-	    out.writeByte(13); 
-		
-	}
-
-	private void index(String dir) throws IOException {
-
-		//send back result
-	    out.writeByte(11); 
 	}
 }

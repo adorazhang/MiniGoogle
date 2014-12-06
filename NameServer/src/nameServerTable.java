@@ -40,13 +40,13 @@ public class nameServerTable {
 	String getService(String key) {
 		// if key exists, return the current address
 		// if not, throw exception
-		
+		printOut();
 		if(table.containsKey(key)){
 			ArrayList<String> rowList = table.get(key);
 			String[] rowArray = new String[rowList.size()];
 			rowArray = rowList.toArray(rowArray);
 			int cur = current.get(key);
-			cur = (cur+1) % current.size();
+			cur = (cur+1) % table.get(key).size();
 			current.put(key, cur);
 			return rowArray[cur];
 		}
@@ -57,5 +57,6 @@ public class nameServerTable {
 	
 	void printOut() {
 		System.out.println(table);
+		System.out.println(current);
 	}
 }
