@@ -1,62 +1,124 @@
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class WorkerServer {
+public class WorkerServer extends Thread {
 
-    public static void main(String [] args) throws Exception{
-        
-        WorkerServer worker = new WorkerServer();
-        worker.workerServerRun();
-
+    private ServerSocket serverSocket;
+    
+    public WorkerServer() throws IOException{
+        //serverSocket = new ServerSocket(0);  //if port equals 0, the system will allocate an idle port
+        //serverSocket.setSoTimeout(10000);       //timeout
     }
     
-    private void workerServerRun(){
+    @Override
+    public void run(){
+        workerServerManager();
+    }
+    
+    
+    private void workerServerManager(){
+      
+    	
+    	//socket
+        /*try{     
+            //get name server's IP and port from a public AFS file
+            
+            //register in the name server
+            
+            //listen to master's request
+            Socket server = serverSocket.accept();
+            DataInputStream in = new DataInputStream(server.getInputStream());
+            String msg = in.readUTF();
+            
+            //split the message and handle the task
+            String[] splitMsg = msg.split("#");
+            int MsgID = Integer.parseInt(splitMsg[0]);
+            switch (MsgID) {
+            case MAPPER_TASK_REQUEST: 
+                createNewMapperTask(inputFile, mapperID1, taskFlag);
+            case 2:
+                createNewCombinerTask(combinerInputFiles, combinerID);
+            case 3:
+                createNewReducerTask(reducerIutputFiles, reducerID, taskFlag, reducerFilenamePrefix);
+                
+            }
+            
+            System.out.println(msg);
+            
         
-        int taskFlag = 1;
-        /*//mapper
-        String inputFile = "Miserables.txt";
+            
+            
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try{
+                if (serverSocket != null)
+                    serverSocket.close();
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+        }*/
+        
+        
+       
+        
+        //mapper
+        /*String inputFile = "Miserables.txt";
         String inputFile2 = "NotreDame_De_Paris.txt";
         String mapperID1 = "1", mapperID2 = "2";
         
-        createNewMapperTask(inputFile, mapperID1, taskFlag);
-        createNewMapperTask(inputFile2, mapperID2, taskFlag);
+        createIndexMapperTask(inputFile, mapperID1);
+        createIndexMapperTask(inputFile2, mapperID2);
         System.out.println("finish mapper");*/
         
-        /*//combiner
-        List<String> combinerInputFiles = new ArrayList<String>();
+        //combiner
+        /*List<String> combinerInputFiles = new ArrayList<String>();
         combinerInputFiles.add("mapper_1_outcome.txt");
         combinerInputFiles.add("mapper_2_outcome.txt");
         String combinerID = "1";
         
-        createNewCombinerTask(combinerInputFiles, combinerID);
+        createCombinerTask(combinerInputFiles, combinerID);
         System.out.println("finish combiner");*/
         
         //reducer
-        String reducerFilenamePrefix = "invertedIndex";
+        /*String reducerFilenamePrefix = "invertedIndex";
         List<String> reducerIutputFiles = new ArrayList<String>();
         reducerIutputFiles.add("combiner_1_outcome_a.txt");
-        //reducerIutputFiles.add("combiner_2_outcome_a.txt");
+        reducerIutputFiles.add("combiner_2_outcome_a.txt");
         String reducerID = "1";
         
-        createNewReducerTask(reducerIutputFiles, reducerID, taskFlag, reducerFilenamePrefix);
-        System.out.println("finish reducer");
+        createReducerTask(reducerIutputFiles, reducerID, reducerFilenamePrefix);
+        System.out.println("finish reducer");*/
+        
+        //query
+        createQueryMapperTask("a");
+        
     }
     
     
-    private void createNewMapperTask(String inputFile, String mapperID, int taskFlag){
-        Thread m = new Mapper(inputFile, mapperID, taskFlag);
+    private void createIndexMapperTask(String inputFile, String mapperID){
+        Thread m = new IndexMapper(inputFile, mapperID);
         m.start();
     }
     
-    private void createNewCombinerTask(List<String> inputFiles, String combinerID){
+    private void createCombinerTask(List<String> inputFiles, String combinerID){
         Thread c = new Combiner(inputFiles, combinerID);
         c.start();
     }
     
-    private void createNewReducerTask(List<String> inputFiles, String combinerID, int taskFlag, String outputFilePrefix){
-        Thread r = new Reducer(inputFiles, combinerID, taskFlag, outputFilePrefix);
+    private void createReducerTask(List<String> inputFiles, String combinerID, String outputFilePrefix){
+        Thread r = new Reducer(inputFiles, combinerID, outputFilePrefix);
         r.start();
+    }
+    
+    private void createQueryMapperTask(String keyword){
+    	Thread r = new QueryMapper(keyword);
+    	r.start();
     }
     
     

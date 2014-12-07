@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -24,23 +25,15 @@ public class Reducer extends Thread{
     private String outputFilePrefix;//master informs
     
     
-    public Reducer(List<String> inputFiles0, String reducerID0, int taskFlag0, String outputFilePrefix0){
+    public Reducer(List<String> inputFiles0, String reducerID0, String outputFilePrefix0){
         inputFiles = inputFiles0;
         reducerID = reducerID0;
-        taskFlag = taskFlag0;
         outputFilePrefix = outputFilePrefix0;
     }
     
     @Override
     public void run(){
-        reduce();
-    }
-    
-    private void reduce(){
-        if (taskFlag == 1)
-            indexReduce();
-        else
-            queryReduce();
+        indexReduce();
     }
     
     
@@ -110,17 +103,29 @@ public class Reducer extends Thread{
                     }
                 }
                 //get a new word
-                else {                              
+                else { 
+                	//sort by frequency
+                    List<DocuNode> DocuList = new ArrayList<DocuNode>();
+                    Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
+                    while(iter.hasNext()){
+                    	Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
+                    	DocuNode d = new DocuNode(entry.getKey(), entry.getValue());
+                    	DocuList.add(d);
+                    }
+                    Collections.sort(DocuList);
+                	
                     /**write the previous word and its information into file**/
                     StringBuilder wordInfo = new StringBuilder();
-                    Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
-                    if(iter.hasNext()){
-                        Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                        wordInfo.append(entry.getKey() + " " + entry.getValue());
+                    
+                    Iterator<DocuNode> iter2 = DocuList.iterator();
+                    if(iter2.hasNext()){
+                    	DocuNode d = iter2.next();
+                        wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                     }
-                    while(iter.hasNext()){
-                        Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                        wordInfo.append(", " + entry.getKey() + " " + entry.getValue());
+                    while(iter2.hasNext()){
+                    	DocuNode d = iter2.next();
+                    	wordInfo.append(", ");
+                        wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                     }
 
                     //write

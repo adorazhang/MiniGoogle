@@ -2,11 +2,11 @@ z	NotreDame_De_Paris.txt 2, Miserables.txt 1
 zaatcha	Miserables.txt 1
 zag	Miserables.txt 4
 zarach	NotreDame_De_Paris.txt 2
-zeal	NotreDame_De_Paris.txt 1, Miserables.txt 12
+zeal	Miserables.txt 12, NotreDame_De_Paris.txt 1
 zealous	Miserables.txt 3
 zeila	Miserables.txt 2
 zelma	Miserables.txt 4
-zenith	NotreDame_De_Paris.txt 1, Miserables.txt 8
+zenith	Miserables.txt 8, NotreDame_De_Paris.txt 1
 zephine	Miserables.txt 16
 zephirod	NotreDame_De_Paris.txt 1
 zephyr	Miserables.txt 1

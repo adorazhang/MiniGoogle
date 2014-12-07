@@ -5,34 +5,25 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.StringTokenizer;
 
-public class Mapper extends Thread{
+public class IndexMapper extends Thread{
 
     private String inputFilename;
     private String mapperID;
-    private int taskFlag; //index (flag=1) or query task (flag=2)
     private String outputFilename;//???change to return value
     
-    public Mapper(String inputFilename0, String mapperID0, int taskFlag0){
+    public IndexMapper(String inputFilename0, String mapperID0){
         inputFilename = inputFilename0;
         mapperID = mapperID0;
-        taskFlag = taskFlag0;
         outputFilename = new String();
     }
     
     @Override
     public void run(){
-        map();
-        
-        //apply server 
+        indexMap();
+        //reply server 
         
     }
-    
-    private void map(){
-        if (taskFlag == 1)
-            indexMap();
-        else
-            queryMap();
-    }
+
     
     //read source file and make word count then output the result to local disk
     private void indexMap(){
@@ -73,32 +64,8 @@ public class Mapper extends Thread{
     }
     
     
-    private void queryMap(){
-        //
-    }
     
-    /*private boolean writeWord(String word, String wordInfo, String inputFile, String locationPrefix){
-        String location = new String();
-        
-        //get full output filename: 
-        //e.g. the word apple, the filename is prefix + 'a.txt'
-        location = locationPrefix + word.charAt(0) + ".txt";
-        
-        try{
-            //output file: temporary outcome
-            File outputFile = new File(location);
-            FileWriter fileWriter = new FileWriter(outputFile);
-            BufferedWriter writer = new BufferedWriter(fileWriter);
-            
-            writer.write(word + "\t" + inputFile + " " + "1\n");
-            writer.close();
-            return true;
-            
-        } catch (Exception e) {
-            e.printStackTrace();
-            return false;
-        }
-    }*/
+   
     
     
   //2.1 mapper
@@ -109,3 +76,4 @@ public class Mapper extends Thread{
     //return Master the result
     
 }
+

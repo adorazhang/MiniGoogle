@@ -1,4 +1,4 @@
-f	NotreDame_De_Paris.txt 16, Miserables.txt 19
+f	Miserables.txt 19, NotreDame_De_Paris.txt 16
 fa	NotreDame_De_Paris.txt 38, Miserables.txt 1
 fabantou	Miserables.txt 17
 fable	Miserables.txt 2
@@ -11,84 +11,84 @@ fabrique	Miserables.txt 1
 fabulous	Miserables.txt 5
 fabvier	Miserables.txt 1
 fac	NotreDame_De_Paris.txt 2
-facade	NotreDame_De_Paris.txt 1, Miserables.txt 9
+facade	Miserables.txt 9, NotreDame_De_Paris.txt 1
 facades	Miserables.txt 4
 faccia	Miserables.txt 1
-face	NotreDame_De_Paris.txt 164, Miserables.txt 323
-faced	NotreDame_De_Paris.txt 4, Miserables.txt 11
-faces	NotreDame_De_Paris.txt 30, Miserables.txt 34
+face	Miserables.txt 323, NotreDame_De_Paris.txt 164
+faced	Miserables.txt 11, NotreDame_De_Paris.txt 4
+faces	Miserables.txt 34, NotreDame_De_Paris.txt 30
 faceted	NotreDame_De_Paris.txt 1
 facets	NotreDame_De_Paris.txt 1
 facial	Miserables.txt 1
 facies	NotreDame_De_Paris.txt 1
 facile	NotreDame_De_Paris.txt 1
 facilitate	Miserables.txt 2
-facility	NotreDame_De_Paris.txt 1, Miserables.txt 3
-facing	NotreDame_De_Paris.txt 1, Miserables.txt 25
+facility	Miserables.txt 3, NotreDame_De_Paris.txt 1
+facing	Miserables.txt 25, NotreDame_De_Paris.txt 1
 facit	NotreDame_De_Paris.txt 1, Miserables.txt 1
 facitote	NotreDame_De_Paris.txt 2
 facsimile	Miserables.txt 2
-fact	NotreDame_De_Paris.txt 95, Miserables.txt 281
+fact	Miserables.txt 281, NotreDame_De_Paris.txt 95
 facta	Miserables.txt 2
-faction	NotreDame_De_Paris.txt 1, Miserables.txt 3
+faction	Miserables.txt 3, NotreDame_De_Paris.txt 1
 factions	Miserables.txt 1
 factious	Miserables.txt 2
 factories	Miserables.txt 5
 factors	Miserables.txt 1
 factory	Miserables.txt 17
-facts	NotreDame_De_Paris.txt 4, Miserables.txt 47
-faculties	NotreDame_De_Paris.txt 4, Miserables.txt 5
-faculty	NotreDame_De_Paris.txt 2, Miserables.txt 6
-faded	NotreDame_De_Paris.txt 1, Miserables.txt 5
+facts	Miserables.txt 47, NotreDame_De_Paris.txt 4
+faculties	Miserables.txt 5, NotreDame_De_Paris.txt 4
+faculty	Miserables.txt 6, NotreDame_De_Paris.txt 2
+faded	Miserables.txt 5, NotreDame_De_Paris.txt 1
 fades	NotreDame_De_Paris.txt 1
-fading	NotreDame_De_Paris.txt 1, Miserables.txt 4
+fading	Miserables.txt 4, NotreDame_De_Paris.txt 1
 faenza	Miserables.txt 1
 fafiot	Miserables.txt 2
 fagon	Miserables.txt 1
 fagot	NotreDame_De_Paris.txt 11, Miserables.txt 4
-fagots	NotreDame_De_Paris.txt 4, Miserables.txt 5
+fagots	Miserables.txt 5, NotreDame_De_Paris.txt 4
 faience	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fail	Miserables.txt 9
-failed	NotreDame_De_Paris.txt 3, Miserables.txt 19
-failing	NotreDame_De_Paris.txt 2, Miserables.txt 3
+failed	Miserables.txt 19, NotreDame_De_Paris.txt 3
+failing	Miserables.txt 3, NotreDame_De_Paris.txt 2
 fails	Miserables.txt 1
-failure	NotreDame_De_Paris.txt 4, Miserables.txt 7
+failure	Miserables.txt 7, NotreDame_De_Paris.txt 4
 failures	Miserables.txt 3
 faim	Miserables.txt 1
 fain	Miserables.txt 1
-faint	NotreDame_De_Paris.txt 1, Miserables.txt 19
+faint	Miserables.txt 19, NotreDame_De_Paris.txt 1
 fainted	NotreDame_De_Paris.txt 2, Miserables.txt 2
 fainter	Miserables.txt 1
 faintest	Miserables.txt 3
-fainting	NotreDame_De_Paris.txt 2, Miserables.txt 7
+fainting	Miserables.txt 7, NotreDame_De_Paris.txt 2
 faintly	Miserables.txt 4
 fair	NotreDame_De_Paris.txt 34, Miserables.txt 16
 fairbanks	NotreDame_De_Paris.txt 1, Miserables.txt 1
 faire	NotreDame_De_Paris.txt 1
 fairest	NotreDame_De_Paris.txt 1
 fairies	Miserables.txt 2
-fairly	NotreDame_De_Paris.txt 3, Miserables.txt 7
+fairly	Miserables.txt 7, NotreDame_De_Paris.txt 3
 fairs	Miserables.txt 6
-fairy	NotreDame_De_Paris.txt 3, Miserables.txt 8
+fairy	Miserables.txt 8, NotreDame_De_Paris.txt 3
 fairylike	NotreDame_De_Paris.txt 1
 faisaient	Miserables.txt 2
 fait	Miserables.txt 1
 faite	Miserables.txt 1
-faith	NotreDame_De_Paris.txt 17, Miserables.txt 40
-faithful	NotreDame_De_Paris.txt 7, Miserables.txt 8
+faith	Miserables.txt 40, NotreDame_De_Paris.txt 17
+faithful	Miserables.txt 8, NotreDame_De_Paris.txt 7
 faithfully	Miserables.txt 2
 fakir	Miserables.txt 1
 fakirs	Miserables.txt 1
 falbala	Miserables.txt 1
 falcon	Miserables.txt 1
-fall	NotreDame_De_Paris.txt 39, Miserables.txt 140
+fall	Miserables.txt 140, NotreDame_De_Paris.txt 39
 fallait	Miserables.txt 1
-fallen	NotreDame_De_Paris.txt 17, Miserables.txt 101
-falling	NotreDame_De_Paris.txt 16, Miserables.txt 58
+fallen	Miserables.txt 101, NotreDame_De_Paris.txt 17
+falling	Miserables.txt 58, NotreDame_De_Paris.txt 16
 fallow	Miserables.txt 1
-falls	NotreDame_De_Paris.txt 2, Miserables.txt 35
+falls	Miserables.txt 35, NotreDame_De_Paris.txt 2
 falourdel	NotreDame_De_Paris.txt 13
-false	NotreDame_De_Paris.txt 5, Miserables.txt 54
+false	Miserables.txt 54, NotreDame_De_Paris.txt 5
 falsehood	Miserables.txt 3
 falsely	NotreDame_De_Paris.txt 1, Miserables.txt 1
 falsetto	NotreDame_De_Paris.txt 1
@@ -101,16 +101,16 @@ falzapada	NotreDame_De_Paris.txt 1
 fame	NotreDame_De_Paris.txt 2, Miserables.txt 2
 famed	Miserables.txt 1
 fameuil	Miserables.txt 11
-familiar	NotreDame_De_Paris.txt 8, Miserables.txt 13
+familiar	Miserables.txt 13, NotreDame_De_Paris.txt 8
 familiarity	Miserables.txt 3
 familiarize	Miserables.txt 1
 familiarized	Miserables.txt 1
-familiarly	NotreDame_De_Paris.txt 2, Miserables.txt 4
-families	NotreDame_De_Paris.txt 2, Miserables.txt 31
-family	NotreDame_De_Paris.txt 15, Miserables.txt 101
+familiarly	Miserables.txt 4, NotreDame_De_Paris.txt 2
+families	Miserables.txt 31, NotreDame_De_Paris.txt 2
+family	Miserables.txt 101, NotreDame_De_Paris.txt 15
 famine	NotreDame_De_Paris.txt 2, Miserables.txt 2
-famished	NotreDame_De_Paris.txt 2, Miserables.txt 3
-famous	NotreDame_De_Paris.txt 13, Miserables.txt 27
+famished	Miserables.txt 3, NotreDame_De_Paris.txt 2
+famous	Miserables.txt 27, NotreDame_De_Paris.txt 13
 fampoux	Miserables.txt 1
 famueil	Miserables.txt 1
 fan	Miserables.txt 3
@@ -120,10 +120,10 @@ fanaticism	Miserables.txt 8
 fanaticisms	Miserables.txt 2
 fanatics	Miserables.txt 2
 fanchons	Miserables.txt 1
-fancied	NotreDame_De_Paris.txt 9, Miserables.txt 16
-fancies	NotreDame_De_Paris.txt 4, Miserables.txt 8
+fancied	Miserables.txt 16, NotreDame_De_Paris.txt 9
+fancies	Miserables.txt 8, NotreDame_De_Paris.txt 4
 fanciful	NotreDame_De_Paris.txt 3
-fancy	NotreDame_De_Paris.txt 13, Miserables.txt 24
+fancy	Miserables.txt 24, NotreDame_De_Paris.txt 13
 fancying	Miserables.txt 2
 fandangoes	NotreDame_De_Paris.txt 1
 fangled	Miserables.txt 1
@@ -139,19 +139,19 @@ fantastically	NotreDame_De_Paris.txt 4
 fantasy	Miserables.txt 2
 fantine	Miserables.txt 210
 faoucq	Miserables.txt 1
-far	NotreDame_De_Paris.txt 72, Miserables.txt 199
+far	Miserables.txt 199, NotreDame_De_Paris.txt 72
 faraud	Miserables.txt 1
-farce	NotreDame_De_Paris.txt 3, Miserables.txt 11
+farce	Miserables.txt 11, NotreDame_De_Paris.txt 3
 farces	Miserables.txt 1
 farcical	Miserables.txt 2
-fare	NotreDame_De_Paris.txt 1, Miserables.txt 3
+fare	Miserables.txt 3, NotreDame_De_Paris.txt 1
 fared	Miserables.txt 1
-farewell	NotreDame_De_Paris.txt 6, Miserables.txt 13
+farewell	Miserables.txt 13, NotreDame_De_Paris.txt 6
 fargel	NotreDame_De_Paris.txt 1
 farinace	Miserables.txt 1
 farlane	Miserables.txt 2
-farm	NotreDame_De_Paris.txt 2, Miserables.txt 13
-farmer	NotreDame_De_Paris.txt 2, Miserables.txt 3
+farm	Miserables.txt 13, NotreDame_De_Paris.txt 2
+farmer	Miserables.txt 3, NotreDame_De_Paris.txt 2
 farmers	Miserables.txt 3
 farmhouse	Miserables.txt 1
 farming	Miserables.txt 2
@@ -160,45 +160,45 @@ farnese	Miserables.txt 2
 farrier	NotreDame_De_Paris.txt 1, Miserables.txt 1
 farriers	NotreDame_De_Paris.txt 1
 farther	NotreDame_De_Paris.txt 7, Miserables.txt 3
-farthing	NotreDame_De_Paris.txt 2, Miserables.txt 8
+farthing	Miserables.txt 8, NotreDame_De_Paris.txt 2
 farthings	NotreDame_De_Paris.txt 6, Miserables.txt 2
 fas	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fascinate	Miserables.txt 1
 fascinated	NotreDame_De_Paris.txt 3, Miserables.txt 2
 fascinating	Miserables.txt 2
 fascination	NotreDame_De_Paris.txt 3, Miserables.txt 3
-fashion	NotreDame_De_Paris.txt 35, Miserables.txt 76
-fashionable	NotreDame_De_Paris.txt 1, Miserables.txt 6
-fashioned	NotreDame_De_Paris.txt 2, Miserables.txt 4
+fashion	Miserables.txt 76, NotreDame_De_Paris.txt 35
+fashionable	Miserables.txt 6, NotreDame_De_Paris.txt 1
+fashioned	Miserables.txt 4, NotreDame_De_Paris.txt 2
 fashioning	NotreDame_De_Paris.txt 1
-fashions	NotreDame_De_Paris.txt 3, Miserables.txt 6
-fast	NotreDame_De_Paris.txt 8, Miserables.txt 49
+fashions	Miserables.txt 6, NotreDame_De_Paris.txt 3
+fast	Miserables.txt 49, NotreDame_De_Paris.txt 8
 fasten	Miserables.txt 10
-fastened	NotreDame_De_Paris.txt 13, Miserables.txt 32
+fastened	Miserables.txt 32, NotreDame_De_Paris.txt 13
 fastening	Miserables.txt 3
 fastenings	Miserables.txt 3
 faster	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fastidious	Miserables.txt 1
-fasting	NotreDame_De_Paris.txt 2, Miserables.txt 6
+fasting	Miserables.txt 6, NotreDame_De_Paris.txt 2
 fasts	Miserables.txt 1
-fat	NotreDame_De_Paris.txt 6, Miserables.txt 12
-fatal	NotreDame_De_Paris.txt 18, Miserables.txt 60
+fat	Miserables.txt 12, NotreDame_De_Paris.txt 6
+fatal	Miserables.txt 60, NotreDame_De_Paris.txt 18
 fatalist	Miserables.txt 1
 fatalities	Miserables.txt 3
-fatality	NotreDame_De_Paris.txt 4, Miserables.txt 15
+fatality	Miserables.txt 15, NotreDame_De_Paris.txt 4
 fatally	Miserables.txt 6
-fate	NotreDame_De_Paris.txt 13, Miserables.txt 46
+fate	Miserables.txt 46, NotreDame_De_Paris.txt 13
 fated	Miserables.txt 1
 fates	Miserables.txt 2
-father	NotreDame_De_Paris.txt 46, Miserables.txt 605
+father	Miserables.txt 605, NotreDame_De_Paris.txt 46
 fatherland	Miserables.txt 3
-fathers	NotreDame_De_Paris.txt 3, Miserables.txt 20
+fathers	Miserables.txt 20, NotreDame_De_Paris.txt 3
 fathom	Miserables.txt 4
 fathomed	NotreDame_De_Paris.txt 1
 fathomless	Miserables.txt 5
-fathoms	NotreDame_De_Paris.txt 1, Miserables.txt 11
-fatigue	NotreDame_De_Paris.txt 8, Miserables.txt 33
-fatigued	NotreDame_De_Paris.txt 2, Miserables.txt 14
+fathoms	Miserables.txt 11, NotreDame_De_Paris.txt 1
+fatigue	Miserables.txt 33, NotreDame_De_Paris.txt 8
+fatigued	Miserables.txt 14, NotreDame_De_Paris.txt 2
 fatiguing	Miserables.txt 1
 fatis	Miserables.txt 1
 fatness	Miserables.txt 1
@@ -209,8 +209,8 @@ fatuity	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fatum	NotreDame_De_Paris.txt 1
 faubin	NotreDame_De_Paris.txt 1
 faublas	Miserables.txt 1
-faubourg	NotreDame_De_Paris.txt 4, Miserables.txt 60
-faubourgs	NotreDame_De_Paris.txt 2, Miserables.txt 12
+faubourg	Miserables.txt 60, NotreDame_De_Paris.txt 4
+faubourgs	Miserables.txt 12, NotreDame_De_Paris.txt 2
 faucet	Miserables.txt 3
 faucets	Miserables.txt 1
 fauchants	Miserables.txt 1
@@ -218,8 +218,8 @@ fauchelevant	Miserables.txt 1
 fauchelevent	Miserables.txt 298
 fauchelevents	Miserables.txt 1
 fauchewhat	Miserables.txt 1
-fault	NotreDame_De_Paris.txt 11, Miserables.txt 74
-faults	NotreDame_De_Paris.txt 3, Miserables.txt 17
+fault	Miserables.txt 74, NotreDame_De_Paris.txt 11
+faults	Miserables.txt 17, NotreDame_De_Paris.txt 3
 faulty	Miserables.txt 2
 faun	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fauna	Miserables.txt 1
@@ -231,11 +231,11 @@ faute	Miserables.txt 8
 fauvent	Miserables.txt 22
 faux	Miserables.txt 5
 faverolles	Miserables.txt 16
-favor	NotreDame_De_Paris.txt 6, Miserables.txt 31
-favorable	NotreDame_De_Paris.txt 3, Miserables.txt 5
+favor	Miserables.txt 31, NotreDame_De_Paris.txt 6
+favorable	Miserables.txt 5, NotreDame_De_Paris.txt 3
 favorably	Miserables.txt 3
 favored	NotreDame_De_Paris.txt 6, Miserables.txt 4
-favorite	NotreDame_De_Paris.txt 3, Miserables.txt 8
+favorite	Miserables.txt 8, NotreDame_De_Paris.txt 3
 favorites	NotreDame_De_Paris.txt 1, Miserables.txt 1
 favors	Miserables.txt 2
 favourite	Miserables.txt 42
@@ -244,51 +244,51 @@ fawn	NotreDame_De_Paris.txt 3, Miserables.txt 1
 fawned	Miserables.txt 1
 fawns	Miserables.txt 1
 fe	Miserables.txt 2
-fear	NotreDame_De_Paris.txt 30, Miserables.txt 90
-feared	NotreDame_De_Paris.txt 10, Miserables.txt 32
+fear	Miserables.txt 90, NotreDame_De_Paris.txt 30
+feared	Miserables.txt 32, NotreDame_De_Paris.txt 10
 fearful	Miserables.txt 20
 fearfully	Miserables.txt 1
 fearing	Miserables.txt 5
-fears	NotreDame_De_Paris.txt 2, Miserables.txt 9
+fears	Miserables.txt 9, NotreDame_De_Paris.txt 2
 feast	NotreDame_De_Paris.txt 7, Miserables.txt 6
 feasted	NotreDame_De_Paris.txt 1
 feasting	NotreDame_De_Paris.txt 2, Miserables.txt 2
 feasts	NotreDame_De_Paris.txt 2
 feat	Miserables.txt 1
-feather	NotreDame_De_Paris.txt 3, Miserables.txt 5
+feather	Miserables.txt 5, NotreDame_De_Paris.txt 3
 feathered	NotreDame_De_Paris.txt 1
 featherless	Miserables.txt 1
-feathers	NotreDame_De_Paris.txt 1, Miserables.txt 5
-feats	NotreDame_De_Paris.txt 3, Miserables.txt 4
-feature	NotreDame_De_Paris.txt 1, Miserables.txt 7
-features	NotreDame_De_Paris.txt 5, Miserables.txt 10
+feathers	Miserables.txt 5, NotreDame_De_Paris.txt 1
+feats	Miserables.txt 4, NotreDame_De_Paris.txt 3
+feature	Miserables.txt 7, NotreDame_De_Paris.txt 1
+features	Miserables.txt 10, NotreDame_De_Paris.txt 5
 febrile	Miserables.txt 1
-february	NotreDame_De_Paris.txt 1, Miserables.txt 23
+february	Miserables.txt 23, NotreDame_De_Paris.txt 1
 febves	NotreDame_De_Paris.txt 1
 fecamp	Miserables.txt 1
-fecund	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fecund	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fecundated	Miserables.txt 1
 fecundating	Miserables.txt 1
 fecundity	Miserables.txt 1
-fed	NotreDame_De_Paris.txt 1, Miserables.txt 8
+fed	Miserables.txt 8, NotreDame_De_Paris.txt 1
 federal	NotreDame_De_Paris.txt 2, Miserables.txt 2
 federates	Miserables.txt 1
 federation	Miserables.txt 1
-fee	NotreDame_De_Paris.txt 9, Miserables.txt 12
-feeble	NotreDame_De_Paris.txt 6, Miserables.txt 32
-feebleness	NotreDame_De_Paris.txt 1, Miserables.txt 6
+fee	Miserables.txt 12, NotreDame_De_Paris.txt 9
+feeble	Miserables.txt 32, NotreDame_De_Paris.txt 6
+feebleness	Miserables.txt 6, NotreDame_De_Paris.txt 1
 feebler	Miserables.txt 1
-feebly	NotreDame_De_Paris.txt 3, Miserables.txt 8
+feebly	Miserables.txt 8, NotreDame_De_Paris.txt 3
 feed	NotreDame_De_Paris.txt 1, Miserables.txt 1
 feeding	NotreDame_De_Paris.txt 1
-feel	NotreDame_De_Paris.txt 20, Miserables.txt 74
-feeling	NotreDame_De_Paris.txt 16, Miserables.txt 34
+feel	Miserables.txt 74, NotreDame_De_Paris.txt 20
+feeling	Miserables.txt 34, NotreDame_De_Paris.txt 16
 feelings	Miserables.txt 5
-feels	NotreDame_De_Paris.txt 12, Miserables.txt 41
-fees	NotreDame_De_Paris.txt 4, Miserables.txt 5
-feet	NotreDame_De_Paris.txt 110, Miserables.txt 208
+feels	Miserables.txt 41, NotreDame_De_Paris.txt 12
+fees	Miserables.txt 5, NotreDame_De_Paris.txt 4
+feet	Miserables.txt 208, NotreDame_De_Paris.txt 110
 feign	Miserables.txt 1
-feigned	NotreDame_De_Paris.txt 1, Miserables.txt 2
+feigned	Miserables.txt 2, NotreDame_De_Paris.txt 1
 feigns	Miserables.txt 2
 feint	Miserables.txt 2
 feints	Miserables.txt 1
@@ -297,23 +297,23 @@ felicitations	NotreDame_De_Paris.txt 1
 felicite	Miserables.txt 1
 felicities	Miserables.txt 2
 felicitous	Miserables.txt 1
-felicity	NotreDame_De_Paris.txt 1, Miserables.txt 12
+felicity	Miserables.txt 12, NotreDame_De_Paris.txt 1
 feline	Miserables.txt 2
 felix	Miserables.txt 7
-fell	NotreDame_De_Paris.txt 79, Miserables.txt 197
+fell	Miserables.txt 197, NotreDame_De_Paris.txt 79
 fellers	Miserables.txt 1
 fellies	Miserables.txt 1
-fellow	NotreDame_De_Paris.txt 28, Miserables.txt 88
-fellows	NotreDame_De_Paris.txt 7, Miserables.txt 19
+fellow	Miserables.txt 88, NotreDame_De_Paris.txt 28
+fellows	Miserables.txt 19, NotreDame_De_Paris.txt 7
 fellowship	Miserables.txt 1
 felly	Miserables.txt 1
-felt	NotreDame_De_Paris.txt 91, Miserables.txt 304
-female	NotreDame_De_Paris.txt 16, Miserables.txt 28
+felt	Miserables.txt 304, NotreDame_De_Paris.txt 91
+female	Miserables.txt 28, NotreDame_De_Paris.txt 16
 females	NotreDame_De_Paris.txt 1, Miserables.txt 1
-feminine	NotreDame_De_Paris.txt 4, Miserables.txt 12
+feminine	Miserables.txt 12, NotreDame_De_Paris.txt 4
 femme	Miserables.txt 1
 fen	NotreDame_De_Paris.txt 1
-fence	NotreDame_De_Paris.txt 1, Miserables.txt 20
+fence	Miserables.txt 20, NotreDame_De_Paris.txt 1
 fenced	NotreDame_De_Paris.txt 1
 fencing	Miserables.txt 8
 fender	Miserables.txt 2
@@ -326,7 +326,7 @@ ferments	NotreDame_De_Paris.txt 1
 ferney	Miserables.txt 1
 fernicle	NotreDame_De_Paris.txt 1
 ferns	Miserables.txt 1
-ferocious	NotreDame_De_Paris.txt 1, Miserables.txt 44
+ferocious	Miserables.txt 44, NotreDame_De_Paris.txt 1
 ferociously	Miserables.txt 3
 ferocities	Miserables.txt 2
 ferocity	Miserables.txt 6
@@ -341,7 +341,7 @@ ferry	Miserables.txt 1
 ferryman	NotreDame_De_Paris.txt 5
 fers	Miserables.txt 1
 fertanche	Miserables.txt 1
-fertile	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fertile	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fertility	Miserables.txt 1
 fertilizers	Miserables.txt 1
 fertille	Miserables.txt 1
@@ -349,8 +349,8 @@ fervacques	Miserables.txt 1
 fervent	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fervor	Miserables.txt 1
 fesch	Miserables.txt 3
-festival	NotreDame_De_Paris.txt 17, Miserables.txt 19
-festivals	NotreDame_De_Paris.txt 4, Miserables.txt 6
+festival	Miserables.txt 19, NotreDame_De_Paris.txt 17
+festivals	Miserables.txt 6, NotreDame_De_Paris.txt 4
 festive	Miserables.txt 1
 fetch	Miserables.txt 23
 fetched	Miserables.txt 3
@@ -360,22 +360,22 @@ fetes	Miserables.txt 1
 fetiches	Miserables.txt 1
 fetid	Miserables.txt 7
 fetidness	Miserables.txt 3
-fetter	NotreDame_De_Paris.txt 1, Miserables.txt 3
+fetter	Miserables.txt 3, NotreDame_De_Paris.txt 1
 fettered	Miserables.txt 1
-fetters	NotreDame_De_Paris.txt 1, Miserables.txt 6
+fetters	Miserables.txt 6, NotreDame_De_Paris.txt 1
 feu	NotreDame_De_Paris.txt 2, Miserables.txt 1
 feudal	NotreDame_De_Paris.txt 9, Miserables.txt 5
 feudalism	NotreDame_De_Paris.txt 5, Miserables.txt 3
 feuillage	NotreDame_De_Paris.txt 1
 feuillantines	Miserables.txt 1
 feuilly	Miserables.txt 26
-fever	NotreDame_De_Paris.txt 3, Miserables.txt 44
+fever	Miserables.txt 44, NotreDame_De_Paris.txt 3
 fevered	Miserables.txt 1
 feverish	Miserables.txt 11
 feverishly	Miserables.txt 1
-fevers	NotreDame_De_Paris.txt 1, Miserables.txt 6
+fevers	Miserables.txt 6, NotreDame_De_Paris.txt 1
 fevrier	Miserables.txt 1
-few	NotreDame_De_Paris.txt 77, Miserables.txt 284
+few	Miserables.txt 284, NotreDame_De_Paris.txt 77
 fewer	Miserables.txt 4
 fex	Miserables.txt 2
 feydeau	Miserables.txt 1
@@ -393,102 +393,102 @@ fichus	Miserables.txt 2
 fickle	NotreDame_De_Paris.txt 1
 fickleness	Miserables.txt 1
 fictions	Miserables.txt 5
-fictitious	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fictitious	Miserables.txt 2, NotreDame_De_Paris.txt 1
 ficulnus	NotreDame_De_Paris.txt 1
 fiddler	NotreDame_De_Paris.txt 1
 fidelitas	NotreDame_De_Paris.txt 1
-fidelity	NotreDame_De_Paris.txt 2, Miserables.txt 4
+fidelity	Miserables.txt 4, NotreDame_De_Paris.txt 2
 fidenae	Miserables.txt 1
 fidgeted	Miserables.txt 1
 fie	NotreDame_De_Paris.txt 2
 fief	NotreDame_De_Paris.txt 10
 fiefs	NotreDame_De_Paris.txt 1
-field	NotreDame_De_Paris.txt 12, Miserables.txt 58
-fields	NotreDame_De_Paris.txt 8, Miserables.txt 27
+field	Miserables.txt 58, NotreDame_De_Paris.txt 12
+fields	Miserables.txt 27, NotreDame_De_Paris.txt 8
 fiends	Miserables.txt 2
 fier	Miserables.txt 1
-fierce	NotreDame_De_Paris.txt 6, Miserables.txt 29
+fierce	Miserables.txt 29, NotreDame_De_Paris.txt 6
 fiercest	Miserables.txt 2
 fiery	NotreDame_De_Paris.txt 3, Miserables.txt 2
 fieschi	Miserables.txt 1
 fievee	Miserables.txt 1
 fife	NotreDame_De_Paris.txt 2, Miserables.txt 1
 fift	Miserables.txt 1
-fifteen	NotreDame_De_Paris.txt 25, Miserables.txt 89
+fifteen	Miserables.txt 89, NotreDame_De_Paris.txt 25
 fifteenth	NotreDame_De_Paris.txt 29, Miserables.txt 6
-fifth	NotreDame_De_Paris.txt 5, Miserables.txt 29
+fifth	Miserables.txt 29, NotreDame_De_Paris.txt 5
 fifthly	Miserables.txt 1
 fiftieth	Miserables.txt 1
-fifty	NotreDame_De_Paris.txt 13, Miserables.txt 67
+fifty	Miserables.txt 67, NotreDame_De_Paris.txt 13
 fig	Miserables.txt 4
 figaro	NotreDame_De_Paris.txt 1
-fight	NotreDame_De_Paris.txt 3, Miserables.txt 21
+fight	Miserables.txt 21, NotreDame_De_Paris.txt 3
 fighters	NotreDame_De_Paris.txt 1
-fighting	NotreDame_De_Paris.txt 2, Miserables.txt 20
+fighting	Miserables.txt 20, NotreDame_De_Paris.txt 2
 fights	Miserables.txt 2
 figs	Miserables.txt 2
 figuier	Miserables.txt 1
 figuras	NotreDame_De_Paris.txt 1
 figurative	Miserables.txt 1
 figuratively	NotreDame_De_Paris.txt 1
-figure	NotreDame_De_Paris.txt 24, Miserables.txt 42
-figured	NotreDame_De_Paris.txt 4, Miserables.txt 10
-figures	NotreDame_De_Paris.txt 25, Miserables.txt 33
+figure	Miserables.txt 42, NotreDame_De_Paris.txt 24
+figured	Miserables.txt 10, NotreDame_De_Paris.txt 4
+figures	Miserables.txt 33, NotreDame_De_Paris.txt 25
 figuring	NotreDame_De_Paris.txt 1
 figuris	NotreDame_De_Paris.txt 1
 filaments	Miserables.txt 1
 filch	Miserables.txt 1
 filched	Miserables.txt 4
-file	NotreDame_De_Paris.txt 7, Miserables.txt 19
+file	Miserables.txt 19, NotreDame_De_Paris.txt 7
 filed	Miserables.txt 1
-files	NotreDame_De_Paris.txt 2, Miserables.txt 11
-filial	NotreDame_De_Paris.txt 1, Miserables.txt 2
+files	Miserables.txt 11, NotreDame_De_Paris.txt 2
+filial	Miserables.txt 2, NotreDame_De_Paris.txt 1
 filium	Miserables.txt 2
-fill	NotreDame_De_Paris.txt 4, Miserables.txt 16
+fill	Miserables.txt 16, NotreDame_De_Paris.txt 4
 fille	NotreDame_De_Paris.txt 3
-filled	NotreDame_De_Paris.txt 28, Miserables.txt 118
-filles	NotreDame_De_Paris.txt 1, Miserables.txt 41
+filled	Miserables.txt 118, NotreDame_De_Paris.txt 28
+filles	Miserables.txt 41, NotreDame_De_Paris.txt 1
 fillets	Miserables.txt 1
 fillette	Miserables.txt 1
 filling	Miserables.txt 6
-fillip	NotreDame_De_Paris.txt 1, Miserables.txt 4
+fillip	Miserables.txt 4, NotreDame_De_Paris.txt 1
 filliping	Miserables.txt 1
-fills	NotreDame_De_Paris.txt 4, Miserables.txt 8
+fills	Miserables.txt 8, NotreDame_De_Paris.txt 4
 filousophe	Miserables.txt 1
 fils	Miserables.txt 1
 filspierre	Miserables.txt 2
 filter	Miserables.txt 4
-filtered	NotreDame_De_Paris.txt 1, Miserables.txt 3
+filtered	Miserables.txt 3, NotreDame_De_Paris.txt 1
 filtering	NotreDame_De_Paris.txt 1
 filters	NotreDame_De_Paris.txt 1, Miserables.txt 1
-filth	NotreDame_De_Paris.txt 1, Miserables.txt 19
+filth	Miserables.txt 19, NotreDame_De_Paris.txt 1
 filthy	Miserables.txt 1
-final	NotreDame_De_Paris.txt 6, Miserables.txt 24
-finally	NotreDame_De_Paris.txt 23, Miserables.txt 57
+final	Miserables.txt 24, NotreDame_De_Paris.txt 6
+finally	Miserables.txt 57, NotreDame_De_Paris.txt 23
 finance	Miserables.txt 2
 finances	NotreDame_De_Paris.txt 1, Miserables.txt 1
-financial	NotreDame_De_Paris.txt 1, Miserables.txt 2
+financial	Miserables.txt 2, NotreDame_De_Paris.txt 1
 financier	Miserables.txt 1
 finch	Miserables.txt 1
-find	NotreDame_De_Paris.txt 41, Miserables.txt 135
+find	Miserables.txt 135, NotreDame_De_Paris.txt 41
 finder	Miserables.txt 1
-finding	NotreDame_De_Paris.txt 8, Miserables.txt 24
-finds	NotreDame_De_Paris.txt 10, Miserables.txt 36
-fine	NotreDame_De_Paris.txt 126, Miserables.txt 141
+finding	Miserables.txt 24, NotreDame_De_Paris.txt 8
+finds	Miserables.txt 36, NotreDame_De_Paris.txt 10
+fine	Miserables.txt 141, NotreDame_De_Paris.txt 126
 fined	NotreDame_De_Paris.txt 1
 finely	NotreDame_De_Paris.txt 1, Miserables.txt 1
-fineness	NotreDame_De_Paris.txt 1, Miserables.txt 3
+fineness	Miserables.txt 3, NotreDame_De_Paris.txt 1
 finer	NotreDame_De_Paris.txt 2
 finery	Miserables.txt 3
 fines	NotreDame_De_Paris.txt 1
 finest	NotreDame_De_Paris.txt 8, Miserables.txt 6
-finger	NotreDame_De_Paris.txt 25, Miserables.txt 36
+finger	Miserables.txt 36, NotreDame_De_Paris.txt 25
 fingering	NotreDame_De_Paris.txt 1
-fingers	NotreDame_De_Paris.txt 15, Miserables.txt 41
+fingers	Miserables.txt 41, NotreDame_De_Paris.txt 15
 finical	Miserables.txt 1
 finis	Miserables.txt 2
-finish	NotreDame_De_Paris.txt 10, Miserables.txt 19
-finished	NotreDame_De_Paris.txt 19, Miserables.txt 62
+finish	Miserables.txt 19, NotreDame_De_Paris.txt 10
+finished	Miserables.txt 62, NotreDame_De_Paris.txt 19
 finishes	NotreDame_De_Paris.txt 1, Miserables.txt 1
 finishing	Miserables.txt 8
 finistere	Miserables.txt 1
@@ -497,30 +497,30 @@ finnicky	Miserables.txt 1
 fioriture	NotreDame_De_Paris.txt 1
 fiques	Miserables.txt 1
 fir	Miserables.txt 1
-fire	NotreDame_De_Paris.txt 85, Miserables.txt 179
-firebrand	NotreDame_De_Paris.txt 2, Miserables.txt 4
-fired	NotreDame_De_Paris.txt 1, Miserables.txt 24
+fire	Miserables.txt 179, NotreDame_De_Paris.txt 85
+firebrand	Miserables.txt 4, NotreDame_De_Paris.txt 2
+fired	Miserables.txt 24, NotreDame_De_Paris.txt 1
 firedogs	Miserables.txt 1
 firelight	Miserables.txt 3
 fireman	Miserables.txt 3
 firemen	Miserables.txt 3
 fireplace	Miserables.txt 30
-fires	NotreDame_De_Paris.txt 5, Miserables.txt 8
+fires	Miserables.txt 8, NotreDame_De_Paris.txt 5
 fireside	Miserables.txt 4
 firewood	NotreDame_De_Paris.txt 2
 firework	NotreDame_De_Paris.txt 1
-fireworks	NotreDame_De_Paris.txt 1, Miserables.txt 3
+fireworks	Miserables.txt 3, NotreDame_De_Paris.txt 1
 firing	Miserables.txt 25
-firm	NotreDame_De_Paris.txt 9, Miserables.txt 38
+firm	Miserables.txt 38, NotreDame_De_Paris.txt 9
 firma	Miserables.txt 1
 firmament	Miserables.txt 5
 firmer	Miserables.txt 1
 firmest	Miserables.txt 1
-firmly	NotreDame_De_Paris.txt 3, Miserables.txt 13
-firmness	NotreDame_De_Paris.txt 2, Miserables.txt 8
-first	NotreDame_De_Paris.txt 185, Miserables.txt 582
+firmly	Miserables.txt 13, NotreDame_De_Paris.txt 3
+firmness	Miserables.txt 8, NotreDame_De_Paris.txt 2
+first	Miserables.txt 582, NotreDame_De_Paris.txt 185
 firstly	Miserables.txt 2
-fish	NotreDame_De_Paris.txt 5, Miserables.txt 14
+fish	Miserables.txt 14, NotreDame_De_Paris.txt 5
 fisher	Miserables.txt 1
 fisherman	Miserables.txt 2
 fishermen	Miserables.txt 1
@@ -530,28 +530,28 @@ fishmarket	Miserables.txt 1
 fishmarkets	Miserables.txt 1
 fishmonger	Miserables.txt 3
 fishponds	NotreDame_De_Paris.txt 2
-fishwife	NotreDame_De_Paris.txt 1, Miserables.txt 5
+fishwife	Miserables.txt 5, NotreDame_De_Paris.txt 1
 fishwives	Miserables.txt 1
 fishwoman	Miserables.txt 1
 fishwomen	Miserables.txt 1
 fissure	Miserables.txt 3
-fissures	NotreDame_De_Paris.txt 2, Miserables.txt 3
-fist	NotreDame_De_Paris.txt 6, Miserables.txt 43
+fissures	Miserables.txt 3, NotreDame_De_Paris.txt 2
+fist	Miserables.txt 43, NotreDame_De_Paris.txt 6
 fistfuls	Miserables.txt 2
-fists	NotreDame_De_Paris.txt 12, Miserables.txt 21
-fit	NotreDame_De_Paris.txt 8, Miserables.txt 32
+fists	Miserables.txt 21, NotreDame_De_Paris.txt 12
+fit	Miserables.txt 32, NotreDame_De_Paris.txt 8
 fitness	NotreDame_De_Paris.txt 1, Miserables.txt 1
-fits	NotreDame_De_Paris.txt 1, Miserables.txt 11
+fits	Miserables.txt 11, NotreDame_De_Paris.txt 1
 fitted	NotreDame_De_Paris.txt 6, Miserables.txt 6
-fitting	NotreDame_De_Paris.txt 3, Miserables.txt 8
+fitting	Miserables.txt 8, NotreDame_De_Paris.txt 3
 fitz	Miserables.txt 1
-five	NotreDame_De_Paris.txt 35, Miserables.txt 285
-fix	NotreDame_De_Paris.txt 3, Miserables.txt 11
+five	Miserables.txt 285, NotreDame_De_Paris.txt 35
+fix	Miserables.txt 11, NotreDame_De_Paris.txt 3
 fixation	Miserables.txt 1
-fixed	NotreDame_De_Paris.txt 38, Miserables.txt 78
-fixedly	NotreDame_De_Paris.txt 4, Miserables.txt 11
+fixed	Miserables.txt 78, NotreDame_De_Paris.txt 38
+fixedly	Miserables.txt 11, NotreDame_De_Paris.txt 4
 fixes	Miserables.txt 2
-fixing	NotreDame_De_Paris.txt 4, Miserables.txt 6
+fixing	Miserables.txt 6, NotreDame_De_Paris.txt 4
 fixings	Miserables.txt 1
 fixity	Miserables.txt 3
 fl	NotreDame_De_Paris.txt 1
@@ -568,106 +568,106 @@ flagon	NotreDame_De_Paris.txt 2
 flagrant	Miserables.txt 4
 flags	Miserables.txt 6
 flagstone	NotreDame_De_Paris.txt 1, Miserables.txt 1
-flagstones	NotreDame_De_Paris.txt 2, Miserables.txt 3
+flagstones	Miserables.txt 3, NotreDame_De_Paris.txt 2
 flake	Miserables.txt 2
-flakes	NotreDame_De_Paris.txt 1, Miserables.txt 3
+flakes	Miserables.txt 3, NotreDame_De_Paris.txt 1
 flambeaux	NotreDame_De_Paris.txt 1
-flame	NotreDame_De_Paris.txt 22, Miserables.txt 34
-flamed	NotreDame_De_Paris.txt 2, Miserables.txt 5
+flame	Miserables.txt 34, NotreDame_De_Paris.txt 22
+flamed	Miserables.txt 5, NotreDame_De_Paris.txt 2
 flamel	NotreDame_De_Paris.txt 15
-flames	NotreDame_De_Paris.txt 6, Miserables.txt 9
-flaming	NotreDame_De_Paris.txt 9, Miserables.txt 12
+flames	Miserables.txt 9, NotreDame_De_Paris.txt 6
+flaming	Miserables.txt 12, NotreDame_De_Paris.txt 9
 flaminius	Miserables.txt 1
 flamma	NotreDame_De_Paris.txt 1
 flanders	NotreDame_De_Paris.txt 16, Miserables.txt 3
-flank	NotreDame_De_Paris.txt 1, Miserables.txt 7
-flanked	NotreDame_De_Paris.txt 6, Miserables.txt 7
+flank	Miserables.txt 7, NotreDame_De_Paris.txt 1
+flanked	Miserables.txt 7, NotreDame_De_Paris.txt 6
 flanks	NotreDame_De_Paris.txt 3
 flannel	Miserables.txt 1
 flapped	Miserables.txt 1
 flaps	Miserables.txt 1
 flare	Miserables.txt 1
 flaring	NotreDame_De_Paris.txt 2, Miserables.txt 1
-flash	NotreDame_De_Paris.txt 18, Miserables.txt 42
+flash	Miserables.txt 42, NotreDame_De_Paris.txt 18
 flashed	NotreDame_De_Paris.txt 11, Miserables.txt 9
-flashes	NotreDame_De_Paris.txt 2, Miserables.txt 17
+flashes	Miserables.txt 17, NotreDame_De_Paris.txt 2
 flashing	NotreDame_De_Paris.txt 6, Miserables.txt 4
 flask	Miserables.txt 3
 flasks	NotreDame_De_Paris.txt 1, Miserables.txt 1
-flat	NotreDame_De_Paris.txt 10, Miserables.txt 39
+flat	Miserables.txt 39, NotreDame_De_Paris.txt 10
 flatness	Miserables.txt 1
 flats	Miserables.txt 1
 flattened	NotreDame_De_Paris.txt 5, Miserables.txt 4
 flatter	Miserables.txt 2
-flattered	NotreDame_De_Paris.txt 2, Miserables.txt 5
+flattered	Miserables.txt 5, NotreDame_De_Paris.txt 2
 flattering	NotreDame_De_Paris.txt 1
 flatters	Miserables.txt 3
 flaunted	Miserables.txt 2
 flavius	Miserables.txt 1
 flavor	Miserables.txt 4
 flaw	Miserables.txt 1
-flax	NotreDame_De_Paris.txt 1, Miserables.txt 2
+flax	Miserables.txt 2, NotreDame_De_Paris.txt 1
 flay	NotreDame_De_Paris.txt 1
 flayed	NotreDame_De_Paris.txt 2, Miserables.txt 2
 flayer	NotreDame_De_Paris.txt 1
 flea	Miserables.txt 1
 fleas	NotreDame_De_Paris.txt 2, Miserables.txt 1
 flebit	Miserables.txt 1
-fled	NotreDame_De_Paris.txt 19, Miserables.txt 37
-flee	NotreDame_De_Paris.txt 11, Miserables.txt 22
+fled	Miserables.txt 37, NotreDame_De_Paris.txt 19
+flee	Miserables.txt 22, NotreDame_De_Paris.txt 11
 fleece	NotreDame_De_Paris.txt 3, Miserables.txt 2
 fleecy	NotreDame_De_Paris.txt 1
-fleeing	NotreDame_De_Paris.txt 2, Miserables.txt 10
+fleeing	Miserables.txt 10, NotreDame_De_Paris.txt 2
 flees	Miserables.txt 2
 fleet	Miserables.txt 6
 fleets	Miserables.txt 1
-fleming	NotreDame_De_Paris.txt 1, Miserables.txt 11
+fleming	Miserables.txt 11, NotreDame_De_Paris.txt 1
 flemings	NotreDame_De_Paris.txt 18, Miserables.txt 1
 flemish	NotreDame_De_Paris.txt 27, Miserables.txt 1
-flesh	NotreDame_De_Paris.txt 18, Miserables.txt 40
+flesh	Miserables.txt 40, NotreDame_De_Paris.txt 18
 fleshless	NotreDame_De_Paris.txt 5, Miserables.txt 1
 fleur	NotreDame_De_Paris.txt 62, Miserables.txt 9
 fleuries	NotreDame_De_Paris.txt 1
-fleurs	NotreDame_De_Paris.txt 6, Miserables.txt 9
+fleurs	Miserables.txt 9, NotreDame_De_Paris.txt 6
 fleurus	Miserables.txt 1
 fleury	Miserables.txt 2
-flew	NotreDame_De_Paris.txt 7, Miserables.txt 16
+flew	Miserables.txt 16, NotreDame_De_Paris.txt 7
 flicked	Miserables.txt 1
 flicker	Miserables.txt 2
 flickered	NotreDame_De_Paris.txt 3, Miserables.txt 1
-flickering	NotreDame_De_Paris.txt 3, Miserables.txt 4
+flickering	Miserables.txt 4, NotreDame_De_Paris.txt 3
 flickerings	Miserables.txt 2
-flies	NotreDame_De_Paris.txt 7, Miserables.txt 13
-flight	NotreDame_De_Paris.txt 16, Miserables.txt 63
+flies	Miserables.txt 13, NotreDame_De_Paris.txt 7
+flight	Miserables.txt 63, NotreDame_De_Paris.txt 16
 flights	Miserables.txt 2
 flinch	Miserables.txt 3
 flinched	Miserables.txt 2
 flinching	Miserables.txt 3
-fling	NotreDame_De_Paris.txt 13, Miserables.txt 14
+fling	Miserables.txt 14, NotreDame_De_Paris.txt 13
 flinging	NotreDame_De_Paris.txt 5, Miserables.txt 5
 flings	Miserables.txt 15
 flint	Miserables.txt 1
 flints	Miserables.txt 1
 flippant	Miserables.txt 1
-flit	NotreDame_De_Paris.txt 1, Miserables.txt 2
+flit	Miserables.txt 2, NotreDame_De_Paris.txt 1
 flits	Miserables.txt 1
 flitted	NotreDame_De_Paris.txt 3, Miserables.txt 2
 flitting	Miserables.txt 2
-float	NotreDame_De_Paris.txt 2, Miserables.txt 6
-floated	NotreDame_De_Paris.txt 2, Miserables.txt 11
-floating	NotreDame_De_Paris.txt 7, Miserables.txt 16
-floats	NotreDame_De_Paris.txt 2, Miserables.txt 6
-flock	NotreDame_De_Paris.txt 3, Miserables.txt 8
+float	Miserables.txt 6, NotreDame_De_Paris.txt 2
+floated	Miserables.txt 11, NotreDame_De_Paris.txt 2
+floating	Miserables.txt 16, NotreDame_De_Paris.txt 7
+floats	Miserables.txt 6, NotreDame_De_Paris.txt 2
+flock	Miserables.txt 8, NotreDame_De_Paris.txt 3
 flocked	Miserables.txt 2
 flocks	NotreDame_De_Paris.txt 2, Miserables.txt 2
 flog	NotreDame_De_Paris.txt 1
 flogged	NotreDame_De_Paris.txt 1, Miserables.txt 1
 flogging	Miserables.txt 1
-flood	NotreDame_De_Paris.txt 8, Miserables.txt 10
-flooded	NotreDame_De_Paris.txt 1, Miserables.txt 2
+flood	Miserables.txt 10, NotreDame_De_Paris.txt 8
+flooded	Miserables.txt 2, NotreDame_De_Paris.txt 1
 flooding	Miserables.txt 1
 floods	NotreDame_De_Paris.txt 5, Miserables.txt 3
-floor	NotreDame_De_Paris.txt 30, Miserables.txt 118
+floor	Miserables.txt 118, NotreDame_De_Paris.txt 30
 flooring	Miserables.txt 5
 floors	Miserables.txt 2
 flora	Miserables.txt 10
@@ -688,36 +688,36 @@ flounce	NotreDame_De_Paris.txt 1
 floundered	NotreDame_De_Paris.txt 1
 floundering	Miserables.txt 2
 flour	Miserables.txt 3
-flourish	NotreDame_De_Paris.txt 1, Miserables.txt 3
+flourish	Miserables.txt 3, NotreDame_De_Paris.txt 1
 flourished	Miserables.txt 3
 flourishing	Miserables.txt 4
-flow	NotreDame_De_Paris.txt 4, Miserables.txt 8
-flowed	NotreDame_De_Paris.txt 5, Miserables.txt 14
-flower	NotreDame_De_Paris.txt 3, Miserables.txt 35
-flowered	NotreDame_De_Paris.txt 1, Miserables.txt 2
-flowers	NotreDame_De_Paris.txt 13, Miserables.txt 95
+flow	Miserables.txt 8, NotreDame_De_Paris.txt 4
+flowed	Miserables.txt 14, NotreDame_De_Paris.txt 5
+flower	Miserables.txt 35, NotreDame_De_Paris.txt 3
+flowered	Miserables.txt 2, NotreDame_De_Paris.txt 1
+flowers	Miserables.txt 95, NotreDame_De_Paris.txt 13
 flowery	Miserables.txt 2
-flowing	NotreDame_De_Paris.txt 3, Miserables.txt 4
-flows	NotreDame_De_Paris.txt 1, Miserables.txt 5
+flowing	Miserables.txt 4, NotreDame_De_Paris.txt 3
+flows	Miserables.txt 5, NotreDame_De_Paris.txt 1
 fluctuations	Miserables.txt 2
 fluctus	NotreDame_De_Paris.txt 1
 flue	Miserables.txt 10
 fluency	Miserables.txt 1
 fluently	Miserables.txt 1
-fluid	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fluid	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fluidity	Miserables.txt 2
 flumem	NotreDame_De_Paris.txt 1
-flung	NotreDame_De_Paris.txt 38, Miserables.txt 60
+flung	Miserables.txt 60, NotreDame_De_Paris.txt 38
 flurried	Miserables.txt 1
-flush	NotreDame_De_Paris.txt 3, Miserables.txt 6
+flush	Miserables.txt 6, NotreDame_De_Paris.txt 3
 flushed	Miserables.txt 2
-flute	NotreDame_De_Paris.txt 2, Miserables.txt 9
+flute	Miserables.txt 9, NotreDame_De_Paris.txt 2
 fluted	NotreDame_De_Paris.txt 1, Miserables.txt 1
 flutes	NotreDame_De_Paris.txt 2, Miserables.txt 1
 flutings	Miserables.txt 1
 flutter	Miserables.txt 6
 fluttered	Miserables.txt 7
-fluttering	NotreDame_De_Paris.txt 1, Miserables.txt 7
+fluttering	Miserables.txt 7, NotreDame_De_Paris.txt 1
 flutterings	Miserables.txt 1
 fluvio	NotreDame_De_Paris.txt 1
 flux	NotreDame_De_Paris.txt 1
@@ -727,7 +727,7 @@ fo	NotreDame_De_Paris.txt 1, Miserables.txt 1
 foam	Miserables.txt 10
 foamed	NotreDame_De_Paris.txt 2, Miserables.txt 1
 foaming	NotreDame_De_Paris.txt 5, Miserables.txt 3
-fob	NotreDame_De_Paris.txt 2, Miserables.txt 9
+fob	Miserables.txt 9, NotreDame_De_Paris.txt 2
 fobs	Miserables.txt 5
 focus	Miserables.txt 1
 focused	Miserables.txt 1
@@ -735,7 +735,7 @@ fodder	Miserables.txt 1
 fodit	Miserables.txt 1
 foe	Miserables.txt 1
 foetus	Miserables.txt 3
-fog	NotreDame_De_Paris.txt 4, Miserables.txt 11
+fog	Miserables.txt 11, NotreDame_De_Paris.txt 4
 foggy	Miserables.txt 1
 fogs	Miserables.txt 2
 foh	NotreDame_De_Paris.txt 1
@@ -747,48 +747,48 @@ foin	NotreDame_De_Paris.txt 3
 fois	Miserables.txt 1
 foix	NotreDame_De_Paris.txt 1, Miserables.txt 1
 folard	Miserables.txt 2
-fold	NotreDame_De_Paris.txt 3, Miserables.txt 19
-folded	NotreDame_De_Paris.txt 6, Miserables.txt 46
+fold	Miserables.txt 19, NotreDame_De_Paris.txt 3
+folded	Miserables.txt 46, NotreDame_De_Paris.txt 6
 folder	Miserables.txt 1
 folding	Miserables.txt 11
-folds	NotreDame_De_Paris.txt 5, Miserables.txt 24
+folds	Miserables.txt 24, NotreDame_De_Paris.txt 5
 foliage	NotreDame_De_Paris.txt 8, Miserables.txt 6
 folie	Miserables.txt 1
 foliis	Miserables.txt 2
-folio	NotreDame_De_Paris.txt 2, Miserables.txt 3
+folio	Miserables.txt 3, NotreDame_De_Paris.txt 2
 folios	Miserables.txt 3
 folk	NotreDame_De_Paris.txt 1
-folks	NotreDame_De_Paris.txt 1, Miserables.txt 19
+folks	Miserables.txt 19, NotreDame_De_Paris.txt 1
 folle	NotreDame_De_Paris.txt 3
-follies	NotreDame_De_Paris.txt 2, Miserables.txt 9
-follow	NotreDame_De_Paris.txt 27, Miserables.txt 53
-followed	NotreDame_De_Paris.txt 49, Miserables.txt 106
+follies	Miserables.txt 9, NotreDame_De_Paris.txt 2
+follow	Miserables.txt 53, NotreDame_De_Paris.txt 27
+followed	Miserables.txt 106, NotreDame_De_Paris.txt 49
 follower	NotreDame_De_Paris.txt 1
 followers	NotreDame_De_Paris.txt 1
-following	NotreDame_De_Paris.txt 24, Miserables.txt 149
-follows	NotreDame_De_Paris.txt 3, Miserables.txt 23
-folly	NotreDame_De_Paris.txt 9, Miserables.txt 16
+following	Miserables.txt 149, NotreDame_De_Paris.txt 24
+follows	Miserables.txt 23, NotreDame_De_Paris.txt 3
+folly	Miserables.txt 16, NotreDame_De_Paris.txt 9
 fomentations	Miserables.txt 1
-fond	NotreDame_De_Paris.txt 6, Miserables.txt 34
+fond	Miserables.txt 34, NotreDame_De_Paris.txt 6
 fondest	Miserables.txt 1
 fondled	NotreDame_De_Paris.txt 1
 fondling	NotreDame_De_Paris.txt 2
 fondly	Miserables.txt 1
 fonfrede	Miserables.txt 1
 font	NotreDame_De_Paris.txt 3
-fontaine	NotreDame_De_Paris.txt 2, Miserables.txt 3
+fontaine	Miserables.txt 3, NotreDame_De_Paris.txt 2
 fontainebleau	Miserables.txt 5
 fontaines	Miserables.txt 2
 fontenoy	Miserables.txt 2
 fontevrault	Miserables.txt 3
 fontis	Miserables.txt 12
-food	NotreDame_De_Paris.txt 2, Miserables.txt 21
-fool	NotreDame_De_Paris.txt 11, Miserables.txt 22
-foolish	NotreDame_De_Paris.txt 8, Miserables.txt 16
+food	Miserables.txt 21, NotreDame_De_Paris.txt 2
+fool	Miserables.txt 22, NotreDame_De_Paris.txt 11
+foolish	Miserables.txt 16, NotreDame_De_Paris.txt 8
 foolishly	Miserables.txt 2
 fools	NotreDame_De_Paris.txt 30, Miserables.txt 5
-foot	NotreDame_De_Paris.txt 80, Miserables.txt 139
-footed	NotreDame_De_Paris.txt 2, Miserables.txt 4
+foot	Miserables.txt 139, NotreDame_De_Paris.txt 80
+footed	Miserables.txt 4, NotreDame_De_Paris.txt 2
 foothold	NotreDame_De_Paris.txt 1, Miserables.txt 1
 footing	Miserables.txt 6
 footnote	Miserables.txt 70
@@ -796,93 +796,93 @@ footnotes	Miserables.txt 1
 footpad	NotreDame_De_Paris.txt 1
 footprints	Miserables.txt 1
 footrope	Miserables.txt 1
-footstep	NotreDame_De_Paris.txt 1, Miserables.txt 4
+footstep	Miserables.txt 4, NotreDame_De_Paris.txt 1
 footsteps	Miserables.txt 15
 foppish	Miserables.txt 1
-for	NotreDame_De_Paris.txt 952, Miserables.txt 2987
-forbade	NotreDame_De_Paris.txt 2, Miserables.txt 3
+for	Miserables.txt 2987, NotreDame_De_Paris.txt 952
+forbade	Miserables.txt 3, NotreDame_De_Paris.txt 2
 forbid	Miserables.txt 4
-forbidden	NotreDame_De_Paris.txt 3, Miserables.txt 8
+forbidden	Miserables.txt 8, NotreDame_De_Paris.txt 3
 forbidding	NotreDame_De_Paris.txt 1
 forcalquier	Miserables.txt 1
-force	NotreDame_De_Paris.txt 28, Miserables.txt 129
-forced	NotreDame_De_Paris.txt 20, Miserables.txt 73
+force	Miserables.txt 129, NotreDame_De_Paris.txt 28
+forced	Miserables.txt 73, NotreDame_De_Paris.txt 20
 forceps	NotreDame_De_Paris.txt 1
-forces	NotreDame_De_Paris.txt 5, Miserables.txt 17
+forces	Miserables.txt 17, NotreDame_De_Paris.txt 5
 forcibly	NotreDame_De_Paris.txt 3, Miserables.txt 1
 forcing	NotreDame_De_Paris.txt 3, Miserables.txt 3
-fore	NotreDame_De_Paris.txt 3, Miserables.txt 8
+fore	Miserables.txt 8, NotreDame_De_Paris.txt 3
 forearm	Miserables.txt 1
 foreboding	Miserables.txt 1
-forefinger	NotreDame_De_Paris.txt 2, Miserables.txt 6
+forefinger	Miserables.txt 6, NotreDame_De_Paris.txt 2
 forefingers	Miserables.txt 2
 forego	Miserables.txt 1
 foreground	Miserables.txt 1
-forehead	NotreDame_De_Paris.txt 4, Miserables.txt 11
+forehead	Miserables.txt 11, NotreDame_De_Paris.txt 4
 foreheads	NotreDame_De_Paris.txt 1, Miserables.txt 1
-foreign	NotreDame_De_Paris.txt 2, Miserables.txt 8
+foreign	Miserables.txt 8, NotreDame_De_Paris.txt 2
 foreigner	Miserables.txt 2
 forelegs	Miserables.txt 2
 foremost	NotreDame_De_Paris.txt 2, Miserables.txt 1
 forepaws	NotreDame_De_Paris.txt 1
 foresaw	Miserables.txt 1
 foresee	Miserables.txt 3
-foreseeing	NotreDame_De_Paris.txt 1, Miserables.txt 4
-foreseen	NotreDame_De_Paris.txt 2, Miserables.txt 7
+foreseeing	Miserables.txt 4, NotreDame_De_Paris.txt 1
+foreseen	Miserables.txt 7, NotreDame_De_Paris.txt 2
 foreshortening	Miserables.txt 1
 foresight	Miserables.txt 6
-forest	NotreDame_De_Paris.txt 9, Miserables.txt 84
+forest	Miserables.txt 84, NotreDame_De_Paris.txt 9
 forestall	Miserables.txt 1
 forestalled	Miserables.txt 2
-forests	NotreDame_De_Paris.txt 4, Miserables.txt 10
+forests	Miserables.txt 10, NotreDame_De_Paris.txt 4
 foret	Miserables.txt 2
 foretaste	Miserables.txt 1
 foretold	NotreDame_De_Paris.txt 1
 foretop	Miserables.txt 1
-forever	NotreDame_De_Paris.txt 10, Miserables.txt 43
+forever	Miserables.txt 43, NotreDame_De_Paris.txt 10
 forevermore	Miserables.txt 1
 forfeiture	Miserables.txt 1
-forge	NotreDame_De_Paris.txt 3, Miserables.txt 6
+forge	Miserables.txt 6, NotreDame_De_Paris.txt 3
 forged	Miserables.txt 2
 forger	Miserables.txt 1
 forgery	Miserables.txt 1
 forges	Miserables.txt 1
-forget	NotreDame_De_Paris.txt 8, Miserables.txt 30
+forget	Miserables.txt 30, NotreDame_De_Paris.txt 8
 forgetful	Miserables.txt 8
-forgetfulness	NotreDame_De_Paris.txt 2, Miserables.txt 12
+forgetfulness	Miserables.txt 12, NotreDame_De_Paris.txt 2
 forgets	Miserables.txt 6
 forgetting	NotreDame_De_Paris.txt 6, Miserables.txt 6
-forgive	NotreDame_De_Paris.txt 2, Miserables.txt 3
+forgive	Miserables.txt 3, NotreDame_De_Paris.txt 2
 forgiven	Miserables.txt 2
 forgiveness	Miserables.txt 2
 forgiving	Miserables.txt 1
-forgot	NotreDame_De_Paris.txt 5, Miserables.txt 19
-forgotten	NotreDame_De_Paris.txt 21, Miserables.txt 51
+forgot	Miserables.txt 19, NotreDame_De_Paris.txt 5
+forgotten	Miserables.txt 51, NotreDame_De_Paris.txt 21
 forioso	Miserables.txt 2
 forismaritagium	NotreDame_De_Paris.txt 1
-fork	NotreDame_De_Paris.txt 1, Miserables.txt 7
+fork	Miserables.txt 7, NotreDame_De_Paris.txt 1
 forked	NotreDame_De_Paris.txt 1, Miserables.txt 1
-forks	NotreDame_De_Paris.txt 1, Miserables.txt 13
+forks	Miserables.txt 13, NotreDame_De_Paris.txt 1
 forlorn	Miserables.txt 1
-form	NotreDame_De_Paris.txt 75, Miserables.txt 146
+form	Miserables.txt 146, NotreDame_De_Paris.txt 75
 formal	NotreDame_De_Paris.txt 2, Miserables.txt 1
 formalities	Miserables.txt 1
 formality	Miserables.txt 2
 format	NotreDame_De_Paris.txt 4, Miserables.txt 4
-formation	NotreDame_De_Paris.txt 3, Miserables.txt 17
+formation	Miserables.txt 17, NotreDame_De_Paris.txt 3
 formations	NotreDame_De_Paris.txt 2, Miserables.txt 1
 formats	NotreDame_De_Paris.txt 2, Miserables.txt 2
-formed	NotreDame_De_Paris.txt 45, Miserables.txt 120
-former	NotreDame_De_Paris.txt 7, Miserables.txt 50
-formerly	NotreDame_De_Paris.txt 11, Miserables.txt 54
+formed	Miserables.txt 120, NotreDame_De_Paris.txt 45
+former	Miserables.txt 50, NotreDame_De_Paris.txt 7
+formerly	Miserables.txt 54, NotreDame_De_Paris.txt 11
 formic	Miserables.txt 1
-formidable	NotreDame_De_Paris.txt 30, Miserables.txt 85
+formidable	Miserables.txt 85, NotreDame_De_Paris.txt 30
 formidably	Miserables.txt 1
-forming	NotreDame_De_Paris.txt 4, Miserables.txt 13
-formless	NotreDame_De_Paris.txt 1, Miserables.txt 2
+forming	Miserables.txt 13, NotreDame_De_Paris.txt 4
+formless	Miserables.txt 2, NotreDame_De_Paris.txt 1
 formoe	NotreDame_De_Paris.txt 1
-forms	NotreDame_De_Paris.txt 18, Miserables.txt 75
-formula	NotreDame_De_Paris.txt 3, Miserables.txt 5
+forms	Miserables.txt 75, NotreDame_De_Paris.txt 18
+formula	Miserables.txt 5, NotreDame_De_Paris.txt 3
 formulas	NotreDame_De_Paris.txt 1, Miserables.txt 1
 formulate	NotreDame_De_Paris.txt 1
 formulated	NotreDame_De_Paris.txt 2
@@ -891,25 +891,25 @@ forsooth	Miserables.txt 1
 fort	Miserables.txt 2
 forte	NotreDame_De_Paris.txt 1
 fortescue	NotreDame_De_Paris.txt 1
-forth	NotreDame_De_Paris.txt 65, Miserables.txt 154
+forth	Miserables.txt 154, NotreDame_De_Paris.txt 65
 forties	Miserables.txt 1
 fortieth	NotreDame_De_Paris.txt 1
 fortification	NotreDame_De_Paris.txt 1
 fortifications	NotreDame_De_Paris.txt 2
 fortified	NotreDame_De_Paris.txt 3, Miserables.txt 2
 fortify	Miserables.txt 3
-fortnight	NotreDame_De_Paris.txt 2, Miserables.txt 8
-fortress	NotreDame_De_Paris.txt 8, Miserables.txt 11
+fortnight	Miserables.txt 8, NotreDame_De_Paris.txt 2
+fortress	Miserables.txt 11, NotreDame_De_Paris.txt 8
 fortresses	NotreDame_De_Paris.txt 3, Miserables.txt 3
 forts	Miserables.txt 1
 fortunata	Miserables.txt 1
-fortunate	NotreDame_De_Paris.txt 3, Miserables.txt 7
-fortunately	NotreDame_De_Paris.txt 8, Miserables.txt 13
+fortunate	Miserables.txt 7, NotreDame_De_Paris.txt 3
+fortunately	Miserables.txt 13, NotreDame_De_Paris.txt 8
 fortunatus	Miserables.txt 1
-fortune	NotreDame_De_Paris.txt 5, Miserables.txt 56
-fortunes	NotreDame_De_Paris.txt 3, Miserables.txt 6
-forty	NotreDame_De_Paris.txt 16, Miserables.txt 91
-forward	NotreDame_De_Paris.txt 5, Miserables.txt 44
+fortune	Miserables.txt 56, NotreDame_De_Paris.txt 5
+fortunes	Miserables.txt 6, NotreDame_De_Paris.txt 3
+forty	Miserables.txt 91, NotreDame_De_Paris.txt 16
+forward	Miserables.txt 44, NotreDame_De_Paris.txt 5
 forwarded	Miserables.txt 4
 forwards	Miserables.txt 8
 fossa	Miserables.txt 1
@@ -917,41 +917,41 @@ fosse	Miserables.txt 3
 fosseaux	Miserables.txt 1
 fossil	Miserables.txt 1
 fossils	Miserables.txt 1
-foster	NotreDame_De_Paris.txt 1, Miserables.txt 2
+foster	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fouarre	NotreDame_De_Paris.txt 1
 fouche	Miserables.txt 2
 foudre	Miserables.txt 2
 fougere	Miserables.txt 2
-fought	NotreDame_De_Paris.txt 2, Miserables.txt 19
+fought	Miserables.txt 19, NotreDame_De_Paris.txt 2
 fouillou	Miserables.txt 1
-foul	NotreDame_De_Paris.txt 1, Miserables.txt 5
+foul	Miserables.txt 5, NotreDame_De_Paris.txt 1
 foulness	Miserables.txt 2
 foultitude	Miserables.txt 1
-found	NotreDame_De_Paris.txt 86, Miserables.txt 280
-foundation	NotreDame_De_Paris.txt 32, Miserables.txt 58
+found	Miserables.txt 280, NotreDame_De_Paris.txt 86
+foundation	Miserables.txt 58, NotreDame_De_Paris.txt 32
 foundations	NotreDame_De_Paris.txt 2, Miserables.txt 1
-founded	NotreDame_De_Paris.txt 3, Miserables.txt 10
+founded	Miserables.txt 10, NotreDame_De_Paris.txt 3
 founder	Miserables.txt 3
 foundered	Miserables.txt 1
 founders	Miserables.txt 1
-founding	NotreDame_De_Paris.txt 1, Miserables.txt 2
+founding	Miserables.txt 2, NotreDame_De_Paris.txt 1
 foundling	NotreDame_De_Paris.txt 9, Miserables.txt 1
 foundlings	NotreDame_De_Paris.txt 5, Miserables.txt 2
 foundries	NotreDame_De_Paris.txt 1, Miserables.txt 1
-fountain	NotreDame_De_Paris.txt 4, Miserables.txt 17
+fountain	Miserables.txt 17, NotreDame_De_Paris.txt 4
 fountains	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fouquier	Miserables.txt 1
-four	NotreDame_De_Paris.txt 107, Miserables.txt 378
+four	Miserables.txt 378, NotreDame_De_Paris.txt 107
 fourbault	NotreDame_De_Paris.txt 4
 fourcroy	Miserables.txt 1
 fourier	Miserables.txt 4
 fouriers	Miserables.txt 2
 fourrata	NotreDame_De_Paris.txt 1
 fourratis	NotreDame_De_Paris.txt 1
-fours	NotreDame_De_Paris.txt 4, Miserables.txt 5
-fourteen	NotreDame_De_Paris.txt 8, Miserables.txt 17
-fourteenth	NotreDame_De_Paris.txt 3, Miserables.txt 5
-fourth	NotreDame_De_Paris.txt 8, Miserables.txt 39
+fours	Miserables.txt 5, NotreDame_De_Paris.txt 4
+fourteen	Miserables.txt 17, NotreDame_De_Paris.txt 8
+fourteenth	Miserables.txt 5, NotreDame_De_Paris.txt 3
+fourth	Miserables.txt 39, NotreDame_De_Paris.txt 8
 fourthly	Miserables.txt 2
 fourths	Miserables.txt 1
 fowl	NotreDame_De_Paris.txt 2
@@ -966,47 +966,47 @@ fracture	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fractured	Miserables.txt 3
 fractures	NotreDame_De_Paris.txt 2, Miserables.txt 2
 fragile	NotreDame_De_Paris.txt 6, Miserables.txt 6
-fragment	NotreDame_De_Paris.txt 4, Miserables.txt 19
+fragment	Miserables.txt 19, NotreDame_De_Paris.txt 4
 fragmentary	Miserables.txt 2
 fragments	NotreDame_De_Paris.txt 8, Miserables.txt 6
 fragrant	Miserables.txt 5
 frail	NotreDame_De_Paris.txt 13, Miserables.txt 9
 frais	Miserables.txt 2
-frame	NotreDame_De_Paris.txt 9, Miserables.txt 17
+frame	Miserables.txt 17, NotreDame_De_Paris.txt 9
 framed	NotreDame_De_Paris.txt 3, Miserables.txt 3
-frames	NotreDame_De_Paris.txt 1, Miserables.txt 4
+frames	Miserables.txt 4, NotreDame_De_Paris.txt 1
 framework	NotreDame_De_Paris.txt 4, Miserables.txt 4
 fran	NotreDame_De_Paris.txt 5
-franc	NotreDame_De_Paris.txt 1, Miserables.txt 27
+franc	Miserables.txt 27, NotreDame_De_Paris.txt 1
 francais	Miserables.txt 4
-france	NotreDame_De_Paris.txt 47, Miserables.txt 174
+france	Miserables.txt 174, NotreDame_De_Paris.txt 47
 franche	NotreDame_De_Paris.txt 1, Miserables.txt 1
 franchises	NotreDame_De_Paris.txt 1
 franciae	NotreDame_De_Paris.txt 1
 francis	Miserables.txt 1
 franciscan	NotreDame_De_Paris.txt 1
 franciscans	Miserables.txt 1
-francois	NotreDame_De_Paris.txt 1, Miserables.txt 14
+francois	Miserables.txt 14, NotreDame_De_Paris.txt 1
 francoise	Miserables.txt 1
 franconi	Miserables.txt 1
-francs	NotreDame_De_Paris.txt 1, Miserables.txt 286
+francs	Miserables.txt 286, NotreDame_De_Paris.txt 1
 frangere	Miserables.txt 1
 frangir	Miserables.txt 1
-frank	NotreDame_De_Paris.txt 1, Miserables.txt 3
-frankly	NotreDame_De_Paris.txt 2, Miserables.txt 4
+frank	Miserables.txt 3, NotreDame_De_Paris.txt 1
+frankly	Miserables.txt 4, NotreDame_De_Paris.txt 2
 frankness	NotreDame_De_Paris.txt 2, Miserables.txt 1
 frantic	NotreDame_De_Paris.txt 3, Miserables.txt 1
-frantically	NotreDame_De_Paris.txt 1, Miserables.txt 2
+frantically	Miserables.txt 2, NotreDame_De_Paris.txt 1
 frasnes	Miserables.txt 1
-fraternal	NotreDame_De_Paris.txt 2, Miserables.txt 3
+fraternal	Miserables.txt 3, NotreDame_De_Paris.txt 2
 fraternally	NotreDame_De_Paris.txt 1, Miserables.txt 1
-fraternity	NotreDame_De_Paris.txt 2, Miserables.txt 14
+fraternity	Miserables.txt 14, NotreDame_De_Paris.txt 2
 fraternization	Miserables.txt 2
 fraternize	Miserables.txt 3
 fraternized	Miserables.txt 4
 fraternizes	Miserables.txt 2
 fraud	Miserables.txt 2
-fraught	NotreDame_De_Paris.txt 1, Miserables.txt 4
+fraught	Miserables.txt 4, NotreDame_De_Paris.txt 1
 fray	Miserables.txt 8
 frayed	Miserables.txt 2
 frayssinous	Miserables.txt 1
@@ -1016,35 +1016,35 @@ freckled	Miserables.txt 1
 freckles	Miserables.txt 2
 frederic	Miserables.txt 1
 frederick	Miserables.txt 4
-free	NotreDame_De_Paris.txt 21, Miserables.txt 73
+free	Miserables.txt 73, NotreDame_De_Paris.txt 21
 freed	Miserables.txt 7
-freedom	NotreDame_De_Paris.txt 1, Miserables.txt 6
+freedom	Miserables.txt 6, NotreDame_De_Paris.txt 1
 freeholder	Miserables.txt 1
 freeholds	Miserables.txt 1
-freely	NotreDame_De_Paris.txt 8, Miserables.txt 17
+freely	Miserables.txt 17, NotreDame_De_Paris.txt 8
 freewill	NotreDame_De_Paris.txt 1
 freeze	Miserables.txt 2
 freezes	Miserables.txt 1
-freezing	NotreDame_De_Paris.txt 2, Miserables.txt 6
+freezing	Miserables.txt 6, NotreDame_De_Paris.txt 2
 freight	Miserables.txt 1
 freighted	Miserables.txt 1
 freiras	Miserables.txt 1
-french	NotreDame_De_Paris.txt 9, Miserables.txt 110
+french	Miserables.txt 110, NotreDame_De_Paris.txt 9
 frenchman	NotreDame_De_Paris.txt 3, Miserables.txt 3
 frenchmen	Miserables.txt 5
 frenzied	Miserables.txt 4
-frenzy	NotreDame_De_Paris.txt 3, Miserables.txt 4
+frenzy	Miserables.txt 4, NotreDame_De_Paris.txt 3
 frequency	Miserables.txt 2
 frequent	NotreDame_De_Paris.txt 7, Miserables.txt 6
-frequented	NotreDame_De_Paris.txt 3, Miserables.txt 6
+frequented	Miserables.txt 6, NotreDame_De_Paris.txt 3
 frequenter	Miserables.txt 2
 frequenters	Miserables.txt 1
-frequently	NotreDame_De_Paris.txt 7, Miserables.txt 17
+frequently	Miserables.txt 17, NotreDame_De_Paris.txt 7
 frescoes	Miserables.txt 1
-fresh	NotreDame_De_Paris.txt 32, Miserables.txt 67
+fresh	Miserables.txt 67, NotreDame_De_Paris.txt 32
 fresher	Miserables.txt 2
 freshly	Miserables.txt 6
-freshness	NotreDame_De_Paris.txt 1, Miserables.txt 3
+freshness	Miserables.txt 3, NotreDame_De_Paris.txt 1
 fretted	NotreDame_De_Paris.txt 3, Miserables.txt 1
 frevent	Miserables.txt 1
 friability	Miserables.txt 1
@@ -1053,26 +1053,26 @@ friant	Miserables.txt 1
 friar	NotreDame_De_Paris.txt 2
 friars	Miserables.txt 1
 fricot	Miserables.txt 1
-friction	NotreDame_De_Paris.txt 2, Miserables.txt 3
-friday	NotreDame_De_Paris.txt 1, Miserables.txt 4
+friction	Miserables.txt 3, NotreDame_De_Paris.txt 2
+friday	Miserables.txt 4, NotreDame_De_Paris.txt 1
 fridays	Miserables.txt 1
 fried	Miserables.txt 1
 friedland	Miserables.txt 4
-friend	NotreDame_De_Paris.txt 43, Miserables.txt 52
-friendly	NotreDame_De_Paris.txt 1, Miserables.txt 6
-friends	NotreDame_De_Paris.txt 25, Miserables.txt 86
-friendship	NotreDame_De_Paris.txt 3, Miserables.txt 4
+friend	Miserables.txt 52, NotreDame_De_Paris.txt 43
+friendly	Miserables.txt 6, NotreDame_De_Paris.txt 1
+friends	Miserables.txt 86, NotreDame_De_Paris.txt 25
+friendship	Miserables.txt 4, NotreDame_De_Paris.txt 3
 friendships	Miserables.txt 2
 frieze	NotreDame_De_Paris.txt 1
 frigate	Miserables.txt 2
 frigates	Miserables.txt 1
-fright	NotreDame_De_Paris.txt 10, Miserables.txt 11
-frighten	NotreDame_De_Paris.txt 2, Miserables.txt 5
-frightened	NotreDame_De_Paris.txt 21, Miserables.txt 36
+fright	Miserables.txt 11, NotreDame_De_Paris.txt 10
+frighten	Miserables.txt 5, NotreDame_De_Paris.txt 2
+frightened	Miserables.txt 36, NotreDame_De_Paris.txt 21
 frightening	Miserables.txt 2
 frightens	NotreDame_De_Paris.txt 1, Miserables.txt 1
-frightful	NotreDame_De_Paris.txt 32, Miserables.txt 89
-frightfully	NotreDame_De_Paris.txt 1, Miserables.txt 7
+frightful	Miserables.txt 89, NotreDame_De_Paris.txt 32
+frightfully	Miserables.txt 7, NotreDame_De_Paris.txt 1
 frights	Miserables.txt 2
 frigid	Miserables.txt 1
 frills	Miserables.txt 1
@@ -1088,41 +1088,41 @@ fritters	Miserables.txt 1
 frivolities	Miserables.txt 1
 frivolous	Miserables.txt 4
 frizzed	Miserables.txt 2
-fro	NotreDame_De_Paris.txt 4, Miserables.txt 7
-frock	NotreDame_De_Paris.txt 1, Miserables.txt 13
+fro	Miserables.txt 7, NotreDame_De_Paris.txt 4
+frock	Miserables.txt 13, NotreDame_De_Paris.txt 1
 frocks	Miserables.txt 1
 frog	NotreDame_De_Paris.txt 2, Miserables.txt 2
-frogs	NotreDame_De_Paris.txt 1, Miserables.txt 3
+frogs	Miserables.txt 3, NotreDame_De_Paris.txt 1
 froid	Miserables.txt 1
 froidmanteau	Miserables.txt 1
 frolicked	Miserables.txt 1
 frolicsome	NotreDame_De_Paris.txt 1, Miserables.txt 1
 frollo	NotreDame_De_Paris.txt 60
-from	NotreDame_De_Paris.txt 900, Miserables.txt 2455
+from	Miserables.txt 2455, NotreDame_De_Paris.txt 900
 fromage	Miserables.txt 1
 frondibus	Miserables.txt 2
-front	NotreDame_De_Paris.txt 69, Miserables.txt 176
+front	Miserables.txt 176, NotreDame_De_Paris.txt 69
 frontage	Miserables.txt 1
 fronted	Miserables.txt 1
 frontier	Miserables.txt 10
 frontiers	Miserables.txt 6
-frontispiece	NotreDame_De_Paris.txt 1, Miserables.txt 8
+frontispiece	Miserables.txt 8, NotreDame_De_Paris.txt 1
 frontispieces	NotreDame_De_Paris.txt 1
 frontpapers	Miserables.txt 2
-fronts	NotreDame_De_Paris.txt 2, Miserables.txt 11
+fronts	Miserables.txt 11, NotreDame_De_Paris.txt 2
 frost	Miserables.txt 4
 froth	Miserables.txt 3
 frothed	NotreDame_De_Paris.txt 2
 frothing	NotreDame_De_Paris.txt 1
 froths	Miserables.txt 1
-frown	NotreDame_De_Paris.txt 3, Miserables.txt 5
+frown	Miserables.txt 5, NotreDame_De_Paris.txt 3
 frowned	NotreDame_De_Paris.txt 5, Miserables.txt 4
 frowns	Miserables.txt 1
 froze	NotreDame_De_Paris.txt 3, Miserables.txt 1
 frozen	NotreDame_De_Paris.txt 6, Miserables.txt 3
 frugal	Miserables.txt 1
 frugality	Miserables.txt 1
-fruit	NotreDame_De_Paris.txt 6, Miserables.txt 21
+fruit	Miserables.txt 21, NotreDame_De_Paris.txt 6
 fruiterer	Miserables.txt 3
 fruitful	Miserables.txt 2
 fruitieres	Miserables.txt 3
@@ -1134,30 +1134,30 @@ fry	Miserables.txt 1
 frying	NotreDame_De_Paris.txt 4
 fualdes	Miserables.txt 2
 fugitive	Miserables.txt 8
-fugitives	NotreDame_De_Paris.txt 1, Miserables.txt 8
+fugitives	Miserables.txt 8, NotreDame_De_Paris.txt 1
 fuit	NotreDame_De_Paris.txt 1
-fulfil	NotreDame_De_Paris.txt 2, Miserables.txt 4
-fulfilled	NotreDame_De_Paris.txt 2, Miserables.txt 7
-fulfilling	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fulfil	Miserables.txt 4, NotreDame_De_Paris.txt 2
+fulfilled	Miserables.txt 7, NotreDame_De_Paris.txt 2
+fulfilling	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fulfilment	Miserables.txt 1
 fulfils	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fulgurating	Miserables.txt 1
-full	NotreDame_De_Paris.txt 78, Miserables.txt 235
+full	Miserables.txt 235, NotreDame_De_Paris.txt 78
 fuller	Miserables.txt 1
 fullest	Miserables.txt 1
-fully	NotreDame_De_Paris.txt 4, Miserables.txt 25
+fully	Miserables.txt 25, NotreDame_De_Paris.txt 4
 fulminating	Miserables.txt 1
 fulminatrix	Miserables.txt 1
 fulness	Miserables.txt 1
 fultitude	Miserables.txt 1
 fumade	Miserables.txt 2
-fumble	NotreDame_De_Paris.txt 1, Miserables.txt 2
+fumble	Miserables.txt 2, NotreDame_De_Paris.txt 1
 fumbled	Miserables.txt 18
 fumbles	Miserables.txt 1
-fumbling	NotreDame_De_Paris.txt 2, Miserables.txt 7
+fumbling	Miserables.txt 7, NotreDame_De_Paris.txt 2
 fumblingly	Miserables.txt 1
 fumes	Miserables.txt 2
-fun	NotreDame_De_Paris.txt 1, Miserables.txt 3
+fun	Miserables.txt 3, NotreDame_De_Paris.txt 1
 function	Miserables.txt 10
 functionaries	Miserables.txt 3
 functionary	Miserables.txt 4
@@ -1166,38 +1166,38 @@ fund	Miserables.txt 6
 fundamental	Miserables.txt 1
 fundamentally	Miserables.txt 1
 fundraising	NotreDame_De_Paris.txt 1, Miserables.txt 1
-funds	NotreDame_De_Paris.txt 2, Miserables.txt 5
-funeral	NotreDame_De_Paris.txt 1, Miserables.txt 17
-funerals	NotreDame_De_Paris.txt 1, Miserables.txt 3
-funereal	NotreDame_De_Paris.txt 3, Miserables.txt 19
-fungi	NotreDame_De_Paris.txt 1, Miserables.txt 2
+funds	Miserables.txt 5, NotreDame_De_Paris.txt 2
+funeral	Miserables.txt 17, NotreDame_De_Paris.txt 1
+funerals	Miserables.txt 3, NotreDame_De_Paris.txt 1
+funereal	Miserables.txt 19, NotreDame_De_Paris.txt 3
+fungi	Miserables.txt 2, NotreDame_De_Paris.txt 1
 funnel	Miserables.txt 2
 funnels	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fur	NotreDame_De_Paris.txt 2, Miserables.txt 1
 furbelows	Miserables.txt 1
 furies	Miserables.txt 5
-furious	NotreDame_De_Paris.txt 19, Miserables.txt 33
-furiously	NotreDame_De_Paris.txt 4, Miserables.txt 9
+furious	Miserables.txt 33, NotreDame_De_Paris.txt 19
+furiously	Miserables.txt 9, NotreDame_De_Paris.txt 4
 furnace	NotreDame_De_Paris.txt 21, Miserables.txt 14
 furnaces	Miserables.txt 2
-furnish	NotreDame_De_Paris.txt 2, Miserables.txt 10
-furnished	NotreDame_De_Paris.txt 3, Miserables.txt 42
-furnishes	NotreDame_De_Paris.txt 2, Miserables.txt 4
+furnish	Miserables.txt 10, NotreDame_De_Paris.txt 2
+furnished	Miserables.txt 42, NotreDame_De_Paris.txt 3
+furnishes	Miserables.txt 4, NotreDame_De_Paris.txt 2
 furnishing	Miserables.txt 4
-furniture	NotreDame_De_Paris.txt 2, Miserables.txt 39
+furniture	Miserables.txt 39, NotreDame_De_Paris.txt 2
 furred	NotreDame_De_Paris.txt 7
 furrier	NotreDame_De_Paris.txt 4
-furrow	NotreDame_De_Paris.txt 2, Miserables.txt 3
+furrow	Miserables.txt 3, NotreDame_De_Paris.txt 2
 furrowed	NotreDame_De_Paris.txt 4, Miserables.txt 1
 furrows	Miserables.txt 5
 furs	NotreDame_De_Paris.txt 1
-further	NotreDame_De_Paris.txt 15, Miserables.txt 89
+further	Miserables.txt 89, NotreDame_De_Paris.txt 15
 furthermore	NotreDame_De_Paris.txt 1
 furthest	Miserables.txt 2
-furtive	NotreDame_De_Paris.txt 2, Miserables.txt 4
+furtive	Miserables.txt 4, NotreDame_De_Paris.txt 2
 furtively	NotreDame_De_Paris.txt 2, Miserables.txt 2
 furto	Miserables.txt 1
-fury	NotreDame_De_Paris.txt 21, Miserables.txt 25
+fury	Miserables.txt 25, NotreDame_De_Paris.txt 21
 fuscus	Miserables.txt 1
 fuse	NotreDame_De_Paris.txt 1, Miserables.txt 1
 fused	Miserables.txt 1
@@ -1207,6 +1207,6 @@ fusion	Miserables.txt 4
 fustian	NotreDame_De_Paris.txt 2, Miserables.txt 2
 fut	Miserables.txt 1
 futile	Miserables.txt 1
-future	NotreDame_De_Paris.txt 11, Miserables.txt 98
+future	Miserables.txt 98, NotreDame_De_Paris.txt 11
 fuyant	Miserables.txt 1
 fye	NotreDame_De_Paris.txt 1

@@ -1,6 +1,6 @@
 ////not used yet
 //Document name + word frequency, the elements of a word's information
-public class DocuNode {
+public class DocuNode implements Comparable<DocuNode>{
     
     private String DocuName;
     private String wordFrequency;
@@ -21,4 +21,10 @@ public class DocuNode {
     public void setWordFrequency(String updateFrequency){
         wordFrequency = updateFrequency;
     }
+    
+    @Override
+	public int compareTo(DocuNode o) {
+		return -Integer.compare(Integer.parseInt(this.wordFrequency), 
+								Integer.parseInt(o.wordFrequency)); //- to implement descending order
+	}
 }

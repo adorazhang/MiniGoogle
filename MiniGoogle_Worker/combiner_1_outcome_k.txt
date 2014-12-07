@@ -6,11 +6,11 @@ keel	Miserables.txt 6
 keen	Miserables.txt 1
 keener	Miserables.txt 1
 keenly	Miserables.txt 1
-keep	NotreDame_De_Paris.txt 19, Miserables.txt 69
-keeper	NotreDame_De_Paris.txt 4, Miserables.txt 49
+keep	Miserables.txt 69, NotreDame_De_Paris.txt 19
+keeper	Miserables.txt 49, NotreDame_De_Paris.txt 4
 keepers	Miserables.txt 3
-keeping	NotreDame_De_Paris.txt 8, Miserables.txt 21
-keeps	NotreDame_De_Paris.txt 4, Miserables.txt 8
+keeping	Miserables.txt 21, NotreDame_De_Paris.txt 8
+keeps	Miserables.txt 8, NotreDame_De_Paris.txt 4
 keepsakes	Miserables.txt 1
 kekcaa	Miserables.txt 2
 kekscheb	Miserables.txt 1
@@ -18,57 +18,57 @@ keksekca	Miserables.txt 2
 kellermann	Miserables.txt 4
 kellner	Miserables.txt 1
 kempt	Miserables.txt 5
-kennel	NotreDame_De_Paris.txt 2, Miserables.txt 6
-kept	NotreDame_De_Paris.txt 10, Miserables.txt 66
+kennel	Miserables.txt 6, NotreDame_De_Paris.txt 2
+kept	Miserables.txt 66, NotreDame_De_Paris.txt 10
 keravenant	Miserables.txt 1
 kerchief	Miserables.txt 4
 kerchiefs	Miserables.txt 1
 kettle	Miserables.txt 1
-key	NotreDame_De_Paris.txt 15, Miserables.txt 68
-keyhole	NotreDame_De_Paris.txt 1, Miserables.txt 3
-keys	NotreDame_De_Paris.txt 2, Miserables.txt 5
+key	Miserables.txt 68, NotreDame_De_Paris.txt 15
+keyhole	Miserables.txt 3, NotreDame_De_Paris.txt 1
+keys	Miserables.txt 5, NotreDame_De_Paris.txt 2
 keystone	NotreDame_De_Paris.txt 4
 khan	NotreDame_De_Paris.txt 1
 khorassan	Miserables.txt 1
 kian	Miserables.txt 1
-kick	NotreDame_De_Paris.txt 6, Miserables.txt 8
-kicked	NotreDame_De_Paris.txt 2, Miserables.txt 3
+kick	Miserables.txt 8, NotreDame_De_Paris.txt 6
+kicked	Miserables.txt 3, NotreDame_De_Paris.txt 2
 kicking	Miserables.txt 1
 kicks	Miserables.txt 5
 kielmansegg	Miserables.txt 1
-kill	NotreDame_De_Paris.txt 19, Miserables.txt 27
-killed	NotreDame_De_Paris.txt 12, Miserables.txt 80
+kill	Miserables.txt 27, NotreDame_De_Paris.txt 19
+killed	Miserables.txt 80, NotreDame_De_Paris.txt 12
 killing	Miserables.txt 4
-kills	NotreDame_De_Paris.txt 3, Miserables.txt 10
+kills	Miserables.txt 10, NotreDame_De_Paris.txt 3
 kilns	Miserables.txt 2
-kind	NotreDame_De_Paris.txt 5, Miserables.txt 35
+kind	Miserables.txt 35, NotreDame_De_Paris.txt 5
 kindle	Miserables.txt 1
 kindled	Miserables.txt 1
 kindles	Miserables.txt 2
-kindliness	NotreDame_De_Paris.txt 1, Miserables.txt 2
-kindly	NotreDame_De_Paris.txt 2, Miserables.txt 21
-kindness	NotreDame_De_Paris.txt 2, Miserables.txt 19
+kindliness	Miserables.txt 2, NotreDame_De_Paris.txt 1
+kindly	Miserables.txt 21, NotreDame_De_Paris.txt 2
+kindness	Miserables.txt 19, NotreDame_De_Paris.txt 2
 kindnesses	Miserables.txt 1
 kinds	Miserables.txt 3
 king	NotreDame_De_Paris.txt 300, Miserables.txt 124
 kingdom	NotreDame_De_Paris.txt 8, Miserables.txt 5
-kingdoms	NotreDame_De_Paris.txt 1, Miserables.txt 2
+kingdoms	Miserables.txt 2, NotreDame_De_Paris.txt 1
 kingly	Miserables.txt 1
-kings	NotreDame_De_Paris.txt 29, Miserables.txt 35
+kings	Miserables.txt 35, NotreDame_De_Paris.txt 29
 kinsman	Miserables.txt 1
 kirikikiou	Miserables.txt 2
 kislar	Miserables.txt 1
-kiss	NotreDame_De_Paris.txt 15, Miserables.txt 25
-kissed	NotreDame_De_Paris.txt 7, Miserables.txt 23
+kiss	Miserables.txt 25, NotreDame_De_Paris.txt 15
+kissed	Miserables.txt 23, NotreDame_De_Paris.txt 7
 kisses	NotreDame_De_Paris.txt 14, Miserables.txt 7
 kissing	NotreDame_De_Paris.txt 6, Miserables.txt 1
 kisss	Miserables.txt 2
-kitchen	NotreDame_De_Paris.txt 1, Miserables.txt 21
+kitchen	Miserables.txt 21, NotreDame_De_Paris.txt 1
 kitchens	NotreDame_De_Paris.txt 3, Miserables.txt 2
-kitten	NotreDame_De_Paris.txt 1, Miserables.txt 3
+kitten	Miserables.txt 3, NotreDame_De_Paris.txt 1
 kleber	Miserables.txt 3
 kluze	Miserables.txt 1
-knacker	NotreDame_De_Paris.txt 2, Miserables.txt 3
+knacker	Miserables.txt 3, NotreDame_De_Paris.txt 2
 knapsack	Miserables.txt 18
 knapsacks	Miserables.txt 1
 knave	NotreDame_De_Paris.txt 25, Miserables.txt 3
@@ -76,47 +76,47 @@ knavery	Miserables.txt 2
 knaves	NotreDame_De_Paris.txt 8, Miserables.txt 1
 knawed	NotreDame_De_Paris.txt 1
 kneaded	Miserables.txt 1
-knee	NotreDame_De_Paris.txt 13, Miserables.txt 36
+knee	Miserables.txt 36, NotreDame_De_Paris.txt 13
 kneecap	Miserables.txt 1
 kneed	NotreDame_De_Paris.txt 1
-kneel	NotreDame_De_Paris.txt 2, Miserables.txt 6
-kneeling	NotreDame_De_Paris.txt 4, Miserables.txt 10
+kneel	Miserables.txt 6, NotreDame_De_Paris.txt 2
+kneeling	Miserables.txt 10, NotreDame_De_Paris.txt 4
 kneels	Miserables.txt 2
 kneepan	Miserables.txt 1
-knees	NotreDame_De_Paris.txt 56, Miserables.txt 82
+knees	Miserables.txt 82, NotreDame_De_Paris.txt 56
 knell	Miserables.txt 6
 knells	Miserables.txt 1
-knelt	NotreDame_De_Paris.txt 7, Miserables.txt 12
-knew	NotreDame_De_Paris.txt 39, Miserables.txt 170
+knelt	Miserables.txt 12, NotreDame_De_Paris.txt 7
+knew	Miserables.txt 170, NotreDame_De_Paris.txt 39
 knickknacks	Miserables.txt 1
-knife	NotreDame_De_Paris.txt 10, Miserables.txt 31
-knight	NotreDame_De_Paris.txt 1, Miserables.txt 3
+knife	Miserables.txt 31, NotreDame_De_Paris.txt 10
+knight	Miserables.txt 3, NotreDame_De_Paris.txt 1
 knighted	Miserables.txt 1
 knights	Miserables.txt 1
-knitted	NotreDame_De_Paris.txt 2, Miserables.txt 7
+knitted	Miserables.txt 7, NotreDame_De_Paris.txt 2
 knitting	Miserables.txt 4
 knives	Miserables.txt 7
 knob	Miserables.txt 6
-knock	NotreDame_De_Paris.txt 6, Miserables.txt 17
-knocked	NotreDame_De_Paris.txt 3, Miserables.txt 18
-knocker	NotreDame_De_Paris.txt 1, Miserables.txt 7
-knocking	NotreDame_De_Paris.txt 1, Miserables.txt 5
+knock	Miserables.txt 17, NotreDame_De_Paris.txt 6
+knocked	Miserables.txt 18, NotreDame_De_Paris.txt 3
+knocker	Miserables.txt 7, NotreDame_De_Paris.txt 1
+knocking	Miserables.txt 5, NotreDame_De_Paris.txt 1
 knocks	Miserables.txt 3
 knoll	Miserables.txt 5
 knolls	Miserables.txt 1
-knot	NotreDame_De_Paris.txt 1, Miserables.txt 17
-knots	NotreDame_De_Paris.txt 3, Miserables.txt 4
-knotted	NotreDame_De_Paris.txt 10, Miserables.txt 11
+knot	Miserables.txt 17, NotreDame_De_Paris.txt 1
+knots	Miserables.txt 4, NotreDame_De_Paris.txt 3
+knotted	Miserables.txt 11, NotreDame_De_Paris.txt 10
 knotting	Miserables.txt 2
 knotty	Miserables.txt 2
-know	NotreDame_De_Paris.txt 192, Miserables.txt 520
+know	Miserables.txt 520, NotreDame_De_Paris.txt 192
 knowest	Miserables.txt 3
 knoweth	NotreDame_De_Paris.txt 3, Miserables.txt 1
-knowing	NotreDame_De_Paris.txt 13, Miserables.txt 54
+knowing	Miserables.txt 54, NotreDame_De_Paris.txt 13
 knowingly	Miserables.txt 1
-knowledge	NotreDame_De_Paris.txt 3, Miserables.txt 10
-known	NotreDame_De_Paris.txt 12, Miserables.txt 104
-knows	NotreDame_De_Paris.txt 26, Miserables.txt 128
+knowledge	Miserables.txt 10, NotreDame_De_Paris.txt 3
+known	Miserables.txt 104, NotreDame_De_Paris.txt 12
+knows	Miserables.txt 128, NotreDame_De_Paris.txt 26
 knuckle	Miserables.txt 1
 koburger	NotreDame_De_Paris.txt 1
 kock	Miserables.txt 1

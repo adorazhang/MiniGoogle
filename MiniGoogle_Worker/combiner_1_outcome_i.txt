@@ -1,5 +1,5 @@
-i	NotreDame_De_Paris.txt 1376, Miserables.txt 3862
-ice	NotreDame_De_Paris.txt 10, Miserables.txt 14
+i	Miserables.txt 3862, NotreDame_De_Paris.txt 1376
+ice	Miserables.txt 14, NotreDame_De_Paris.txt 10
 ices	Miserables.txt 2
 ici	Miserables.txt 2
 icicaille	Miserables.txt 4
@@ -7,14 +7,14 @@ icigo	Miserables.txt 2
 iconia	Miserables.txt 1
 iconoclast	Miserables.txt 1
 iconoclasts	NotreDame_De_Paris.txt 1
-icy	NotreDame_De_Paris.txt 3, Miserables.txt 10
+icy	Miserables.txt 10, NotreDame_De_Paris.txt 3
 id	NotreDame_De_Paris.txt 1, Miserables.txt 1
-idea	NotreDame_De_Paris.txt 69, Miserables.txt 194
-ideal	NotreDame_De_Paris.txt 4, Miserables.txt 69
+idea	Miserables.txt 194, NotreDame_De_Paris.txt 69
+ideal	Miserables.txt 69, NotreDame_De_Paris.txt 4
 idealize	Miserables.txt 1
 idealized	Miserables.txt 1
 ideally	Miserables.txt 1
-ideas	NotreDame_De_Paris.txt 23, Miserables.txt 95
+ideas	Miserables.txt 95, NotreDame_De_Paris.txt 23
 idem	NotreDame_De_Paris.txt 1, Miserables.txt 1
 identical	Miserables.txt 9
 identification	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -26,11 +26,11 @@ ideologist	Miserables.txt 1
 ideology	Miserables.txt 1
 idiom	Miserables.txt 2
 idioms	Miserables.txt 1
-idiot	NotreDame_De_Paris.txt 2, Miserables.txt 15
+idiot	Miserables.txt 15, NotreDame_De_Paris.txt 2
 idiotic	NotreDame_De_Paris.txt 4, Miserables.txt 4
 idiots	Miserables.txt 1
-idle	NotreDame_De_Paris.txt 2, Miserables.txt 6
-idleness	NotreDame_De_Paris.txt 1, Miserables.txt 11
+idle	Miserables.txt 6, NotreDame_De_Paris.txt 2
+idleness	Miserables.txt 11, NotreDame_De_Paris.txt 1
 idler	Miserables.txt 5
 idlers	Miserables.txt 4
 idol	Miserables.txt 4
@@ -38,37 +38,37 @@ idolater	NotreDame_De_Paris.txt 1
 idolaters	NotreDame_De_Paris.txt 1
 idolatry	Miserables.txt 4
 idolize	Miserables.txt 3
-idolized	NotreDame_De_Paris.txt 1, Miserables.txt 6
+idolized	Miserables.txt 6, NotreDame_De_Paris.txt 1
 idolizes	Miserables.txt 1
 idols	NotreDame_De_Paris.txt 1
 idyl	Miserables.txt 3
 idyls	Miserables.txt 1
 iena	Miserables.txt 1
 iergue	Miserables.txt 1
-if	NotreDame_De_Paris.txt 248, Miserables.txt 738
+if	Miserables.txt 738, NotreDame_De_Paris.txt 248
 igitur	Miserables.txt 1
 ignite	Miserables.txt 2
 ignited	NotreDame_De_Paris.txt 1, Miserables.txt 1
-ignoble	NotreDame_De_Paris.txt 1, Miserables.txt 5
+ignoble	Miserables.txt 5, NotreDame_De_Paris.txt 1
 ignominious	NotreDame_De_Paris.txt 1, Miserables.txt 1
-ignominy	NotreDame_De_Paris.txt 1, Miserables.txt 6
+ignominy	Miserables.txt 6, NotreDame_De_Paris.txt 1
 ignoramus	NotreDame_De_Paris.txt 1, Miserables.txt 1
-ignorance	NotreDame_De_Paris.txt 4, Miserables.txt 25
+ignorance	Miserables.txt 25, NotreDame_De_Paris.txt 4
 ignorances	Miserables.txt 3
-ignorant	NotreDame_De_Paris.txt 7, Miserables.txt 39
+ignorant	Miserables.txt 39, NotreDame_De_Paris.txt 7
 ignorantin	Miserables.txt 1
 ignorantly	Miserables.txt 1
 ignore	Miserables.txt 6
 ignored	Miserables.txt 6
 ignores	Miserables.txt 5
 ignoring	Miserables.txt 1
-ii	NotreDame_De_Paris.txt 28, Miserables.txt 105
-iii	NotreDame_De_Paris.txt 21, Miserables.txt 92
-il	NotreDame_De_Paris.txt 4, Miserables.txt 13
+ii	Miserables.txt 105, NotreDame_De_Paris.txt 28
+iii	Miserables.txt 92, NotreDame_De_Paris.txt 21
+il	Miserables.txt 13, NotreDame_De_Paris.txt 4
 ile	NotreDame_De_Paris.txt 4
 iliad	NotreDame_De_Paris.txt 3, Miserables.txt 1
 iliads	NotreDame_De_Paris.txt 3, Miserables.txt 1
-ill	NotreDame_De_Paris.txt 22, Miserables.txt 63
+ill	Miserables.txt 63, NotreDame_De_Paris.txt 22
 illa	NotreDame_De_Paris.txt 1
 illegal	Miserables.txt 1
 illegible	Miserables.txt 4
@@ -78,24 +78,24 @@ illicit	Miserables.txt 1
 illimitable	Miserables.txt 1
 illiterate	Miserables.txt 2
 illitteratus	NotreDame_De_Paris.txt 1
-illness	NotreDame_De_Paris.txt 1, Miserables.txt 6
+illness	Miserables.txt 6, NotreDame_De_Paris.txt 1
 illnesses	Miserables.txt 2
 illogical	Miserables.txt 2
 illogically	Miserables.txt 2
 illuminate	Miserables.txt 3
-illuminated	NotreDame_De_Paris.txt 16, Miserables.txt 57
+illuminated	Miserables.txt 57, NotreDame_De_Paris.txt 16
 illuminates	Miserables.txt 1
 illuminating	Miserables.txt 4
-illumination	NotreDame_De_Paris.txt 1, Miserables.txt 7
-illuminations	NotreDame_De_Paris.txt 1, Miserables.txt 3
+illumination	Miserables.txt 7, NotreDame_De_Paris.txt 1
+illuminations	Miserables.txt 3, NotreDame_De_Paris.txt 1
 illumined	Miserables.txt 4
-illusion	NotreDame_De_Paris.txt 4, Miserables.txt 14
-illusions	NotreDame_De_Paris.txt 5, Miserables.txt 11
+illusion	Miserables.txt 14, NotreDame_De_Paris.txt 4
+illusions	Miserables.txt 11, NotreDame_De_Paris.txt 5
 illustrated	Miserables.txt 1
 illustrates	Miserables.txt 1
 illustration	Miserables.txt 41
 illustrations	NotreDame_De_Paris.txt 1
-illustrious	NotreDame_De_Paris.txt 8, Miserables.txt 14
+illustrious	Miserables.txt 14, NotreDame_De_Paris.txt 8
 im	NotreDame_De_Paris.txt 1
 image	NotreDame_De_Paris.txt 11, Miserables.txt 7
 images	NotreDame_De_Paris.txt 6, Miserables.txt 3
@@ -103,25 +103,25 @@ imaginable	Miserables.txt 1
 imaginaire	Miserables.txt 1
 imaginary	NotreDame_De_Paris.txt 2
 imagination	NotreDame_De_Paris.txt 11, Miserables.txt 11
-imaginations	NotreDame_De_Paris.txt 2, Miserables.txt 6
-imagine	NotreDame_De_Paris.txt 13, Miserables.txt 36
-imagined	NotreDame_De_Paris.txt 7, Miserables.txt 14
+imaginations	Miserables.txt 6, NotreDame_De_Paris.txt 2
+imagine	Miserables.txt 36, NotreDame_De_Paris.txt 13
+imagined	Miserables.txt 14, NotreDame_De_Paris.txt 7
 imagines	Miserables.txt 1
 imagining	NotreDame_De_Paris.txt 2, Miserables.txt 1
 imaginings	NotreDame_De_Paris.txt 1
 imaums	Miserables.txt 1
-imbecile	NotreDame_De_Paris.txt 4, Miserables.txt 6
+imbecile	Miserables.txt 6, NotreDame_De_Paris.txt 4
 imbeciles	Miserables.txt 1
-imbecility	NotreDame_De_Paris.txt 1, Miserables.txt 2
+imbecility	Miserables.txt 2, NotreDame_De_Paris.txt 1
 imbedded	NotreDame_De_Paris.txt 2
 imbricated	Miserables.txt 1
 imbue	Miserables.txt 1
-imbued	NotreDame_De_Paris.txt 1, Miserables.txt 3
+imbued	Miserables.txt 3, NotreDame_De_Paris.txt 1
 imbushment	Miserables.txt 1
 imitate	Miserables.txt 1
 imitated	Miserables.txt 6
 imitating	NotreDame_De_Paris.txt 1
-imitation	NotreDame_De_Paris.txt 1, Miserables.txt 5
+imitation	Miserables.txt 5, NotreDame_De_Paris.txt 1
 imitations	Miserables.txt 1
 imitator	Miserables.txt 1
 immaculate	Miserables.txt 2
@@ -129,12 +129,12 @@ immanior	NotreDame_De_Paris.txt 2
 immanis	NotreDame_De_Paris.txt 2
 immaterial	Miserables.txt 1
 immeasurable	NotreDame_De_Paris.txt 1
-immediate	NotreDame_De_Paris.txt 4, Miserables.txt 13
-immediately	NotreDame_De_Paris.txt 17, Miserables.txt 62
-immemorial	NotreDame_De_Paris.txt 4, Miserables.txt 6
-immense	NotreDame_De_Paris.txt 41, Miserables.txt 101
+immediate	Miserables.txt 13, NotreDame_De_Paris.txt 4
+immediately	Miserables.txt 62, NotreDame_De_Paris.txt 17
+immemorial	Miserables.txt 6, NotreDame_De_Paris.txt 4
+immense	Miserables.txt 101, NotreDame_De_Paris.txt 41
 immensely	Miserables.txt 1
-immensity	NotreDame_De_Paris.txt 1, Miserables.txt 19
+immensity	Miserables.txt 19, NotreDame_De_Paris.txt 1
 immersed	Miserables.txt 3
 immersion	Miserables.txt 1
 imminence	Miserables.txt 2
@@ -148,11 +148,11 @@ immolating	Miserables.txt 1
 immoral	Miserables.txt 1
 immorality	Miserables.txt 1
 immortal	Miserables.txt 11
-immortality	NotreDame_De_Paris.txt 3, Miserables.txt 4
+immortality	Miserables.txt 4, NotreDame_De_Paris.txt 3
 immortalize	Miserables.txt 1
 immortalized	NotreDame_De_Paris.txt 1
 immovable	NotreDame_De_Paris.txt 3, Miserables.txt 3
-immovably	NotreDame_De_Paris.txt 1, Miserables.txt 2
+immovably	Miserables.txt 2, NotreDame_De_Paris.txt 1
 immure	NotreDame_De_Paris.txt 1
 immured	NotreDame_De_Paris.txt 3, Miserables.txt 2
 immutability	NotreDame_De_Paris.txt 1
@@ -169,75 +169,75 @@ impartiality	NotreDame_De_Paris.txt 2
 impartially	Miserables.txt 2
 imparting	NotreDame_De_Paris.txt 1
 imparts	Miserables.txt 1
-impassable	NotreDame_De_Paris.txt 1, Miserables.txt 5
+impassable	Miserables.txt 5, NotreDame_De_Paris.txt 1
 impasse	Miserables.txt 1
 impassible	NotreDame_De_Paris.txt 1
 impassioned	NotreDame_De_Paris.txt 2
-impassive	NotreDame_De_Paris.txt 2, Miserables.txt 15
+impassive	Miserables.txt 15, NotreDame_De_Paris.txt 2
 impassiveness	NotreDame_De_Paris.txt 1
 impatience	NotreDame_De_Paris.txt 9, Miserables.txt 4
-impatient	NotreDame_De_Paris.txt 3, Miserables.txt 8
+impatient	Miserables.txt 8, NotreDame_De_Paris.txt 3
 impatiently	NotreDame_De_Paris.txt 1, Miserables.txt 1
 impeccability	Miserables.txt 1
 impeded	Miserables.txt 2
-impelled	NotreDame_De_Paris.txt 2, Miserables.txt 5
+impelled	Miserables.txt 5, NotreDame_De_Paris.txt 2
 impelling	Miserables.txt 1
 impending	Miserables.txt 3
 impenetrability	Miserables.txt 1
-impenetrable	NotreDame_De_Paris.txt 2, Miserables.txt 13
+impenetrable	Miserables.txt 13, NotreDame_De_Paris.txt 2
 imperative	Miserables.txt 1
 imperatively	Miserables.txt 2
-imperceptible	NotreDame_De_Paris.txt 5, Miserables.txt 19
+imperceptible	Miserables.txt 19, NotreDame_De_Paris.txt 5
 imperceptibly	NotreDame_De_Paris.txt 1
 imperfect	NotreDame_De_Paris.txt 2
 imperfectly	NotreDame_De_Paris.txt 1, Miserables.txt 1
-imperial	NotreDame_De_Paris.txt 2, Miserables.txt 19
+imperial	Miserables.txt 19, NotreDame_De_Paris.txt 2
 imperilled	Miserables.txt 1
-imperious	NotreDame_De_Paris.txt 3, Miserables.txt 11
-imperiously	NotreDame_De_Paris.txt 2, Miserables.txt 3
+imperious	Miserables.txt 11, NotreDame_De_Paris.txt 3
+imperiously	Miserables.txt 3, NotreDame_De_Paris.txt 2
 imperishable	NotreDame_De_Paris.txt 1, Miserables.txt 1
 imperishableness	Miserables.txt 1
 impersonal	Miserables.txt 3
 impertinence	NotreDame_De_Paris.txt 1, Miserables.txt 1
-impertinent	NotreDame_De_Paris.txt 2, Miserables.txt 4
+impertinent	Miserables.txt 4, NotreDame_De_Paris.txt 2
 imperturbability	NotreDame_De_Paris.txt 1
-imperturbable	NotreDame_De_Paris.txt 4, Miserables.txt 13
-imperturbably	NotreDame_De_Paris.txt 2, Miserables.txt 4
-impetuosity	NotreDame_De_Paris.txt 1, Miserables.txt 2
+imperturbable	Miserables.txt 13, NotreDame_De_Paris.txt 4
+imperturbably	Miserables.txt 4, NotreDame_De_Paris.txt 2
+impetuosity	Miserables.txt 2, NotreDame_De_Paris.txt 1
 impetuous	NotreDame_De_Paris.txt 2, Miserables.txt 2
-impetuously	NotreDame_De_Paris.txt 1, Miserables.txt 7
+impetuously	Miserables.txt 7, NotreDame_De_Paris.txt 1
 impieties	NotreDame_De_Paris.txt 1
 impiety	NotreDame_De_Paris.txt 3
-impious	NotreDame_De_Paris.txt 1, Miserables.txt 5
-implacable	NotreDame_De_Paris.txt 2, Miserables.txt 13
+impious	Miserables.txt 5, NotreDame_De_Paris.txt 1
+implacable	Miserables.txt 13, NotreDame_De_Paris.txt 2
 implement	Miserables.txt 1
 implements	NotreDame_De_Paris.txt 2
-implicated	NotreDame_De_Paris.txt 1, Miserables.txt 2
+implicated	Miserables.txt 2, NotreDame_De_Paris.txt 1
 implicitly	NotreDame_De_Paris.txt 2
 implied	NotreDame_De_Paris.txt 3, Miserables.txt 3
 implies	Miserables.txt 2
-implore	NotreDame_De_Paris.txt 1, Miserables.txt 3
+implore	Miserables.txt 3, NotreDame_De_Paris.txt 1
 implores	Miserables.txt 2
 imply	Miserables.txt 2
-importance	NotreDame_De_Paris.txt 5, Miserables.txt 8
-important	NotreDame_De_Paris.txt 6, Miserables.txt 18
+importance	Miserables.txt 8, NotreDame_De_Paris.txt 5
+important	Miserables.txt 18, NotreDame_De_Paris.txt 6
 imported	Miserables.txt 1
 imports	NotreDame_De_Paris.txt 1
 importune	Miserables.txt 1
 importuned	Miserables.txt 1
 importunity	Miserables.txt 1
-impose	NotreDame_De_Paris.txt 2, Miserables.txt 3
-imposed	NotreDame_De_Paris.txt 6, Miserables.txt 8
+impose	Miserables.txt 3, NotreDame_De_Paris.txt 2
+imposed	Miserables.txt 8, NotreDame_De_Paris.txt 6
 imposes	Miserables.txt 1
-imposing	NotreDame_De_Paris.txt 3, Miserables.txt 5
+imposing	Miserables.txt 5, NotreDame_De_Paris.txt 3
 impossibilities	Miserables.txt 2
 impossibility	Miserables.txt 7
-impossible	NotreDame_De_Paris.txt 19, Miserables.txt 118
+impossible	Miserables.txt 118, NotreDame_De_Paris.txt 19
 impost	NotreDame_De_Paris.txt 1, Miserables.txt 1
 imposts	Miserables.txt 3
 imposture	Miserables.txt 1
 impotence	Miserables.txt 1
-impotent	NotreDame_De_Paris.txt 1, Miserables.txt 2
+impotent	Miserables.txt 2, NotreDame_De_Paris.txt 1
 impoverished	Miserables.txt 3
 impoverishing	Miserables.txt 1
 impoverishment	Miserables.txt 1
@@ -246,15 +246,15 @@ imprecation	NotreDame_De_Paris.txt 2, Miserables.txt 1
 imprecations	NotreDame_De_Paris.txt 5, Miserables.txt 1
 impregnable	Miserables.txt 7
 impregnated	Miserables.txt 7
-impress	NotreDame_De_Paris.txt 2, Miserables.txt 3
-impressed	NotreDame_De_Paris.txt 1, Miserables.txt 3
+impress	Miserables.txt 3, NotreDame_De_Paris.txt 2
+impressed	Miserables.txt 3, NotreDame_De_Paris.txt 1
 impresses	Miserables.txt 1
 impressing	Miserables.txt 1
-impression	NotreDame_De_Paris.txt 9, Miserables.txt 19
-impressions	NotreDame_De_Paris.txt 2, Miserables.txt 4
+impression	Miserables.txt 19, NotreDame_De_Paris.txt 9
+impressions	Miserables.txt 4, NotreDame_De_Paris.txt 2
 impressive	NotreDame_De_Paris.txt 1, Miserables.txt 1
-imprint	NotreDame_De_Paris.txt 2, Miserables.txt 5
-imprinted	NotreDame_De_Paris.txt 4, Miserables.txt 5
+imprint	Miserables.txt 5, NotreDame_De_Paris.txt 2
+imprinted	Miserables.txt 5, NotreDame_De_Paris.txt 4
 imprints	Miserables.txt 1
 imprison	Miserables.txt 2
 imprisoned	NotreDame_De_Paris.txt 3, Miserables.txt 1
@@ -271,25 +271,25 @@ improvements	Miserables.txt 1
 improvident	Miserables.txt 1
 improvisation	Miserables.txt 6
 improvise	Miserables.txt 2
-improvised	NotreDame_De_Paris.txt 1, Miserables.txt 9
+improvised	Miserables.txt 9, NotreDame_De_Paris.txt 1
 improvises	Miserables.txt 1
 imprudence	Miserables.txt 2
 imprudences	Miserables.txt 1
-imprudent	NotreDame_De_Paris.txt 3, Miserables.txt 5
+imprudent	Miserables.txt 5, NotreDame_De_Paris.txt 3
 imps	NotreDame_De_Paris.txt 1
 impudence	NotreDame_De_Paris.txt 1
 impudent	NotreDame_De_Paris.txt 3, Miserables.txt 2
 impugn	NotreDame_De_Paris.txt 1
-impulse	NotreDame_De_Paris.txt 4, Miserables.txt 12
+impulse	Miserables.txt 12, NotreDame_De_Paris.txt 4
 impulses	Miserables.txt 4
 impulsive	Miserables.txt 1
-impunity	NotreDame_De_Paris.txt 2, Miserables.txt 3
-impure	NotreDame_De_Paris.txt 4, Miserables.txt 5
+impunity	Miserables.txt 3, NotreDame_De_Paris.txt 2
+impure	Miserables.txt 5, NotreDame_De_Paris.txt 4
 impurity	NotreDame_De_Paris.txt 2
 impute	Miserables.txt 1
 imputed	Miserables.txt 1
-in	NotreDame_De_Paris.txt 3467, Miserables.txt 11214
-inaccessible	NotreDame_De_Paris.txt 1, Miserables.txt 10
+in	Miserables.txt 11214, NotreDame_De_Paris.txt 3467
+inaccessible	Miserables.txt 10, NotreDame_De_Paris.txt 1
 inaccurate	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inactive	Miserables.txt 1
 inactivity	Miserables.txt 2
@@ -300,10 +300,10 @@ inalterable	NotreDame_De_Paris.txt 1
 inanimate	NotreDame_De_Paris.txt 2, Miserables.txt 1
 inanition	Miserables.txt 1
 inappropriately	Miserables.txt 1
-inarticulate	NotreDame_De_Paris.txt 1, Miserables.txt 4
+inarticulate	Miserables.txt 4, NotreDame_De_Paris.txt 1
 inattention	Miserables.txt 2
 inauspicious	Miserables.txt 2
-incalculable	NotreDame_De_Paris.txt 1, Miserables.txt 4
+incalculable	Miserables.txt 4, NotreDame_De_Paris.txt 1
 incapable	Miserables.txt 15
 incapacitated	Miserables.txt 2
 incarcerated	Miserables.txt 2
@@ -319,13 +319,13 @@ incensed	Miserables.txt 1
 incentive	Miserables.txt 1
 inception	Miserables.txt 2
 incessa	NotreDame_De_Paris.txt 1
-incessant	NotreDame_De_Paris.txt 1, Miserables.txt 2
-incessantly	NotreDame_De_Paris.txt 28, Miserables.txt 31
+incessant	Miserables.txt 2, NotreDame_De_Paris.txt 1
+incessantly	Miserables.txt 31, NotreDame_De_Paris.txt 28
 inch	Miserables.txt 4
-inches	NotreDame_De_Paris.txt 3, Miserables.txt 11
-incident	NotreDame_De_Paris.txt 6, Miserables.txt 21
+inches	Miserables.txt 11, NotreDame_De_Paris.txt 3
+incident	Miserables.txt 21, NotreDame_De_Paris.txt 6
 incidental	NotreDame_De_Paris.txt 1, Miserables.txt 1
-incidents	NotreDame_De_Paris.txt 1, Miserables.txt 11
+incidents	Miserables.txt 11, NotreDame_De_Paris.txt 1
 incision	Miserables.txt 1
 incisions	NotreDame_De_Paris.txt 1
 incitatus	Miserables.txt 1
@@ -334,26 +334,26 @@ inclement	Miserables.txt 1
 inclination	NotreDame_De_Paris.txt 2, Miserables.txt 2
 inclinations	NotreDame_De_Paris.txt 1
 incline	Miserables.txt 5
-inclined	NotreDame_De_Paris.txt 5, Miserables.txt 25
+inclined	Miserables.txt 25, NotreDame_De_Paris.txt 5
 inclining	NotreDame_De_Paris.txt 1
-include	NotreDame_De_Paris.txt 1, Miserables.txt 2
-included	NotreDame_De_Paris.txt 4, Miserables.txt 8
+include	Miserables.txt 2, NotreDame_De_Paris.txt 1
+included	Miserables.txt 8, NotreDame_De_Paris.txt 4
 includes	NotreDame_De_Paris.txt 1, Miserables.txt 1
-including	NotreDame_De_Paris.txt 9, Miserables.txt 15
+including	Miserables.txt 15, NotreDame_De_Paris.txt 9
 inclusive	NotreDame_De_Paris.txt 1, Miserables.txt 1
 incoherence	Miserables.txt 1
 incoherences	Miserables.txt 1
 incoherent	NotreDame_De_Paris.txt 4, Miserables.txt 2
 incombustible	Miserables.txt 1
-income	NotreDame_De_Paris.txt 1, Miserables.txt 22
+income	Miserables.txt 22, NotreDame_De_Paris.txt 1
 incommensurable	NotreDame_De_Paris.txt 1
 incommoded	NotreDame_De_Paris.txt 1
 incomparable	Miserables.txt 2
 incomparably	NotreDame_De_Paris.txt 1
 incompatible	NotreDame_De_Paris.txt 1, Miserables.txt 1
-incomplete	NotreDame_De_Paris.txt 7, Miserables.txt 14
+incomplete	Miserables.txt 14, NotreDame_De_Paris.txt 7
 incomprehensibility	Miserables.txt 1
-incomprehensible	NotreDame_De_Paris.txt 2, Miserables.txt 7
+incomprehensible	Miserables.txt 7, NotreDame_De_Paris.txt 2
 inconceivable	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inconceivably	Miserables.txt 1
 incongruous	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -370,63 +370,63 @@ incontinently	NotreDame_De_Paris.txt 1
 inconvenience	Miserables.txt 6
 inconvenienced	Miserables.txt 1
 inconveniences	NotreDame_De_Paris.txt 3, Miserables.txt 2
-inconvenient	NotreDame_De_Paris.txt 2, Miserables.txt 3
+inconvenient	Miserables.txt 3, NotreDame_De_Paris.txt 2
 incorporated	NotreDame_De_Paris.txt 1, Miserables.txt 1
 incorrect	Miserables.txt 1
 incorruptibility	Miserables.txt 3
 incorruptible	Miserables.txt 9
-increase	NotreDame_De_Paris.txt 5, Miserables.txt 14
-increased	NotreDame_De_Paris.txt 8, Miserables.txt 28
-increases	NotreDame_De_Paris.txt 2, Miserables.txt 4
-increasing	NotreDame_De_Paris.txt 9, Miserables.txt 10
+increase	Miserables.txt 14, NotreDame_De_Paris.txt 5
+increased	Miserables.txt 28, NotreDame_De_Paris.txt 8
+increases	Miserables.txt 4, NotreDame_De_Paris.txt 2
+increasing	Miserables.txt 10, NotreDame_De_Paris.txt 9
 incredible	NotreDame_De_Paris.txt 4, Miserables.txt 4
-incredulous	NotreDame_De_Paris.txt 1, Miserables.txt 2
+incredulous	Miserables.txt 2, NotreDame_De_Paris.txt 1
 incriminated	Miserables.txt 1
 incroyable	Miserables.txt 1
 incroyables	Miserables.txt 1
 incrustations	NotreDame_De_Paris.txt 1
-incrusted	NotreDame_De_Paris.txt 2, Miserables.txt 4
+incrusted	Miserables.txt 4, NotreDame_De_Paris.txt 2
 incrusts	NotreDame_De_Paris.txt 1
 incubation	Miserables.txt 4
 inculcation	Miserables.txt 1
 incumbent	NotreDame_De_Paris.txt 1
 incur	Miserables.txt 2
-incurable	NotreDame_De_Paris.txt 1, Miserables.txt 5
+incurable	Miserables.txt 5, NotreDame_De_Paris.txt 1
 incurred	Miserables.txt 2
 incurring	Miserables.txt 3
 incutit	NotreDame_De_Paris.txt 1
 inde	NotreDame_De_Paris.txt 1
-indebted	NotreDame_De_Paris.txt 1, Miserables.txt 7
+indebted	Miserables.txt 7, NotreDame_De_Paris.txt 1
 indecency	Miserables.txt 1
 indecent	Miserables.txt 4
 indecently	Miserables.txt 1
-indecision	NotreDame_De_Paris.txt 3, Miserables.txt 10
+indecision	Miserables.txt 10, NotreDame_De_Paris.txt 3
 indecorous	Miserables.txt 1
-indeed	NotreDame_De_Paris.txt 21, Miserables.txt 32
+indeed	Miserables.txt 32, NotreDame_De_Paris.txt 21
 indefatigable	NotreDame_De_Paris.txt 3, Miserables.txt 3
-indefinable	NotreDame_De_Paris.txt 2, Miserables.txt 5
-indefinite	NotreDame_De_Paris.txt 3, Miserables.txt 5
+indefinable	Miserables.txt 5, NotreDame_De_Paris.txt 2
+indefinite	Miserables.txt 5, NotreDame_De_Paris.txt 3
 indefinitely	Miserables.txt 5
 indelible	NotreDame_De_Paris.txt 1
 indelibly	Miserables.txt 1
 indemnify	NotreDame_De_Paris.txt 1, Miserables.txt 1
 indemnitatem	NotreDame_De_Paris.txt 1
-indemnity	NotreDame_De_Paris.txt 2, Miserables.txt 3
+indemnity	Miserables.txt 3, NotreDame_De_Paris.txt 2
 indentation	NotreDame_De_Paris.txt 1
 indentations	NotreDame_De_Paris.txt 1, Miserables.txt 1
 independence	NotreDame_De_Paris.txt 2, Miserables.txt 1
-independent	NotreDame_De_Paris.txt 1, Miserables.txt 3
+independent	Miserables.txt 3, NotreDame_De_Paris.txt 1
 independently	NotreDame_De_Paris.txt 4, Miserables.txt 2
-indescribable	NotreDame_De_Paris.txt 5, Miserables.txt 57
-indescribably	NotreDame_De_Paris.txt 1, Miserables.txt 20
-indestructible	NotreDame_De_Paris.txt 1, Miserables.txt 2
+indescribable	Miserables.txt 57, NotreDame_De_Paris.txt 5
+indescribably	Miserables.txt 20, NotreDame_De_Paris.txt 1
+indestructible	Miserables.txt 2, NotreDame_De_Paris.txt 1
 indeterminate	NotreDame_De_Paris.txt 1
 index	Miserables.txt 1
-india	NotreDame_De_Paris.txt 3, Miserables.txt 11
-indian	NotreDame_De_Paris.txt 1, Miserables.txt 2
+india	Miserables.txt 11, NotreDame_De_Paris.txt 3
+indian	Miserables.txt 2, NotreDame_De_Paris.txt 1
 indians	Miserables.txt 1
-indicate	NotreDame_De_Paris.txt 4, Miserables.txt 14
-indicated	NotreDame_De_Paris.txt 5, Miserables.txt 36
+indicate	Miserables.txt 14, NotreDame_De_Paris.txt 4
+indicated	Miserables.txt 36, NotreDame_De_Paris.txt 5
 indicates	Miserables.txt 4
 indicating	NotreDame_De_Paris.txt 2, Miserables.txt 2
 indication	Miserables.txt 2
@@ -436,38 +436,38 @@ indictment	Miserables.txt 2
 indies	Miserables.txt 1
 indifference	Miserables.txt 23
 indifferences	Miserables.txt 1
-indifferent	NotreDame_De_Paris.txt 6, Miserables.txt 14
-indifferently	NotreDame_De_Paris.txt 3, Miserables.txt 4
+indifferent	Miserables.txt 14, NotreDame_De_Paris.txt 6
+indifferently	Miserables.txt 4, NotreDame_De_Paris.txt 3
 indigance	Miserables.txt 1
 indigant	Miserables.txt 1
 indigence	Miserables.txt 8
 indigenous	NotreDame_De_Paris.txt 1
 indigent	Miserables.txt 8
 indigestion	Miserables.txt 2
-indignant	NotreDame_De_Paris.txt 2, Miserables.txt 12
-indignantly	NotreDame_De_Paris.txt 1, Miserables.txt 3
+indignant	Miserables.txt 12, NotreDame_De_Paris.txt 2
+indignantly	Miserables.txt 3, NotreDame_De_Paris.txt 1
 indignatio	Miserables.txt 1
-indignation	NotreDame_De_Paris.txt 6, Miserables.txt 14
+indignation	Miserables.txt 14, NotreDame_De_Paris.txt 6
 indignations	Miserables.txt 2
 indignities	Miserables.txt 1
 indignity	Miserables.txt 1
 indignus	NotreDame_De_Paris.txt 1
-indigo	NotreDame_De_Paris.txt 1, Miserables.txt 8
-indirect	NotreDame_De_Paris.txt 1, Miserables.txt 2
-indirectly	NotreDame_De_Paris.txt 1, Miserables.txt 2
+indigo	Miserables.txt 8, NotreDame_De_Paris.txt 1
+indirect	Miserables.txt 2, NotreDame_De_Paris.txt 1
+indirectly	Miserables.txt 2, NotreDame_De_Paris.txt 1
 indiscreet	Miserables.txt 3
 indiscreetly	Miserables.txt 1
 indiscretion	Miserables.txt 4
-indispensable	NotreDame_De_Paris.txt 1, Miserables.txt 14
+indispensable	Miserables.txt 14, NotreDame_De_Paris.txt 1
 indisputable	Miserables.txt 2
 indissoluble	Miserables.txt 1
-indistinct	NotreDame_De_Paris.txt 4, Miserables.txt 16
+indistinct	Miserables.txt 16, NotreDame_De_Paris.txt 4
 indistinctly	Miserables.txt 5
 indite	Miserables.txt 1
-individual	NotreDame_De_Paris.txt 13, Miserables.txt 37
+individual	Miserables.txt 37, NotreDame_De_Paris.txt 13
 individualities	Miserables.txt 1
 individuality	Miserables.txt 2
-individuals	NotreDame_De_Paris.txt 2, Miserables.txt 5
+individuals	Miserables.txt 5, NotreDame_De_Paris.txt 2
 indivisible	Miserables.txt 2
 indoctrinate	Miserables.txt 1
 indolence	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -476,54 +476,54 @@ indolently	NotreDame_De_Paris.txt 1
 indomitable	Miserables.txt 2
 indoors	Miserables.txt 1
 indubitably	NotreDame_De_Paris.txt 2
-induce	NotreDame_De_Paris.txt 1, Miserables.txt 7
-induced	NotreDame_De_Paris.txt 1, Miserables.txt 2
+induce	Miserables.txt 7, NotreDame_De_Paris.txt 1
+induced	Miserables.txt 2, NotreDame_De_Paris.txt 1
 induction	Miserables.txt 1
 indueret	NotreDame_De_Paris.txt 1
 indulge	Miserables.txt 9
-indulged	NotreDame_De_Paris.txt 2, Miserables.txt 16
-indulgence	NotreDame_De_Paris.txt 1, Miserables.txt 5
+indulged	Miserables.txt 16, NotreDame_De_Paris.txt 2
+indulgence	Miserables.txt 5, NotreDame_De_Paris.txt 1
 indulgent	Miserables.txt 4
 indulges	Miserables.txt 2
 indulging	Miserables.txt 2
 industrial	Miserables.txt 2
 industries	Miserables.txt 2
 industrious	NotreDame_De_Paris.txt 1, Miserables.txt 1
-industry	NotreDame_De_Paris.txt 2, Miserables.txt 16
+industry	Miserables.txt 16, NotreDame_De_Paris.txt 2
 inebriety	Miserables.txt 2
-ineffable	NotreDame_De_Paris.txt 6, Miserables.txt 28
+ineffable	Miserables.txt 28, NotreDame_De_Paris.txt 6
 inequality	Miserables.txt 2
-inert	NotreDame_De_Paris.txt 2, Miserables.txt 5
+inert	Miserables.txt 5, NotreDame_De_Paris.txt 2
 inertia	Miserables.txt 2
 inertly	Miserables.txt 1
-inevitable	NotreDame_De_Paris.txt 2, Miserables.txt 5
+inevitable	Miserables.txt 5, NotreDame_De_Paris.txt 2
 inevitably	Miserables.txt 3
 inexact	Miserables.txt 1
 inexactness	Miserables.txt 1
 inexcusable	Miserables.txt 1
-inexhaustible	NotreDame_De_Paris.txt 1, Miserables.txt 13
+inexhaustible	Miserables.txt 13, NotreDame_De_Paris.txt 1
 inexorability	Miserables.txt 1
-inexorable	NotreDame_De_Paris.txt 2, Miserables.txt 14
+inexorable	Miserables.txt 14, NotreDame_De_Paris.txt 2
 inexorably	Miserables.txt 6
 inexpensive	Miserables.txt 1
 inexperience	Miserables.txt 2
 inexperienced	NotreDame_De_Paris.txt 2
-inexplicable	NotreDame_De_Paris.txt 4, Miserables.txt 12
+inexplicable	Miserables.txt 12, NotreDame_De_Paris.txt 4
 inexplicably	Miserables.txt 1
-inexpressible	NotreDame_De_Paris.txt 2, Miserables.txt 15
+inexpressible	Miserables.txt 15, NotreDame_De_Paris.txt 2
 inexpressibly	Miserables.txt 1
 inextinguishable	NotreDame_De_Paris.txt 2
-inextricable	NotreDame_De_Paris.txt 2, Miserables.txt 5
+inextricable	Miserables.txt 5, NotreDame_De_Paris.txt 2
 inextricably	Miserables.txt 1
 infallibility	Miserables.txt 2
 infallible	Miserables.txt 12
 infallibly	Miserables.txt 4
 infame	Miserables.txt 1
 infamies	Miserables.txt 2
-infamous	NotreDame_De_Paris.txt 4, Miserables.txt 20
-infamy	NotreDame_De_Paris.txt 2, Miserables.txt 12
+infamous	Miserables.txt 20, NotreDame_De_Paris.txt 4
+infamy	Miserables.txt 12, NotreDame_De_Paris.txt 2
 infancy	NotreDame_De_Paris.txt 7, Miserables.txt 5
-infant	NotreDame_De_Paris.txt 7, Miserables.txt 10
+infant	Miserables.txt 10, NotreDame_De_Paris.txt 7
 infanticide	Miserables.txt 2
 infantile	Miserables.txt 6
 infantry	Miserables.txt 29
@@ -537,24 +537,24 @@ infects	Miserables.txt 1
 infelix	Miserables.txt 1
 inference	Miserables.txt 2
 inferi	NotreDame_De_Paris.txt 1, Miserables.txt 1
-inferior	NotreDame_De_Paris.txt 1, Miserables.txt 8
-infernal	NotreDame_De_Paris.txt 3, Miserables.txt 4
+inferior	Miserables.txt 8, NotreDame_De_Paris.txt 1
+infernal	Miserables.txt 4, NotreDame_De_Paris.txt 3
 inferred	Miserables.txt 2
 infers	Miserables.txt 1
 infested	Miserables.txt 3
 infidelity	Miserables.txt 3
 infiltration	Miserables.txt 3
 infima	Miserables.txt 1
-infinite	NotreDame_De_Paris.txt 8, Miserables.txt 57
+infinite	Miserables.txt 57, NotreDame_De_Paris.txt 8
 infinitely	Miserables.txt 8
 infinites	Miserables.txt 1
 infinitesimal	Miserables.txt 1
 infinities	Miserables.txt 3
-infinity	NotreDame_De_Paris.txt 1, Miserables.txt 9
-infirm	NotreDame_De_Paris.txt 1, Miserables.txt 6
+infinity	Miserables.txt 9, NotreDame_De_Paris.txt 1
+infirm	Miserables.txt 6, NotreDame_De_Paris.txt 1
 infirmary	Miserables.txt 11
 infirmities	Miserables.txt 5
-infirmity	NotreDame_De_Paris.txt 2, Miserables.txt 5
+infirmity	Miserables.txt 5, NotreDame_De_Paris.txt 2
 infixus	NotreDame_De_Paris.txt 1
 inflamed	NotreDame_De_Paris.txt 4, Miserables.txt 2
 inflammations	Miserables.txt 1
@@ -563,17 +563,17 @@ inflation	Miserables.txt 2
 inflection	Miserables.txt 2
 inflections	Miserables.txt 2
 inflexibility	Miserables.txt 1
-inflexible	NotreDame_De_Paris.txt 1, Miserables.txt 3
+inflexible	Miserables.txt 3, NotreDame_De_Paris.txt 1
 inflict	NotreDame_De_Paris.txt 3, Miserables.txt 3
 inflicted	Miserables.txt 2
 inflicting	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inflicts	Miserables.txt 1
-influence	NotreDame_De_Paris.txt 3, Miserables.txt 14
+influence	Miserables.txt 14, NotreDame_De_Paris.txt 3
 influenced	Miserables.txt 2
 influential	Miserables.txt 1
-inform	NotreDame_De_Paris.txt 3, Miserables.txt 8
-information	NotreDame_De_Paris.txt 8, Miserables.txt 29
-informed	NotreDame_De_Paris.txt 2, Miserables.txt 18
+inform	Miserables.txt 8, NotreDame_De_Paris.txt 3
+information	Miserables.txt 29, NotreDame_De_Paris.txt 8
+informed	Miserables.txt 18, NotreDame_De_Paris.txt 2
 informer	Miserables.txt 2
 infraction	Miserables.txt 5
 infractions	Miserables.txt 2
@@ -587,34 +587,34 @@ infusion	Miserables.txt 1
 infusoria	Miserables.txt 1
 infusoriae	Miserables.txt 1
 ing	Miserables.txt 1
-ingenious	NotreDame_De_Paris.txt 3, Miserables.txt 12
+ingenious	Miserables.txt 12, NotreDame_De_Paris.txt 3
 ingens	Miserables.txt 1
 ingenuity	Miserables.txt 2
-ingenuous	NotreDame_De_Paris.txt 1, Miserables.txt 11
-ingenuously	NotreDame_De_Paris.txt 1, Miserables.txt 2
+ingenuous	Miserables.txt 11, NotreDame_De_Paris.txt 1
+ingenuously	Miserables.txt 2, NotreDame_De_Paris.txt 1
 ingenuousness	Miserables.txt 8
 ingots	NotreDame_De_Paris.txt 1
-ingrate	NotreDame_De_Paris.txt 1, Miserables.txt 5
+ingrate	Miserables.txt 5, NotreDame_De_Paris.txt 1
 ingrates	Miserables.txt 2
 ingratitude	Miserables.txt 6
 ingrats	Miserables.txt 1
 ingredient	NotreDame_De_Paris.txt 1
 inhabit	Miserables.txt 3
 inhabitable	Miserables.txt 1
-inhabitant	NotreDame_De_Paris.txt 1, Miserables.txt 8
-inhabitants	NotreDame_De_Paris.txt 5, Miserables.txt 22
-inhabited	NotreDame_De_Paris.txt 5, Miserables.txt 18
+inhabitant	Miserables.txt 8, NotreDame_De_Paris.txt 1
+inhabitants	Miserables.txt 22, NotreDame_De_Paris.txt 5
+inhabited	Miserables.txt 18, NotreDame_De_Paris.txt 5
 inhabits	Miserables.txt 5
 inhalation	Miserables.txt 2
 inhalations	Miserables.txt 1
 inhale	Miserables.txt 2
 inhaled	Miserables.txt 1
 inhales	Miserables.txt 1
-inherent	NotreDame_De_Paris.txt 1, Miserables.txt 4
+inherent	Miserables.txt 4, NotreDame_De_Paris.txt 1
 inherit	Miserables.txt 1
 inheritance	Miserables.txt 9
 inheritances	Miserables.txt 2
-inherited	NotreDame_De_Paris.txt 4, Miserables.txt 7
+inherited	Miserables.txt 7, NotreDame_De_Paris.txt 4
 inhumanly	NotreDame_De_Paris.txt 1
 inimical	NotreDame_De_Paris.txt 1
 iniquities	Miserables.txt 4
@@ -623,21 +623,21 @@ iniquity	Miserables.txt 2
 initial	Miserables.txt 1
 initials	Miserables.txt 1
 initiate	NotreDame_De_Paris.txt 1
-initiated	NotreDame_De_Paris.txt 2, Miserables.txt 5
+initiated	Miserables.txt 5, NotreDame_De_Paris.txt 2
 initiative	Miserables.txt 5
 initiatives	Miserables.txt 1
 initium	Miserables.txt 1
 injected	NotreDame_De_Paris.txt 1
-injunction	NotreDame_De_Paris.txt 1, Miserables.txt 7
+injunction	Miserables.txt 7, NotreDame_De_Paris.txt 1
 injunctions	Miserables.txt 3
-injure	NotreDame_De_Paris.txt 2, Miserables.txt 3
+injure	Miserables.txt 3, NotreDame_De_Paris.txt 2
 injured	Miserables.txt 9
 injuries	Miserables.txt 3
 injuring	Miserables.txt 1
 injurious	Miserables.txt 2
-injury	NotreDame_De_Paris.txt 1, Miserables.txt 5
-injustice	NotreDame_De_Paris.txt 2, Miserables.txt 6
-ink	NotreDame_De_Paris.txt 8, Miserables.txt 21
+injury	Miserables.txt 5, NotreDame_De_Paris.txt 1
+injustice	Miserables.txt 6, NotreDame_De_Paris.txt 2
+ink	Miserables.txt 21, NotreDame_De_Paris.txt 8
 inkermann	Miserables.txt 1
 inkhorn	NotreDame_De_Paris.txt 2
 inkling	Miserables.txt 3
@@ -647,11 +647,11 @@ inlaid	Miserables.txt 2
 inmost	Miserables.txt 5
 inn	Miserables.txt 75
 innate	NotreDame_De_Paris.txt 1, Miserables.txt 1
-inner	NotreDame_De_Paris.txt 2, Miserables.txt 13
+inner	Miserables.txt 13, NotreDame_De_Paris.txt 2
 innkeeper	NotreDame_De_Paris.txt 1, Miserables.txt 1
 innocence	Miserables.txt 28
 innocences	Miserables.txt 1
-innocent	NotreDame_De_Paris.txt 19, Miserables.txt 49
+innocent	Miserables.txt 49, NotreDame_De_Paris.txt 19
 innocente	Miserables.txt 4
 innocently	NotreDame_De_Paris.txt 3, Miserables.txt 2
 innocents	NotreDame_De_Paris.txt 5, Miserables.txt 4
@@ -660,17 +660,17 @@ inns	Miserables.txt 3
 innuendoes	Miserables.txt 1
 innumerable	NotreDame_De_Paris.txt 13, Miserables.txt 9
 inoculating	Miserables.txt 1
-inoffensive	NotreDame_De_Paris.txt 1, Miserables.txt 4
+inoffensive	Miserables.txt 4, NotreDame_De_Paris.txt 1
 inopportunely	NotreDame_De_Paris.txt 2, Miserables.txt 1
 inordinately	Miserables.txt 1
 inpace	NotreDame_De_Paris.txt 2
 inquests	NotreDame_De_Paris.txt 1
-inquire	NotreDame_De_Paris.txt 1, Miserables.txt 15
-inquired	NotreDame_De_Paris.txt 13, Miserables.txt 36
+inquire	Miserables.txt 15, NotreDame_De_Paris.txt 1
+inquired	Miserables.txt 36, NotreDame_De_Paris.txt 13
 inquires	Miserables.txt 1
 inquiries	Miserables.txt 19
-inquiring	NotreDame_De_Paris.txt 1, Miserables.txt 3
-inquiry	NotreDame_De_Paris.txt 1, Miserables.txt 3
+inquiring	Miserables.txt 3, NotreDame_De_Paris.txt 1
+inquiry	Miserables.txt 3, NotreDame_De_Paris.txt 1
 inquisition	Miserables.txt 1
 inquisitive	NotreDame_De_Paris.txt 1
 inquisitiveness	Miserables.txt 1
@@ -680,29 +680,29 @@ inquisitors	NotreDame_De_Paris.txt 1
 insalubrity	Miserables.txt 1
 insanity	Miserables.txt 1
 insatiable	NotreDame_De_Paris.txt 1
-inscribed	NotreDame_De_Paris.txt 7, Miserables.txt 12
+inscribed	Miserables.txt 12, NotreDame_De_Paris.txt 7
 inscribing	NotreDame_De_Paris.txt 1
-inscription	NotreDame_De_Paris.txt 7, Miserables.txt 17
+inscription	Miserables.txt 17, NotreDame_De_Paris.txt 7
 inscriptions	NotreDame_De_Paris.txt 3, Miserables.txt 2
-insect	NotreDame_De_Paris.txt 1, Miserables.txt 2
-insects	NotreDame_De_Paris.txt 3, Miserables.txt 7
-insensible	NotreDame_De_Paris.txt 1, Miserables.txt 4
-insensibly	NotreDame_De_Paris.txt 1, Miserables.txt 3
+insect	Miserables.txt 2, NotreDame_De_Paris.txt 1
+insects	Miserables.txt 7, NotreDame_De_Paris.txt 3
+insensible	Miserables.txt 4, NotreDame_De_Paris.txt 1
+insensibly	Miserables.txt 3, NotreDame_De_Paris.txt 1
 inseparable	Miserables.txt 7
 inserted	Miserables.txt 5
-inside	NotreDame_De_Paris.txt 5, Miserables.txt 35
+inside	Miserables.txt 35, NotreDame_De_Paris.txt 5
 insignia	NotreDame_De_Paris.txt 2
-insignificant	NotreDame_De_Paris.txt 1, Miserables.txt 8
+insignificant	Miserables.txt 8, NotreDame_De_Paris.txt 1
 insinuated	Miserables.txt 2
 insinuations	Miserables.txt 1
-insipid	NotreDame_De_Paris.txt 2, Miserables.txt 3
+insipid	Miserables.txt 3, NotreDame_De_Paris.txt 2
 insipidity	Miserables.txt 1
-insist	NotreDame_De_Paris.txt 4, Miserables.txt 23
-insisted	NotreDame_De_Paris.txt 1, Miserables.txt 9
+insist	Miserables.txt 23, NotreDame_De_Paris.txt 4
+insisted	Miserables.txt 9, NotreDame_De_Paris.txt 1
 insistence	Miserables.txt 2
 insisting	Miserables.txt 1
-insists	NotreDame_De_Paris.txt 1, Miserables.txt 6
-insolence	NotreDame_De_Paris.txt 2, Miserables.txt 4
+insists	Miserables.txt 6, NotreDame_De_Paris.txt 1
+insolence	Miserables.txt 4, NotreDame_De_Paris.txt 2
 insolent	Miserables.txt 3
 insolently	Miserables.txt 1
 insoluble	Miserables.txt 1
@@ -710,90 +710,90 @@ inspect	Miserables.txt 1
 inspected	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inspecteur	Miserables.txt 2
 inspecting	Miserables.txt 2
-inspection	NotreDame_De_Paris.txt 2, Miserables.txt 4
+inspection	Miserables.txt 4, NotreDame_De_Paris.txt 2
 inspector	Miserables.txt 50
 inspectors	Miserables.txt 5
-inspiration	NotreDame_De_Paris.txt 2, Miserables.txt 3
-inspire	NotreDame_De_Paris.txt 5, Miserables.txt 12
-inspired	NotreDame_De_Paris.txt 7, Miserables.txt 23
+inspiration	Miserables.txt 3, NotreDame_De_Paris.txt 2
+inspire	Miserables.txt 12, NotreDame_De_Paris.txt 5
+inspired	Miserables.txt 23, NotreDame_De_Paris.txt 7
 inspirer	Miserables.txt 1
-inspires	NotreDame_De_Paris.txt 1, Miserables.txt 4
+inspires	Miserables.txt 4, NotreDame_De_Paris.txt 1
 inspiring	Miserables.txt 3
 install	Miserables.txt 6
 installation	Miserables.txt 1
-installed	NotreDame_De_Paris.txt 1, Miserables.txt 16
+installed	Miserables.txt 16, NotreDame_De_Paris.txt 1
 installing	Miserables.txt 1
-instance	NotreDame_De_Paris.txt 1, Miserables.txt 14
+instance	Miserables.txt 14, NotreDame_De_Paris.txt 1
 instances	Miserables.txt 1
-instant	NotreDame_De_Paris.txt 25, Miserables.txt 87
+instant	Miserables.txt 87, NotreDame_De_Paris.txt 25
 instantaneously	Miserables.txt 1
 instanter	Miserables.txt 2
 instantia	NotreDame_De_Paris.txt 1
-instantly	NotreDame_De_Paris.txt 6, Miserables.txt 30
+instantly	Miserables.txt 30, NotreDame_De_Paris.txt 6
 instants	Miserables.txt 7
-instead	NotreDame_De_Paris.txt 6, Miserables.txt 50
+instead	Miserables.txt 50, NotreDame_De_Paris.txt 6
 instigate	Miserables.txt 1
 instigation	Miserables.txt 1
 instilled	Miserables.txt 1
-instinct	NotreDame_De_Paris.txt 4, Miserables.txt 60
+instinct	Miserables.txt 60, NotreDame_De_Paris.txt 4
 instinctive	NotreDame_De_Paris.txt 2, Miserables.txt 2
-instinctively	NotreDame_De_Paris.txt 1, Miserables.txt 3
-instincts	NotreDame_De_Paris.txt 1, Miserables.txt 11
+instinctively	Miserables.txt 3, NotreDame_De_Paris.txt 1
+instincts	Miserables.txt 11, NotreDame_De_Paris.txt 1
 institut	Miserables.txt 1
 institute	Miserables.txt 4
-instituted	NotreDame_De_Paris.txt 3, Miserables.txt 8
+instituted	Miserables.txt 8, NotreDame_De_Paris.txt 3
 instituting	NotreDame_De_Paris.txt 1
-institution	NotreDame_De_Paris.txt 1, Miserables.txt 3
+institution	Miserables.txt 3, NotreDame_De_Paris.txt 1
 institutions	Miserables.txt 3
 instruct	NotreDame_De_Paris.txt 2, Miserables.txt 2
 instructed	Miserables.txt 2
 instructing	NotreDame_De_Paris.txt 1
 instruction	Miserables.txt 11
-instructions	NotreDame_De_Paris.txt 1, Miserables.txt 4
+instructions	Miserables.txt 4, NotreDame_De_Paris.txt 1
 instructive	Miserables.txt 1
 instructors	NotreDame_De_Paris.txt 1, Miserables.txt 1
-instrument	NotreDame_De_Paris.txt 1, Miserables.txt 2
+instrument	Miserables.txt 2, NotreDame_De_Paris.txt 1
 instruments	NotreDame_De_Paris.txt 7, Miserables.txt 5
 insue	Miserables.txt 1
 insufferable	Miserables.txt 1
 insufficient	Miserables.txt 2
 insula	NotreDame_De_Paris.txt 2
-insult	NotreDame_De_Paris.txt 4, Miserables.txt 19
+insult	Miserables.txt 19, NotreDame_De_Paris.txt 4
 insulted	Miserables.txt 11
-insulting	NotreDame_De_Paris.txt 1, Miserables.txt 3
-insults	NotreDame_De_Paris.txt 3, Miserables.txt 10
-insupportable	NotreDame_De_Paris.txt 1, Miserables.txt 2
+insulting	Miserables.txt 3, NotreDame_De_Paris.txt 1
+insults	Miserables.txt 10, NotreDame_De_Paris.txt 3
+insupportable	Miserables.txt 2, NotreDame_De_Paris.txt 1
 insure	Miserables.txt 1
 insurgent	Miserables.txt 15
 insurgents	Miserables.txt 51
 insurrection	Miserables.txt 69
 insurrections	Miserables.txt 5
-intact	NotreDame_De_Paris.txt 1, Miserables.txt 3
+intact	Miserables.txt 3, NotreDame_De_Paris.txt 1
 intangible	Miserables.txt 1
 integral	NotreDame_De_Paris.txt 1
 integrity	NotreDame_De_Paris.txt 1
 integuments	Miserables.txt 1
 intellect	NotreDame_De_Paris.txt 3, Miserables.txt 1
 intellectual	NotreDame_De_Paris.txt 7, Miserables.txt 4
-intelligence	NotreDame_De_Paris.txt 19, Miserables.txt 38
+intelligence	Miserables.txt 38, NotreDame_De_Paris.txt 19
 intelligences	NotreDame_De_Paris.txt 1, Miserables.txt 1
-intelligent	NotreDame_De_Paris.txt 9, Miserables.txt 27
+intelligent	Miserables.txt 27, NotreDame_De_Paris.txt 9
 intelligible	Miserables.txt 1
 intemerata	NotreDame_De_Paris.txt 1
 intend	Miserables.txt 6
-intended	NotreDame_De_Paris.txt 3, Miserables.txt 13
+intended	Miserables.txt 13, NotreDame_De_Paris.txt 3
 intending	Miserables.txt 9
 intends	Miserables.txt 1
 intense	Miserables.txt 1
 intensely	Miserables.txt 1
-intensity	NotreDame_De_Paris.txt 3, Miserables.txt 5
-intent	NotreDame_De_Paris.txt 1, Miserables.txt 5
-intention	NotreDame_De_Paris.txt 4, Miserables.txt 13
+intensity	Miserables.txt 5, NotreDame_De_Paris.txt 3
+intent	Miserables.txt 5, NotreDame_De_Paris.txt 1
+intention	Miserables.txt 13, NotreDame_De_Paris.txt 4
 intentional	Miserables.txt 1
-intentionally	NotreDame_De_Paris.txt 1, Miserables.txt 4
+intentionally	Miserables.txt 4, NotreDame_De_Paris.txt 1
 intentione	NotreDame_De_Paris.txt 1
-intentions	NotreDame_De_Paris.txt 1, Miserables.txt 3
-intently	NotreDame_De_Paris.txt 11, Miserables.txt 21
+intentions	Miserables.txt 3, NotreDame_De_Paris.txt 1
+intently	Miserables.txt 21, NotreDame_De_Paris.txt 11
 intentness	Miserables.txt 1
 inter	NotreDame_De_Paris.txt 2, Miserables.txt 1
 intercept	Miserables.txt 2
@@ -804,44 +804,44 @@ intercourse	Miserables.txt 1
 interdicted	Miserables.txt 3
 interdicting	NotreDame_De_Paris.txt 1
 interdicts	NotreDame_De_Paris.txt 1, Miserables.txt 1
-interest	NotreDame_De_Paris.txt 11, Miserables.txt 32
-interested	NotreDame_De_Paris.txt 4, Miserables.txt 7
-interesting	NotreDame_De_Paris.txt 3, Miserables.txt 5
-interests	NotreDame_De_Paris.txt 1, Miserables.txt 18
+interest	Miserables.txt 32, NotreDame_De_Paris.txt 11
+interested	Miserables.txt 7, NotreDame_De_Paris.txt 4
+interesting	Miserables.txt 5, NotreDame_De_Paris.txt 3
+interests	Miserables.txt 18, NotreDame_De_Paris.txt 1
 interfere	Miserables.txt 4
-interfered	NotreDame_De_Paris.txt 4, Miserables.txt 5
+interfered	Miserables.txt 5, NotreDame_De_Paris.txt 4
 interference	Miserables.txt 3
-interfering	NotreDame_De_Paris.txt 1, Miserables.txt 2
+interfering	Miserables.txt 2, NotreDame_De_Paris.txt 1
 interim	Miserables.txt 2
-interior	NotreDame_De_Paris.txt 26, Miserables.txt 55
+interior	Miserables.txt 55, NotreDame_De_Paris.txt 26
 interjection	NotreDame_De_Paris.txt 1
 interjoists	NotreDame_De_Paris.txt 1
 interlace	Miserables.txt 1
-interlaced	NotreDame_De_Paris.txt 2, Miserables.txt 3
+interlaced	Miserables.txt 3, NotreDame_De_Paris.txt 2
 interlacement	Miserables.txt 1
 interlaces	Miserables.txt 1
 interlacing	Miserables.txt 2
 interlined	NotreDame_De_Paris.txt 1
 interlocked	NotreDame_De_Paris.txt 1
 interlocutor	NotreDame_De_Paris.txt 2, Miserables.txt 2
-interlocutors	NotreDame_De_Paris.txt 1, Miserables.txt 2
+interlocutors	Miserables.txt 2, NotreDame_De_Paris.txt 1
 interloping	Miserables.txt 1
 interlude	NotreDame_De_Paris.txt 1, Miserables.txt 1
 intermeddling	Miserables.txt 1
-intermediary	NotreDame_De_Paris.txt 1, Miserables.txt 3
+intermediary	Miserables.txt 3, NotreDame_De_Paris.txt 1
 intermediate	NotreDame_De_Paris.txt 3, Miserables.txt 2
 interment	Miserables.txt 7
 interminable	NotreDame_De_Paris.txt 4, Miserables.txt 2
-intermingled	NotreDame_De_Paris.txt 2, Miserables.txt 10
+intermingled	Miserables.txt 10, NotreDame_De_Paris.txt 2
 intermingling	Miserables.txt 1
 intermission	NotreDame_De_Paris.txt 1, Miserables.txt 1
 intermissions	Miserables.txt 1
 intermittences	Miserables.txt 3
-intermittent	NotreDame_De_Paris.txt 3, Miserables.txt 6
+intermittent	Miserables.txt 6, NotreDame_De_Paris.txt 3
 intermixed	NotreDame_De_Paris.txt 1
 intermixture	Miserables.txt 1
 intermixtures	Miserables.txt 1
-internal	NotreDame_De_Paris.txt 10, Miserables.txt 11
+internal	Miserables.txt 11, NotreDame_De_Paris.txt 10
 internally	Miserables.txt 2
 international	NotreDame_De_Paris.txt 1, Miserables.txt 1
 interpellation	Miserables.txt 1
@@ -849,29 +849,29 @@ interpolated	NotreDame_De_Paris.txt 2, Miserables.txt 2
 interpolating	Miserables.txt 1
 interposed	NotreDame_De_Paris.txt 10, Miserables.txt 5
 interpret	Miserables.txt 1
-interpreted	NotreDame_De_Paris.txt 1, Miserables.txt 3
+interpreted	Miserables.txt 3, NotreDame_De_Paris.txt 1
 interpreter	Miserables.txt 1
-interred	NotreDame_De_Paris.txt 2, Miserables.txt 3
-interrogate	NotreDame_De_Paris.txt 1, Miserables.txt 4
+interred	Miserables.txt 3, NotreDame_De_Paris.txt 2
+interrogate	Miserables.txt 4, NotreDame_De_Paris.txt 1
 interrogated	Miserables.txt 10
 interrogates	Miserables.txt 2
-interrogating	NotreDame_De_Paris.txt 2, Miserables.txt 3
-interrogation	NotreDame_De_Paris.txt 1, Miserables.txt 13
+interrogating	Miserables.txt 3, NotreDame_De_Paris.txt 2
+interrogation	Miserables.txt 13, NotreDame_De_Paris.txt 1
 interrogations	NotreDame_De_Paris.txt 1, Miserables.txt 1
-interrogatory	NotreDame_De_Paris.txt 1, Miserables.txt 4
-interrupt	NotreDame_De_Paris.txt 1, Miserables.txt 7
+interrogatory	Miserables.txt 4, NotreDame_De_Paris.txt 1
+interrupt	Miserables.txt 7, NotreDame_De_Paris.txt 1
 interrupta	NotreDame_De_Paris.txt 1
-interrupted	NotreDame_De_Paris.txt 29, Miserables.txt 33
+interrupted	Miserables.txt 33, NotreDame_De_Paris.txt 29
 interrupters	NotreDame_De_Paris.txt 1
 interrupting	NotreDame_De_Paris.txt 1, Miserables.txt 1
-interruption	NotreDame_De_Paris.txt 2, Miserables.txt 3
+interruption	Miserables.txt 3, NotreDame_De_Paris.txt 2
 interruptions	NotreDame_De_Paris.txt 1
 interrupts	Miserables.txt 1
 interrypta	NotreDame_De_Paris.txt 1
 intersect	NotreDame_De_Paris.txt 3, Miserables.txt 1
-intersected	NotreDame_De_Paris.txt 3, Miserables.txt 9
+intersected	Miserables.txt 9, NotreDame_De_Paris.txt 3
 intersecting	NotreDame_De_Paris.txt 1, Miserables.txt 1
-intersection	NotreDame_De_Paris.txt 5, Miserables.txt 12
+intersection	Miserables.txt 12, NotreDame_De_Paris.txt 5
 intersections	NotreDame_De_Paris.txt 1
 intersit	NotreDame_De_Paris.txt 1
 interspacing	NotreDame_De_Paris.txt 1
@@ -879,88 +879,88 @@ interspersing	NotreDame_De_Paris.txt 1, Miserables.txt 1
 interstice	Miserables.txt 1
 intertwined	Miserables.txt 1
 intertwining	NotreDame_De_Paris.txt 1
-interval	NotreDame_De_Paris.txt 2, Miserables.txt 6
-intervals	NotreDame_De_Paris.txt 19, Miserables.txt 31
+interval	Miserables.txt 6, NotreDame_De_Paris.txt 2
+intervals	Miserables.txt 31, NotreDame_De_Paris.txt 19
 intervene	NotreDame_De_Paris.txt 2, Miserables.txt 1
-intervened	NotreDame_De_Paris.txt 3, Miserables.txt 7
+intervened	Miserables.txt 7, NotreDame_De_Paris.txt 3
 intervenes	Miserables.txt 2
 intervening	Miserables.txt 4
-intervention	NotreDame_De_Paris.txt 1, Miserables.txt 3
-interview	NotreDame_De_Paris.txt 1, Miserables.txt 2
+intervention	Miserables.txt 3, NotreDame_De_Paris.txt 1
+interview	Miserables.txt 2, NotreDame_De_Paris.txt 1
 interviews	Miserables.txt 1
-intestinal	NotreDame_De_Paris.txt 1, Miserables.txt 2
+intestinal	Miserables.txt 2, NotreDame_De_Paris.txt 1
 intestine	Miserables.txt 4
 intestines	Miserables.txt 1
 inthralment	Miserables.txt 1
 intimacy	Miserables.txt 2
-intimate	NotreDame_De_Paris.txt 3, Miserables.txt 6
+intimate	Miserables.txt 6, NotreDame_De_Paris.txt 3
 intimated	Miserables.txt 1
 intimately	Miserables.txt 1
 intimidate	Miserables.txt 1
 intimidated	Miserables.txt 2
 intimidates	Miserables.txt 1
-into	NotreDame_De_Paris.txt 278, Miserables.txt 993
-intolerable	NotreDame_De_Paris.txt 1, Miserables.txt 6
+into	Miserables.txt 993, NotreDame_De_Paris.txt 278
+intolerable	Miserables.txt 6, NotreDame_De_Paris.txt 1
 intolerant	Miserables.txt 1
-intonation	NotreDame_De_Paris.txt 4, Miserables.txt 7
+intonation	Miserables.txt 7, NotreDame_De_Paris.txt 4
 intone	NotreDame_De_Paris.txt 1, Miserables.txt 1
 intoned	NotreDame_De_Paris.txt 2, Miserables.txt 1
 intoning	NotreDame_De_Paris.txt 2
 intoxicate	Miserables.txt 3
-intoxicated	NotreDame_De_Paris.txt 7, Miserables.txt 26
+intoxicated	Miserables.txt 26, NotreDame_De_Paris.txt 7
 intoxicates	Miserables.txt 1
 intoxicating	NotreDame_De_Paris.txt 1, Miserables.txt 1
-intoxication	NotreDame_De_Paris.txt 2, Miserables.txt 17
+intoxication	Miserables.txt 17, NotreDame_De_Paris.txt 2
 intoxications	Miserables.txt 1
 intractable	Miserables.txt 2
 intraverunt	NotreDame_De_Paris.txt 1
 intrenchment	Miserables.txt 3
 intrenchments	Miserables.txt 1
-intrepid	NotreDame_De_Paris.txt 2, Miserables.txt 19
+intrepid	Miserables.txt 19, NotreDame_De_Paris.txt 2
 intrepide	Miserables.txt 1
 intrepidity	Miserables.txt 4
 intrepidly	NotreDame_De_Paris.txt 2, Miserables.txt 1
 intricate	Miserables.txt 3
 intrigue	Miserables.txt 1
-intrigues	NotreDame_De_Paris.txt 1, Miserables.txt 4
+intrigues	Miserables.txt 4, NotreDame_De_Paris.txt 1
 intriguing	NotreDame_De_Paris.txt 1
 intrinsic	Miserables.txt 4
 introduce	Miserables.txt 3
-introduced	NotreDame_De_Paris.txt 1, Miserables.txt 17
+introduced	Miserables.txt 17, NotreDame_De_Paris.txt 1
 introduces	Miserables.txt 1
 introducing	Miserables.txt 1
-introduction	NotreDame_De_Paris.txt 1, Miserables.txt 2
+introduction	Miserables.txt 2, NotreDame_De_Paris.txt 1
 intruder	Miserables.txt 2
 intrusive	Miserables.txt 1
 intrusted	Miserables.txt 6
 intuition	Miserables.txt 6
 intuitively	Miserables.txt 1
 inundate	Miserables.txt 2
-inundated	NotreDame_De_Paris.txt 5, Miserables.txt 14
+inundated	Miserables.txt 14, NotreDame_De_Paris.txt 5
 inundates	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inundating	Miserables.txt 1
-inundation	NotreDame_De_Paris.txt 1, Miserables.txt 2
+inundation	Miserables.txt 2, NotreDame_De_Paris.txt 1
 inundations	Miserables.txt 2
 inured	Miserables.txt 3
 invade	Miserables.txt 1
-invaded	NotreDame_De_Paris.txt 3, Miserables.txt 6
+invaded	Miserables.txt 6, NotreDame_De_Paris.txt 3
 invades	Miserables.txt 1
 invading	Miserables.txt 1
-invalid	NotreDame_De_Paris.txt 3, Miserables.txt 9
+invalid	Miserables.txt 9, NotreDame_De_Paris.txt 3
 invalidate	Miserables.txt 1
 invalidating	Miserables.txt 2
-invalides	NotreDame_De_Paris.txt 2, Miserables.txt 20
+invalides	Miserables.txt 20, NotreDame_De_Paris.txt 2
 invalidity	NotreDame_De_Paris.txt 1, Miserables.txt 1
-invalids	NotreDame_De_Paris.txt 1, Miserables.txt 2
+invalids	Miserables.txt 2, NotreDame_De_Paris.txt 1
 invariable	Miserables.txt 3
-invariably	NotreDame_De_Paris.txt 1, Miserables.txt 7
+invariably	Miserables.txt 7, NotreDame_De_Paris.txt 1
 invasion	Miserables.txt 4
 invasions	Miserables.txt 1
 inveigled	Miserables.txt 1
 invenerunt	Miserables.txt 1
 invent	Miserables.txt 5
-invented	NotreDame_De_Paris.txt 2, Miserables.txt 22
-invention	NotreDame_De_Paris.txt 2, Miserables.txt 5
+invented	Miserables.txt 22, NotreDame_De_Paris.txt 2
+invention	Miserables.txt 5, NotreDame_De_Paris.txt 2
 inventions	NotreDame_De_Paris.txt 1, Miserables.txt 1
 inventive	Miserables.txt 1
 inventor	Miserables.txt 4
@@ -978,24 +978,24 @@ invincible	Miserables.txt 6
 inviolability	Miserables.txt 1
 inviolable	NotreDame_De_Paris.txt 1
 invisibility	NotreDame_De_Paris.txt 1, Miserables.txt 1
-invisible	NotreDame_De_Paris.txt 8, Miserables.txt 33
+invisible	Miserables.txt 33, NotreDame_De_Paris.txt 8
 invitation	NotreDame_De_Paris.txt 1, Miserables.txt 1
 invitations	Miserables.txt 3
 invite	Miserables.txt 2
-invited	NotreDame_De_Paris.txt 1, Miserables.txt 8
+invited	Miserables.txt 8, NotreDame_De_Paris.txt 1
 inviting	Miserables.txt 2
 invoked	NotreDame_De_Paris.txt 2, Miserables.txt 1
-involuntarily	NotreDame_De_Paris.txt 1, Miserables.txt 3
-involuntary	NotreDame_De_Paris.txt 3, Miserables.txt 5
+involuntarily	Miserables.txt 3, NotreDame_De_Paris.txt 1
+involuntary	Miserables.txt 5, NotreDame_De_Paris.txt 3
 involutum	Miserables.txt 1
 involve	Miserables.txt 3
-involved	NotreDame_De_Paris.txt 1, Miserables.txt 2
+involved	Miserables.txt 2, NotreDame_De_Paris.txt 1
 involves	NotreDame_De_Paris.txt 1
 invulnerability	Miserables.txt 1
 invulnerable	Miserables.txt 4
-inward	NotreDame_De_Paris.txt 3, Miserables.txt 29
+inward	Miserables.txt 29, NotreDame_De_Paris.txt 3
 inwardly	Miserables.txt 6
-inwards	NotreDame_De_Paris.txt 1, Miserables.txt 2
+inwards	Miserables.txt 2, NotreDame_De_Paris.txt 1
 io	Miserables.txt 1
 iodine	Miserables.txt 1
 ionian	Miserables.txt 2
@@ -1005,25 +1005,25 @@ ipso	NotreDame_De_Paris.txt 2
 ipsum	NotreDame_De_Paris.txt 1
 ira	Miserables.txt 5
 irascible	Miserables.txt 2
-ireland	NotreDame_De_Paris.txt 1, Miserables.txt 3
+ireland	Miserables.txt 3, NotreDame_De_Paris.txt 1
 irish	NotreDame_De_Paris.txt 1
 irksome	NotreDame_De_Paris.txt 1
 irma	Miserables.txt 1
-iron	NotreDame_De_Paris.txt 71, Miserables.txt 163
+iron	Miserables.txt 163, NotreDame_De_Paris.txt 71
 ironed	Miserables.txt 1
 ironical	NotreDame_De_Paris.txt 6, Miserables.txt 3
 ironically	Miserables.txt 1
 ironies	Miserables.txt 1
 ironmonger	Miserables.txt 3
 ironmongery	NotreDame_De_Paris.txt 1, Miserables.txt 1
-irons	NotreDame_De_Paris.txt 5, Miserables.txt 8
+irons	Miserables.txt 8, NotreDame_De_Paris.txt 5
 ironwork	NotreDame_De_Paris.txt 1, Miserables.txt 1
-irony	NotreDame_De_Paris.txt 1, Miserables.txt 13
+irony	Miserables.txt 13, NotreDame_De_Paris.txt 1
 irradiates	Miserables.txt 1
 irradiations	Miserables.txt 2
 irrecoverable	Miserables.txt 1
 irrefragable	Miserables.txt 2
-irregular	NotreDame_De_Paris.txt 4, Miserables.txt 11
+irregular	Miserables.txt 11, NotreDame_De_Paris.txt 4
 irregularibus	NotreDame_De_Paris.txt 1
 irregularis	NotreDame_De_Paris.txt 1
 irregularly	Miserables.txt 2
@@ -1032,8 +1032,8 @@ irremediable	Miserables.txt 4
 irremediably	Miserables.txt 1
 irreparable	Miserables.txt 2
 irreproachable	Miserables.txt 8
-irresistible	NotreDame_De_Paris.txt 6, Miserables.txt 13
-irresistibly	NotreDame_De_Paris.txt 1, Miserables.txt 7
+irresistible	Miserables.txt 13, NotreDame_De_Paris.txt 6
+irresistibly	Miserables.txt 7, NotreDame_De_Paris.txt 1
 irresolute	Miserables.txt 1
 irresponsibility	Miserables.txt 1
 irresponsible	Miserables.txt 3
@@ -1041,14 +1041,14 @@ irretrievably	NotreDame_De_Paris.txt 1
 irreverence	Miserables.txt 1
 irreverent	NotreDame_De_Paris.txt 1
 irrevocable	Miserables.txt 3
-irritated	NotreDame_De_Paris.txt 9, Miserables.txt 23
+irritated	Miserables.txt 23, NotreDame_De_Paris.txt 9
 irritates	Miserables.txt 2
 irritating	Miserables.txt 4
 irritation	NotreDame_De_Paris.txt 2, Miserables.txt 2
 irruption	Miserables.txt 5
 irruptions	Miserables.txt 1
 irs	NotreDame_De_Paris.txt 1, Miserables.txt 1
-is	NotreDame_De_Paris.txt 1459, Miserables.txt 6194
+is	Miserables.txt 6194, NotreDame_De_Paris.txt 1459
 isaac	Miserables.txt 2
 isabeau	NotreDame_De_Paris.txt 5, Miserables.txt 3
 isabel	NotreDame_De_Paris.txt 2, Miserables.txt 2
@@ -1058,41 +1058,41 @@ isere	Miserables.txt 1
 isis	Miserables.txt 2
 island	NotreDame_De_Paris.txt 19, Miserables.txt 7
 islands	NotreDame_De_Paris.txt 5, Miserables.txt 1
-isle	NotreDame_De_Paris.txt 3, Miserables.txt 6
+isle	Miserables.txt 6, NotreDame_De_Paris.txt 3
 isles	Miserables.txt 3
 islet	NotreDame_De_Paris.txt 3
 isliers	NotreDame_De_Paris.txt 1
-isn	NotreDame_De_Paris.txt 4, Miserables.txt 13
-isolated	NotreDame_De_Paris.txt 11, Miserables.txt 22
+isn	Miserables.txt 13, NotreDame_De_Paris.txt 4
+isolated	Miserables.txt 22, NotreDame_De_Paris.txt 11
 isolating	Miserables.txt 1
-isolation	NotreDame_De_Paris.txt 3, Miserables.txt 12
+isolation	Miserables.txt 12, NotreDame_De_Paris.txt 3
 israel	NotreDame_De_Paris.txt 1, Miserables.txt 1
 issoire	Miserables.txt 1
-issue	NotreDame_De_Paris.txt 7, Miserables.txt 14
-issued	NotreDame_De_Paris.txt 3, Miserables.txt 11
+issue	Miserables.txt 14, NotreDame_De_Paris.txt 7
+issued	Miserables.txt 11, NotreDame_De_Paris.txt 3
 issues	NotreDame_De_Paris.txt 2, Miserables.txt 1
 issuing	NotreDame_De_Paris.txt 1, Miserables.txt 1
-issy	NotreDame_De_Paris.txt 3, Miserables.txt 4
+issy	Miserables.txt 4, NotreDame_De_Paris.txt 3
 ist	Miserables.txt 1
 ista	NotreDame_De_Paris.txt 1
-it	NotreDame_De_Paris.txt 1916, Miserables.txt 6661
-italian	NotreDame_De_Paris.txt 4, Miserables.txt 13
-italians	NotreDame_De_Paris.txt 1, Miserables.txt 3
+it	Miserables.txt 6661, NotreDame_De_Paris.txt 1916
+italian	Miserables.txt 13, NotreDame_De_Paris.txt 4
+italians	Miserables.txt 3, NotreDame_De_Paris.txt 1
 italie	Miserables.txt 1
 italiens	Miserables.txt 1
-italy	NotreDame_De_Paris.txt 1, Miserables.txt 30
+italy	Miserables.txt 30, NotreDame_De_Paris.txt 1
 itch	Miserables.txt 1
 item	Miserables.txt 2
 items	Miserables.txt 2
 itinerant	NotreDame_De_Paris.txt 1, Miserables.txt 1
 itinerary	Miserables.txt 6
-its	NotreDame_De_Paris.txt 478, Miserables.txt 893
-itself	NotreDame_De_Paris.txt 80, Miserables.txt 224
+its	Miserables.txt 893, NotreDame_De_Paris.txt 478
+itself	Miserables.txt 224, NotreDame_De_Paris.txt 80
 iturbide	Miserables.txt 1
 iusula	NotreDame_De_Paris.txt 1
-iv	NotreDame_De_Paris.txt 24, Miserables.txt 95
+iv	Miserables.txt 95, NotreDame_De_Paris.txt 24
 ivans	Miserables.txt 1
-ivory	NotreDame_De_Paris.txt 1, Miserables.txt 4
-ivry	NotreDame_De_Paris.txt 1, Miserables.txt 3
-ivy	NotreDame_De_Paris.txt 1, Miserables.txt 2
-ix	NotreDame_De_Paris.txt 2, Miserables.txt 33
+ivory	Miserables.txt 4, NotreDame_De_Paris.txt 1
+ivry	Miserables.txt 3, NotreDame_De_Paris.txt 1
+ivy	Miserables.txt 2, NotreDame_De_Paris.txt 1
+ix	Miserables.txt 33, NotreDame_De_Paris.txt 2

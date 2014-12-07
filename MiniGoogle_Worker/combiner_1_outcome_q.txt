@@ -22,18 +22,18 @@ quaking	Miserables.txt 1
 qualem	NotreDame_De_Paris.txt 1
 qualifications	Miserables.txt 1
 qualified	Miserables.txt 2
-qualities	NotreDame_De_Paris.txt 1, Miserables.txt 11
-quality	NotreDame_De_Paris.txt 6, Miserables.txt 19
+qualities	Miserables.txt 11, NotreDame_De_Paris.txt 1
+quality	Miserables.txt 19, NotreDame_De_Paris.txt 6
 quam	NotreDame_De_Paris.txt 1
-quand	NotreDame_De_Paris.txt 3, Miserables.txt 10
+quand	Miserables.txt 10, NotreDame_De_Paris.txt 3
 quandary	NotreDame_De_Paris.txt 1
 quando	NotreDame_De_Paris.txt 2
 quandry	Miserables.txt 2
 quantities	Miserables.txt 3
-quantity	NotreDame_De_Paris.txt 5, Miserables.txt 17
+quantity	Miserables.txt 17, NotreDame_De_Paris.txt 5
 quarante	Miserables.txt 1
 quarantine	Miserables.txt 2
-quarrel	NotreDame_De_Paris.txt 5, Miserables.txt 11
+quarrel	Miserables.txt 11, NotreDame_De_Paris.txt 5
 quarrelled	Miserables.txt 2
 quarrelling	Miserables.txt 2
 quarrels	NotreDame_De_Paris.txt 4, Miserables.txt 3
@@ -41,29 +41,29 @@ quarries	Miserables.txt 3
 quarry	Miserables.txt 1
 quarrying	Miserables.txt 1
 quarte	Miserables.txt 1
-quarter	NotreDame_De_Paris.txt 21, Miserables.txt 125
+quarter	Miserables.txt 125, NotreDame_De_Paris.txt 21
 quarterly	Miserables.txt 2
-quarters	NotreDame_De_Paris.txt 12, Miserables.txt 47
-quartette	NotreDame_De_Paris.txt 1, Miserables.txt 3
+quarters	Miserables.txt 47, NotreDame_De_Paris.txt 12
+quartette	Miserables.txt 3, NotreDame_De_Paris.txt 1
 quartettes	Miserables.txt 2
 quartier	Miserables.txt 10
 quarto	Miserables.txt 2
 quarts	NotreDame_De_Paris.txt 1
-quasi	NotreDame_De_Paris.txt 2, Miserables.txt 6
+quasi	Miserables.txt 6, NotreDame_De_Paris.txt 2
 quasimodo	NotreDame_De_Paris.txt 248
-quatrain	NotreDame_De_Paris.txt 1, Miserables.txt 2
+quatrain	Miserables.txt 2, NotreDame_De_Paris.txt 1
 quatrains	Miserables.txt 2
-quatre	NotreDame_De_Paris.txt 3, Miserables.txt 5
+quatre	Miserables.txt 5, NotreDame_De_Paris.txt 3
 quatrelivres	NotreDame_De_Paris.txt 2
 quatuor	NotreDame_De_Paris.txt 1
 quaver	NotreDame_De_Paris.txt 1
 quavering	NotreDame_De_Paris.txt 1, Miserables.txt 1
-quay	NotreDame_De_Paris.txt 19, Miserables.txt 30
-quays	NotreDame_De_Paris.txt 1, Miserables.txt 8
-que	NotreDame_De_Paris.txt 9, Miserables.txt 24
+quay	Miserables.txt 30, NotreDame_De_Paris.txt 19
+quays	Miserables.txt 8, NotreDame_De_Paris.txt 1
+que	Miserables.txt 24, NotreDame_De_Paris.txt 9
 queen	NotreDame_De_Paris.txt 11, Miserables.txt 8
 queens	Miserables.txt 1
-queer	NotreDame_De_Paris.txt 3, Miserables.txt 23
+queer	Miserables.txt 23, NotreDame_De_Paris.txt 3
 quelen	Miserables.txt 1
 quelqu	Miserables.txt 1
 quels	Miserables.txt 1
@@ -74,35 +74,35 @@ quenouille	NotreDame_De_Paris.txt 1
 quentin	NotreDame_De_Paris.txt 1
 querette	NotreDame_De_Paris.txt 1
 query	Miserables.txt 2
-quest	NotreDame_De_Paris.txt 1, Miserables.txt 5
+quest	Miserables.txt 5, NotreDame_De_Paris.txt 1
 queste	NotreDame_De_Paris.txt 1
-question	NotreDame_De_Paris.txt 42, Miserables.txt 139
+question	Miserables.txt 139, NotreDame_De_Paris.txt 42
 questionable	Miserables.txt 2
-questioned	NotreDame_De_Paris.txt 3, Miserables.txt 13
+questioned	Miserables.txt 13, NotreDame_De_Paris.txt 3
 questioning	Miserables.txt 8
-questions	NotreDame_De_Paris.txt 5, Miserables.txt 57
+questions	Miserables.txt 57, NotreDame_De_Paris.txt 5
 queue	NotreDame_De_Paris.txt 6, Miserables.txt 3
 queues	NotreDame_De_Paris.txt 1
 queyras	Miserables.txt 3
 qui	NotreDame_De_Paris.txt 12, Miserables.txt 10
-quia	NotreDame_De_Paris.txt 1, Miserables.txt 2
+quia	Miserables.txt 2, NotreDame_De_Paris.txt 1
 quibble	Miserables.txt 1
 quibblers	NotreDame_De_Paris.txt 1
 quibbles	NotreDame_De_Paris.txt 1, Miserables.txt 1
 quibbling	Miserables.txt 1
 quibus	Miserables.txt 2
 quibusdam	NotreDame_De_Paris.txt 1
-quick	NotreDame_De_Paris.txt 14, Miserables.txt 19
+quick	Miserables.txt 19, NotreDame_De_Paris.txt 14
 quicker	NotreDame_De_Paris.txt 3
-quickly	NotreDame_De_Paris.txt 18, Miserables.txt 35
+quickly	Miserables.txt 35, NotreDame_De_Paris.txt 18
 quickness	NotreDame_De_Paris.txt 1
-quicksand	NotreDame_De_Paris.txt 1, Miserables.txt 2
+quicksand	Miserables.txt 2, NotreDame_De_Paris.txt 1
 quicksands	Miserables.txt 2
 quiconque	Miserables.txt 1
 quid	Miserables.txt 7
-quiet	NotreDame_De_Paris.txt 3, Miserables.txt 10
+quiet	Miserables.txt 10, NotreDame_De_Paris.txt 3
 quieted	NotreDame_De_Paris.txt 2
-quietly	NotreDame_De_Paris.txt 2, Miserables.txt 5
+quietly	Miserables.txt 5, NotreDame_De_Paris.txt 2
 quill	Miserables.txt 1
 quilles	Miserables.txt 1
 quills	Miserables.txt 4
@@ -126,18 +126,18 @@ quirites	Miserables.txt 1
 quirking	Miserables.txt 1
 quiroga	Miserables.txt 1
 quis	Miserables.txt 2
-quit	NotreDame_De_Paris.txt 6, Miserables.txt 12
+quit	Miserables.txt 12, NotreDame_De_Paris.txt 6
 quita	NotreDame_De_Paris.txt 1
-quite	NotreDame_De_Paris.txt 39, Miserables.txt 103
-quits	NotreDame_De_Paris.txt 1, Miserables.txt 3
+quite	Miserables.txt 103, NotreDame_De_Paris.txt 39
+quits	Miserables.txt 3, NotreDame_De_Paris.txt 1
 quittance	Miserables.txt 1
-quitted	NotreDame_De_Paris.txt 16, Miserables.txt 61
+quitted	Miserables.txt 61, NotreDame_De_Paris.txt 16
 quitter	Miserables.txt 1
 quittez	Miserables.txt 1
-quitting	NotreDame_De_Paris.txt 1, Miserables.txt 11
-quiver	NotreDame_De_Paris.txt 8, Miserables.txt 20
-quivered	NotreDame_De_Paris.txt 7, Miserables.txt 9
-quivering	NotreDame_De_Paris.txt 7, Miserables.txt 16
+quitting	Miserables.txt 11, NotreDame_De_Paris.txt 1
+quiver	Miserables.txt 20, NotreDame_De_Paris.txt 8
+quivered	Miserables.txt 9, NotreDame_De_Paris.txt 7
+quivering	Miserables.txt 16, NotreDame_De_Paris.txt 7
 quivers	Miserables.txt 7
 quixote	Miserables.txt 1
 quo	Miserables.txt 2
@@ -149,7 +149,7 @@ quoniam	NotreDame_De_Paris.txt 1
 quot	Miserables.txt 2
 quotation	NotreDame_De_Paris.txt 1
 quotations	NotreDame_De_Paris.txt 1
-quote	NotreDame_De_Paris.txt 1, Miserables.txt 4
+quote	Miserables.txt 4, NotreDame_De_Paris.txt 1
 quoted	Miserables.txt 4
 quoth	NotreDame_De_Paris.txt 1
 quotidienne	Miserables.txt 3

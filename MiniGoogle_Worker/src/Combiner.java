@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -52,8 +53,7 @@ public class Combiner extends Thread{
         char preInitLetter = curInitLetter;                 //previous word's initial letter
         //output filename
         String location = outputFilePrefix + curInitLetter + ".txt";         //output file location, varies according to initial letter
-        List<String> locationList = new ArrayList<String>();
-        locationList.add(location);
+        outputFilenames.add(location);
         
         //value
         String [] split = curNode.getValue().split(" ");
@@ -102,17 +102,29 @@ public class Combiner extends Thread{
                     }
                     
                     //get a new word
-                    else {                              
+                    else { 
+                    	//sort by frequency
+                        List<DocuNode> DocuList = new ArrayList<DocuNode>();
+                        Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
+                        while(iter.hasNext()){
+                        	Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
+                        	DocuNode d = new DocuNode(entry.getKey(), entry.getValue());
+                        	DocuList.add(d);
+                        }
+                        Collections.sort(DocuList);
+                    	
                         /*write the previous word and its information into file*/
                         StringBuilder wordInfo = new StringBuilder();
-                        Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
-                        if(iter.hasNext()){
-                            Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                            wordInfo.append(entry.getKey() + " " + entry.getValue());
+                        
+                        Iterator<DocuNode> iter2 = DocuList.iterator();
+                        if(iter2.hasNext()){
+                        	DocuNode d = iter2.next();
+                            wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                         }
-                        while(iter.hasNext()){
-                            Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                            wordInfo.append(", " + entry.getKey() + " " + entry.getValue());
+                        while(iter2.hasNext()){
+                        	DocuNode d = iter2.next();
+                        	wordInfo.append(", ");
+                            wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                         }
   
                         //write
@@ -132,7 +144,7 @@ public class Combiner extends Thread{
                         //the new word has different initial letter as previous word
                         if (curInitLetter != preInitLetter){
                             location = outputFilePrefix + curInitLetter + ".txt";//new output file name
-                            locationList.add(location);
+                            outputFilenames.add(location);
                             preInitLetter = curInitLetter;
                             writer.close();
                             ++i;
@@ -145,16 +157,27 @@ public class Combiner extends Thread{
                 if (i == nodeList.size()){//end of data: the last node in list
                     finishFlag = true;
                     
+                    //sort by frequency
+                    List<DocuNode> DocuList = new ArrayList<DocuNode>();
+                    Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
+                    while(iter.hasNext()){
+                    	Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
+                    	DocuNode d = new DocuNode(entry.getKey(), entry.getValue());
+                    	DocuList.add(d);
+                    }
+                    Collections.sort(DocuList);
+                    
                     //write the last word's information in output file
                     StringBuilder wordInfo = new StringBuilder();
-                    Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
-                    if(iter.hasNext()){
-                        Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                        wordInfo.append(entry.getKey() + " " + entry.getValue());
+                    Iterator<DocuNode> iter2 = DocuList.iterator();
+                    if(iter2.hasNext()){
+                    	DocuNode d = iter2.next();
+                        wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                     }
-                    while(iter.hasNext()){
-                        Map.Entry<String, String> entry = (Map.Entry<String, String>) iter.next();
-                        wordInfo.append(", " + entry.getKey() + " " + entry.getValue());
+                    while(iter2.hasNext()){
+                    	DocuNode d = iter2.next();
+                    	wordInfo.append(", ");
+                        wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                     }
 
                     //write
@@ -177,7 +200,7 @@ public class Combiner extends Thread{
             
         }//end while
           
-        return locationList;
+        return outputFilenames;
         
     }//end combine()
     

@@ -1,6 +1,6 @@
 g	Miserables.txt 13
 gabbling	Miserables.txt 1
-gable	NotreDame_De_Paris.txt 2, Miserables.txt 8
+gable	Miserables.txt 8, NotreDame_De_Paris.txt 2
 gables	NotreDame_De_Paris.txt 11
 gabon	Miserables.txt 1
 gabriel	Miserables.txt 1
@@ -17,10 +17,10 @@ gaillefontaine	NotreDame_De_Paris.txt 7
 gaillon	Miserables.txt 2
 gails	Miserables.txt 1
 gaiment	Miserables.txt 1
-gain	NotreDame_De_Paris.txt 2, Miserables.txt 14
-gained	NotreDame_De_Paris.txt 5, Miserables.txt 14
+gain	Miserables.txt 14, NotreDame_De_Paris.txt 2
+gained	Miserables.txt 14, NotreDame_De_Paris.txt 5
 gaining	Miserables.txt 6
-gains	NotreDame_De_Paris.txt 1, Miserables.txt 4
+gains	Miserables.txt 4, NotreDame_De_Paris.txt 1
 gait	Miserables.txt 4
 gaite	Miserables.txt 1
 gaiters	Miserables.txt 3
@@ -41,18 +41,18 @@ galland	Miserables.txt 1
 gallant	NotreDame_De_Paris.txt 12, Miserables.txt 8
 gallantly	NotreDame_De_Paris.txt 1
 gallantries	NotreDame_De_Paris.txt 1
-gallantry	NotreDame_De_Paris.txt 3, Miserables.txt 4
+gallantry	Miserables.txt 4, NotreDame_De_Paris.txt 3
 gallega	Miserables.txt 1
-galleries	NotreDame_De_Paris.txt 8, Miserables.txt 10
+galleries	Miserables.txt 10, NotreDame_De_Paris.txt 8
 gallery	NotreDame_De_Paris.txt 37, Miserables.txt 19
 galley	Miserables.txt 26
-galleys	NotreDame_De_Paris.txt 1, Miserables.txt 114
-gallic	NotreDame_De_Paris.txt 3, Miserables.txt 5
+galleys	Miserables.txt 114, NotreDame_De_Paris.txt 1
+gallic	Miserables.txt 5, NotreDame_De_Paris.txt 3
 gallican	Miserables.txt 1
 gallicane	NotreDame_De_Paris.txt 1
 gallicized	Miserables.txt 1
 galloons	Miserables.txt 2
-gallop	NotreDame_De_Paris.txt 5, Miserables.txt 16
+gallop	Miserables.txt 16, NotreDame_De_Paris.txt 5
 galloped	Miserables.txt 3
 galloping	NotreDame_De_Paris.txt 2, Miserables.txt 2
 gallops	Miserables.txt 2
@@ -62,37 +62,37 @@ galvanized	NotreDame_De_Paris.txt 1
 gamacho	Miserables.txt 1
 gamble	Miserables.txt 1
 gambled	Miserables.txt 2
-gambler	NotreDame_De_Paris.txt 2, Miserables.txt 4
+gambler	Miserables.txt 4, NotreDame_De_Paris.txt 2
 gamblers	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gambling	NotreDame_De_Paris.txt 1
 gambolling	NotreDame_De_Paris.txt 1
 gambols	NotreDame_De_Paris.txt 1
-game	NotreDame_De_Paris.txt 8, Miserables.txt 20
-games	NotreDame_De_Paris.txt 1, Miserables.txt 5
+game	Miserables.txt 20, NotreDame_De_Paris.txt 8
+games	Miserables.txt 5, NotreDame_De_Paris.txt 1
 gamester	NotreDame_De_Paris.txt 1
 gamin	Miserables.txt 64
 gaminerie	Miserables.txt 1
 gaming	NotreDame_De_Paris.txt 5, Miserables.txt 2
-gamins	NotreDame_De_Paris.txt 1, Miserables.txt 5
+gamins	Miserables.txt 5, NotreDame_De_Paris.txt 1
 gamut	NotreDame_De_Paris.txt 1
 gand	Miserables.txt 1
-gang	NotreDame_De_Paris.txt 1, Miserables.txt 9
+gang	Miserables.txt 9, NotreDame_De_Paris.txt 1
 gangrene	Miserables.txt 1
 gans	Miserables.txt 3
 gant	NotreDame_De_Paris.txt 1
-gap	NotreDame_De_Paris.txt 3, Miserables.txt 5
+gap	Miserables.txt 5, NotreDame_De_Paris.txt 3
 gaped	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gapers	NotreDame_De_Paris.txt 1
-gaping	NotreDame_De_Paris.txt 4, Miserables.txt 6
-gaps	NotreDame_De_Paris.txt 1, Miserables.txt 3
+gaping	Miserables.txt 6, NotreDame_De_Paris.txt 4
+gaps	Miserables.txt 3, NotreDame_De_Paris.txt 1
 garat	Miserables.txt 1
 garb	NotreDame_De_Paris.txt 3, Miserables.txt 1
 garde	NotreDame_De_Paris.txt 1
-garden	NotreDame_De_Paris.txt 10, Miserables.txt 238
-gardener	NotreDame_De_Paris.txt 3, Miserables.txt 34
+garden	Miserables.txt 238, NotreDame_De_Paris.txt 10
+gardener	Miserables.txt 34, NotreDame_De_Paris.txt 3
 gardeners	Miserables.txt 7
 gardening	Miserables.txt 4
-gardens	NotreDame_De_Paris.txt 9, Miserables.txt 26
+gardens	Miserables.txt 26, NotreDame_De_Paris.txt 9
 gare	Miserables.txt 1
 gargantua	NotreDame_De_Paris.txt 1
 gargle	NotreDame_De_Paris.txt 1
@@ -104,8 +104,8 @@ garlanded	Miserables.txt 3
 garlands	NotreDame_De_Paris.txt 2, Miserables.txt 2
 garlic	Miserables.txt 1
 garlin	NotreDame_De_Paris.txt 1
-garment	NotreDame_De_Paris.txt 7, Miserables.txt 10
-garments	NotreDame_De_Paris.txt 15, Miserables.txt 24
+garment	Miserables.txt 10, NotreDame_De_Paris.txt 7
+garments	Miserables.txt 24, NotreDame_De_Paris.txt 15
 garmoise	NotreDame_De_Paris.txt 1
 garnier	Miserables.txt 1
 garnish	Miserables.txt 1
@@ -113,15 +113,15 @@ garnished	NotreDame_De_Paris.txt 4, Miserables.txt 4
 garniture	Miserables.txt 1
 garofolo	NotreDame_De_Paris.txt 1
 garraud	Miserables.txt 1
-garret	NotreDame_De_Paris.txt 2, Miserables.txt 35
+garret	Miserables.txt 35, NotreDame_De_Paris.txt 2
 garrets	Miserables.txt 2
-garrison	NotreDame_De_Paris.txt 4, Miserables.txt 10
+garrison	Miserables.txt 10, NotreDame_De_Paris.txt 4
 garrisons	NotreDame_De_Paris.txt 1
 garroted	NotreDame_De_Paris.txt 1
 garroter	Miserables.txt 1
 garrulous	NotreDame_De_Paris.txt 2
 garter	Miserables.txt 9
-gas	NotreDame_De_Paris.txt 1, Miserables.txt 7
+gas	Miserables.txt 7, NotreDame_De_Paris.txt 1
 gascon	Miserables.txt 1
 gashes	Miserables.txt 1
 gaspard	Miserables.txt 2
@@ -130,11 +130,11 @@ gaster	Miserables.txt 2
 gastronomical	Miserables.txt 1
 gat	Miserables.txt 1
 gatch	Miserables.txt 1
-gate	NotreDame_De_Paris.txt 20, Miserables.txt 72
-gates	NotreDame_De_Paris.txt 11, Miserables.txt 19
+gate	Miserables.txt 72, NotreDame_De_Paris.txt 20
+gates	Miserables.txt 19, NotreDame_De_Paris.txt 11
 gateway	NotreDame_De_Paris.txt 1
 gather	Miserables.txt 5
-gathered	NotreDame_De_Paris.txt 4, Miserables.txt 14
+gathered	Miserables.txt 14, NotreDame_De_Paris.txt 4
 gathering	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gathers	Miserables.txt 2
 gato	Miserables.txt 1
@@ -148,32 +148,32 @@ gauntness	Miserables.txt 2
 gauthier	Miserables.txt 1
 gauvain	Miserables.txt 1
 gauze	NotreDame_De_Paris.txt 4, Miserables.txt 1
-gave	NotreDame_De_Paris.txt 50, Miserables.txt 136
+gave	Miserables.txt 136, NotreDame_De_Paris.txt 50
 gavest	Miserables.txt 1
 gavotte	Miserables.txt 1
 gavroche	Miserables.txt 321
-gay	NotreDame_De_Paris.txt 9, Miserables.txt 39
+gay	Miserables.txt 39, NotreDame_De_Paris.txt 9
 gaye	Miserables.txt 1
 gayer	NotreDame_De_Paris.txt 1
 gayest	Miserables.txt 1
-gayeties	NotreDame_De_Paris.txt 1, Miserables.txt 5
-gayety	NotreDame_De_Paris.txt 7, Miserables.txt 31
-gayly	NotreDame_De_Paris.txt 7, Miserables.txt 12
-gaze	NotreDame_De_Paris.txt 26, Miserables.txt 87
-gazed	NotreDame_De_Paris.txt 42, Miserables.txt 120
+gayeties	Miserables.txt 5, NotreDame_De_Paris.txt 1
+gayety	Miserables.txt 31, NotreDame_De_Paris.txt 7
+gayly	Miserables.txt 12, NotreDame_De_Paris.txt 7
+gaze	Miserables.txt 87, NotreDame_De_Paris.txt 26
+gazed	Miserables.txt 120, NotreDame_De_Paris.txt 42
 gazelle	NotreDame_De_Paris.txt 1
 gazers	NotreDame_De_Paris.txt 1
-gazes	NotreDame_De_Paris.txt 3, Miserables.txt 12
+gazes	Miserables.txt 12, NotreDame_De_Paris.txt 3
 gazette	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gazettes	Miserables.txt 1
-gazing	NotreDame_De_Paris.txt 29, Miserables.txt 52
+gazing	Miserables.txt 52, NotreDame_De_Paris.txt 29
 gbnewby	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gear	Miserables.txt 1
 gearing	Miserables.txt 6
 geborand	Miserables.txt 3
 ged	Miserables.txt 1
 gedeon	Miserables.txt 1
-geese	NotreDame_De_Paris.txt 1, Miserables.txt 2
+geese	Miserables.txt 2, NotreDame_De_Paris.txt 1
 gehenna	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gele	NotreDame_De_Paris.txt 1
 gelenhausen	Miserables.txt 1
@@ -182,27 +182,27 @@ gemoniae	Miserables.txt 2
 genaille	NotreDame_De_Paris.txt 1
 genappe	Miserables.txt 19
 gencienne	NotreDame_De_Paris.txt 2
-gendarme	NotreDame_De_Paris.txt 10, Miserables.txt 18
+gendarme	Miserables.txt 18, NotreDame_De_Paris.txt 10
 gendarmeri	NotreDame_De_Paris.txt 1
 gendarmerie	Miserables.txt 2
-gendarmes	NotreDame_De_Paris.txt 2, Miserables.txt 26
-general	NotreDame_De_Paris.txt 31, Miserables.txt 107
+gendarmes	Miserables.txt 26, NotreDame_De_Paris.txt 2
+general	Miserables.txt 107, NotreDame_De_Paris.txt 31
 generale	Miserables.txt 1
 generalissimo	Miserables.txt 3
 generalizing	NotreDame_De_Paris.txt 1
-generally	NotreDame_De_Paris.txt 8, Miserables.txt 24
-generals	NotreDame_De_Paris.txt 1, Miserables.txt 15
+generally	Miserables.txt 24, NotreDame_De_Paris.txt 8
+generals	Miserables.txt 15, NotreDame_De_Paris.txt 1
 generalship	Miserables.txt 1
 generating	NotreDame_De_Paris.txt 2
-generation	NotreDame_De_Paris.txt 2, Miserables.txt 3
-generations	NotreDame_De_Paris.txt 4, Miserables.txt 6
+generation	Miserables.txt 3, NotreDame_De_Paris.txt 2
+generations	Miserables.txt 6, NotreDame_De_Paris.txt 4
 generic	Miserables.txt 1
 generis	NotreDame_De_Paris.txt 1
 generosities	Miserables.txt 1
 generosity	Miserables.txt 6
-generous	NotreDame_De_Paris.txt 2, Miserables.txt 25
+generous	Miserables.txt 25, NotreDame_De_Paris.txt 2
 geneses	Miserables.txt 1
-genesis	NotreDame_De_Paris.txt 1, Miserables.txt 3
+genesis	Miserables.txt 3, NotreDame_De_Paris.txt 1
 genest	NotreDame_De_Paris.txt 1
 genevi	NotreDame_De_Paris.txt 17
 genevieve	Miserables.txt 9
@@ -211,7 +211,7 @@ genga	Miserables.txt 1
 genial	Miserables.txt 1
 genii	Miserables.txt 1
 genio	NotreDame_De_Paris.txt 1
-genius	NotreDame_De_Paris.txt 16, Miserables.txt 32
+genius	Miserables.txt 32, NotreDame_De_Paris.txt 16
 geniuses	Miserables.txt 10
 genlis	Miserables.txt 5
 gennevilliers	Miserables.txt 1
@@ -222,18 +222,18 @@ genrot	Miserables.txt 9
 genteel	Miserables.txt 1
 gentilles	Miserables.txt 1
 gentilly	NotreDame_De_Paris.txt 2, Miserables.txt 2
-gentle	NotreDame_De_Paris.txt 15, Miserables.txt 69
-gentleman	NotreDame_De_Paris.txt 13, Miserables.txt 73
-gentlemen	NotreDame_De_Paris.txt 25, Miserables.txt 33
-gentleness	NotreDame_De_Paris.txt 6, Miserables.txt 14
+gentle	Miserables.txt 69, NotreDame_De_Paris.txt 15
+gentleman	Miserables.txt 73, NotreDame_De_Paris.txt 13
+gentlemen	Miserables.txt 33, NotreDame_De_Paris.txt 25
+gentleness	Miserables.txt 14, NotreDame_De_Paris.txt 6
 gentler	NotreDame_De_Paris.txt 1
 gentlest	Miserables.txt 1
 gentlewomen	Miserables.txt 1
-gently	NotreDame_De_Paris.txt 20, Miserables.txt 53
+gently	Miserables.txt 53, NotreDame_De_Paris.txt 20
 gentry	NotreDame_De_Paris.txt 1
 genuflection	Miserables.txt 1
 genuflections	NotreDame_De_Paris.txt 1
-genuine	NotreDame_De_Paris.txt 1, Miserables.txt 14
+genuine	Miserables.txt 14, NotreDame_De_Paris.txt 1
 geoffrey	Miserables.txt 1
 geoffroy	Miserables.txt 1
 geographical	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -244,7 +244,7 @@ geology	Miserables.txt 1
 geometriam	NotreDame_De_Paris.txt 1
 geometrical	NotreDame_De_Paris.txt 9, Miserables.txt 8
 geometrician	Miserables.txt 1
-geometry	NotreDame_De_Paris.txt 3, Miserables.txt 4
+geometry	Miserables.txt 4, NotreDame_De_Paris.txt 3
 george	NotreDame_De_Paris.txt 2, Miserables.txt 1
 georges	Miserables.txt 8
 georgics	Miserables.txt 2
@@ -259,10 +259,10 @@ germain	NotreDame_De_Paris.txt 22, Miserables.txt 15
 germaine	NotreDame_De_Paris.txt 1
 germainen	NotreDame_De_Paris.txt 1
 germaini	NotreDame_De_Paris.txt 1
-german	NotreDame_De_Paris.txt 3, Miserables.txt 20
+german	Miserables.txt 20, NotreDame_De_Paris.txt 3
 germanic	Miserables.txt 2
-germans	NotreDame_De_Paris.txt 2, Miserables.txt 3
-germany	NotreDame_De_Paris.txt 1, Miserables.txt 16
+germans	Miserables.txt 3, NotreDame_De_Paris.txt 2
+germany	Miserables.txt 16, NotreDame_De_Paris.txt 1
 germinate	Miserables.txt 3
 germinating	Miserables.txt 1
 germination	Miserables.txt 2
@@ -270,7 +270,7 @@ germoniae	Miserables.txt 1
 germs	Miserables.txt 2
 geronte	Miserables.txt 2
 gertrude	Miserables.txt 1
-gervais	NotreDame_De_Paris.txt 5, Miserables.txt 29
+gervais	Miserables.txt 29, NotreDame_De_Paris.txt 5
 gervaise	NotreDame_De_Paris.txt 29
 ges	NotreDame_De_Paris.txt 1
 gesmas	Miserables.txt 5
@@ -278,11 +278,11 @@ gestas	Miserables.txt 2
 gestation	Miserables.txt 1
 gesticulated	Miserables.txt 2
 gesticulating	NotreDame_De_Paris.txt 1
-gesture	NotreDame_De_Paris.txt 21, Miserables.txt 38
+gesture	Miserables.txt 38, NotreDame_De_Paris.txt 21
 gestures	NotreDame_De_Paris.txt 14, Miserables.txt 8
-get	NotreDame_De_Paris.txt 34, Miserables.txt 223
+get	Miserables.txt 223, NotreDame_De_Paris.txt 34
 gets	Miserables.txt 12
-getting	NotreDame_De_Paris.txt 11, Miserables.txt 47
+getting	Miserables.txt 47, NotreDame_De_Paris.txt 11
 gewgaw	Miserables.txt 1
 gewgaws	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gex	Miserables.txt 1
@@ -292,12 +292,12 @@ ghent	NotreDame_De_Paris.txt 15, Miserables.txt 3
 ghetto	Miserables.txt 1
 ghi	Miserables.txt 3
 ghost	NotreDame_De_Paris.txt 2, Miserables.txt 2
-ghosts	NotreDame_De_Paris.txt 1, Miserables.txt 3
+ghosts	Miserables.txt 3, NotreDame_De_Paris.txt 1
 ghoul	Miserables.txt 2
 ghouls	Miserables.txt 1
 gi	NotreDame_De_Paris.txt 1
 gialluta	Miserables.txt 1
-giant	NotreDame_De_Paris.txt 10, Miserables.txt 13
+giant	Miserables.txt 13, NotreDame_De_Paris.txt 10
 giantess	Miserables.txt 3
 giants	Miserables.txt 9
 gib	Miserables.txt 1
@@ -314,17 +314,17 @@ giddy	NotreDame_De_Paris.txt 3, Miserables.txt 3
 gieffroy	NotreDame_De_Paris.txt 3
 gif	NotreDame_De_Paris.txt 1
 giffarde	NotreDame_De_Paris.txt 1
-gift	NotreDame_De_Paris.txt 4, Miserables.txt 6
+gift	Miserables.txt 6, NotreDame_De_Paris.txt 4
 gifted	Miserables.txt 1
-gifts	NotreDame_De_Paris.txt 1, Miserables.txt 3
-gigantic	NotreDame_De_Paris.txt 18, Miserables.txt 20
+gifts	Miserables.txt 3, NotreDame_De_Paris.txt 1
+gigantic	Miserables.txt 20, NotreDame_De_Paris.txt 18
 gigotmuche	Miserables.txt 1
 gil	Miserables.txt 1
 gilbert	NotreDame_De_Paris.txt 2, Miserables.txt 1
 gilbertus	NotreDame_De_Paris.txt 1
 gild	NotreDame_De_Paris.txt 1
 gilded	NotreDame_De_Paris.txt 19, Miserables.txt 19
-gilding	NotreDame_De_Paris.txt 1, Miserables.txt 5
+gilding	Miserables.txt 5, NotreDame_De_Paris.txt 1
 gillaume	NotreDame_De_Paris.txt 1
 gillenorman	Miserables.txt 1
 gillenormand	Miserables.txt 236
@@ -335,7 +335,7 @@ gilliflowers	Miserables.txt 1
 gills	Miserables.txt 2
 gillyflowers	Miserables.txt 1
 gilt	NotreDame_De_Paris.txt 8, Miserables.txt 7
-gimlet	NotreDame_De_Paris.txt 1, Miserables.txt 2
+gimlet	Miserables.txt 2, NotreDame_De_Paris.txt 1
 gimlets	NotreDame_De_Paris.txt 1
 gin	Miserables.txt 1
 gindre	Miserables.txt 1
@@ -346,9 +346,9 @@ girded	NotreDame_De_Paris.txt 1
 girdle	NotreDame_De_Paris.txt 11, Miserables.txt 6
 girdles	NotreDame_De_Paris.txt 1, Miserables.txt 1
 girin	Miserables.txt 1
-girl	NotreDame_De_Paris.txt 203, Miserables.txt 225
+girl	Miserables.txt 225, NotreDame_De_Paris.txt 203
 girlhood	Miserables.txt 1
-girls	NotreDame_De_Paris.txt 21, Miserables.txt 100
+girls	Miserables.txt 100, NotreDame_De_Paris.txt 21
 girondists	Miserables.txt 1
 gironin	NotreDame_De_Paris.txt 1
 girorou	NotreDame_De_Paris.txt 1
@@ -356,79 +356,79 @@ gisors	Miserables.txt 1
 gisquet	Miserables.txt 5
 gisquette	NotreDame_De_Paris.txt 20
 gist	NotreDame_De_Paris.txt 1
-give	NotreDame_De_Paris.txt 65, Miserables.txt 196
-given	NotreDame_De_Paris.txt 43, Miserables.txt 127
+give	Miserables.txt 196, NotreDame_De_Paris.txt 65
+given	Miserables.txt 127, NotreDame_De_Paris.txt 43
 giver	Miserables.txt 1
-gives	NotreDame_De_Paris.txt 7, Miserables.txt 36
+gives	Miserables.txt 36, NotreDame_De_Paris.txt 7
 giveth	NotreDame_De_Paris.txt 1
-giving	NotreDame_De_Paris.txt 17, Miserables.txt 45
+giving	Miserables.txt 45, NotreDame_De_Paris.txt 17
 glaber	NotreDame_De_Paris.txt 1
 glace	NotreDame_De_Paris.txt 1
 glaces	Miserables.txt 2
-glacial	NotreDame_De_Paris.txt 6, Miserables.txt 10
+glacial	Miserables.txt 10, NotreDame_De_Paris.txt 6
 glacier	Miserables.txt 2
 glaciere	Miserables.txt 6
 glacis	Miserables.txt 1
-glad	NotreDame_De_Paris.txt 4, Miserables.txt 8
+glad	Miserables.txt 8, NotreDame_De_Paris.txt 4
 glade	Miserables.txt 4
 gladiator	Miserables.txt 3
 gladly	NotreDame_De_Paris.txt 9, Miserables.txt 8
-glance	NotreDame_De_Paris.txt 73, Miserables.txt 161
-glanced	NotreDame_De_Paris.txt 7, Miserables.txt 26
-glances	NotreDame_De_Paris.txt 16, Miserables.txt 22
+glance	Miserables.txt 161, NotreDame_De_Paris.txt 73
+glanced	Miserables.txt 26, NotreDame_De_Paris.txt 7
+glances	Miserables.txt 22, NotreDame_De_Paris.txt 16
 glancing	NotreDame_De_Paris.txt 4, Miserables.txt 4
 glandeve	Miserables.txt 1
-glare	NotreDame_De_Paris.txt 1, Miserables.txt 5
+glare	Miserables.txt 5, NotreDame_De_Paris.txt 1
 glared	NotreDame_De_Paris.txt 2, Miserables.txt 2
 glares	Miserables.txt 1
 glaring	NotreDame_De_Paris.txt 2
 glaris	Miserables.txt 1
-glass	NotreDame_De_Paris.txt 32, Miserables.txt 87
-glasses	NotreDame_De_Paris.txt 4, Miserables.txt 18
+glass	Miserables.txt 87, NotreDame_De_Paris.txt 32
+glasses	Miserables.txt 18, NotreDame_De_Paris.txt 4
 glassware	Miserables.txt 1
-glassy	NotreDame_De_Paris.txt 1, Miserables.txt 5
+glassy	Miserables.txt 5, NotreDame_De_Paris.txt 1
 glatigny	NotreDame_De_Paris.txt 3
 glaueini	NotreDame_De_Paris.txt 1
-glazed	NotreDame_De_Paris.txt 1, Miserables.txt 5
+glazed	Miserables.txt 5, NotreDame_De_Paris.txt 1
 glazier	NotreDame_De_Paris.txt 1
 glazing	Miserables.txt 1
-gleam	NotreDame_De_Paris.txt 7, Miserables.txt 32
+gleam	Miserables.txt 32, NotreDame_De_Paris.txt 7
 gleamed	NotreDame_De_Paris.txt 8, Miserables.txt 7
 gleamest	Miserables.txt 1
 gleaming	NotreDame_De_Paris.txt 3, Miserables.txt 2
-gleams	NotreDame_De_Paris.txt 4, Miserables.txt 18
+gleams	Miserables.txt 18, NotreDame_De_Paris.txt 4
 gleaned	Miserables.txt 1
 glide	NotreDame_De_Paris.txt 3, Miserables.txt 2
-glided	NotreDame_De_Paris.txt 2, Miserables.txt 8
+glided	Miserables.txt 8, NotreDame_De_Paris.txt 2
 glides	Miserables.txt 1
-gliding	NotreDame_De_Paris.txt 1, Miserables.txt 6
+gliding	Miserables.txt 6, NotreDame_De_Paris.txt 1
 glimmer	Miserables.txt 2
-glimpse	NotreDame_De_Paris.txt 8, Miserables.txt 48
+glimpse	Miserables.txt 48, NotreDame_De_Paris.txt 8
 glimpses	Miserables.txt 12
 glistened	NotreDame_De_Paris.txt 1, Miserables.txt 1
 glistening	Miserables.txt 1
 glitter	Miserables.txt 1
 glittered	NotreDame_De_Paris.txt 6, Miserables.txt 4
-glittering	NotreDame_De_Paris.txt 6, Miserables.txt 7
+glittering	Miserables.txt 7, NotreDame_De_Paris.txt 6
 gloaming	Miserables.txt 1
 gloating	Miserables.txt 1
-globe	NotreDame_De_Paris.txt 1, Miserables.txt 11
+globe	Miserables.txt 11, NotreDame_De_Paris.txt 1
 globes	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gloire	Miserables.txt 2
-gloom	NotreDame_De_Paris.txt 24, Miserables.txt 63
+gloom	Miserables.txt 63, NotreDame_De_Paris.txt 24
 gloomiest	NotreDame_De_Paris.txt 1
 gloomily	Miserables.txt 2
-gloomy	NotreDame_De_Paris.txt 44, Miserables.txt 104
+gloomy	Miserables.txt 104, NotreDame_De_Paris.txt 44
 glories	Miserables.txt 1
 gloriette	NotreDame_De_Paris.txt 1
 glorieux	Miserables.txt 2
-glorification	NotreDame_De_Paris.txt 1, Miserables.txt 2
+glorification	Miserables.txt 2, NotreDame_De_Paris.txt 1
 glorified	Miserables.txt 1
 glorify	Miserables.txt 1
 glorifying	Miserables.txt 3
-glorious	NotreDame_De_Paris.txt 1, Miserables.txt 4
+glorious	Miserables.txt 4, NotreDame_De_Paris.txt 1
 gloriously	Miserables.txt 1
-glory	NotreDame_De_Paris.txt 6, Miserables.txt 46
+glory	Miserables.txt 46, NotreDame_De_Paris.txt 6
 gloss	Miserables.txt 1
 glossa	NotreDame_De_Paris.txt 1
 glossy	NotreDame_De_Paris.txt 2
@@ -438,10 +438,10 @@ gloves	Miserables.txt 9
 glow	Miserables.txt 18
 glowed	NotreDame_De_Paris.txt 1
 gloweth	NotreDame_De_Paris.txt 1
-glowing	NotreDame_De_Paris.txt 3, Miserables.txt 11
+glowing	Miserables.txt 11, NotreDame_De_Paris.txt 3
 glows	NotreDame_De_Paris.txt 1, Miserables.txt 1
 glowworm	Miserables.txt 1
-glued	NotreDame_De_Paris.txt 2, Miserables.txt 4
+glued	Miserables.txt 4, NotreDame_De_Paris.txt 2
 glum	Miserables.txt 1
 glut	Miserables.txt 1
 glutton	Miserables.txt 1
@@ -455,13 +455,13 @@ gnat	NotreDame_De_Paris.txt 3, Miserables.txt 2
 gnats	Miserables.txt 1
 gnaw	Miserables.txt 4
 gnawed	NotreDame_De_Paris.txt 3, Miserables.txt 3
-gnawing	NotreDame_De_Paris.txt 1, Miserables.txt 5
+gnawing	Miserables.txt 5, NotreDame_De_Paris.txt 1
 gnaws	Miserables.txt 2
 gnier	NotreDame_De_Paris.txt 2
 gnome	NotreDame_De_Paris.txt 4
 gnomes	NotreDame_De_Paris.txt 1
 gnon	Miserables.txt 1
-go	NotreDame_De_Paris.txt 93, Miserables.txt 455
+go	Miserables.txt 455, NotreDame_De_Paris.txt 93
 goad	NotreDame_De_Paris.txt 1
 goal	Miserables.txt 15
 goals	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -469,29 +469,29 @@ goat	NotreDame_De_Paris.txt 110, Miserables.txt 7
 goats	NotreDame_De_Paris.txt 2, Miserables.txt 1
 gobble	Miserables.txt 1
 gobbled	Miserables.txt 1
-gobelins	NotreDame_De_Paris.txt 1, Miserables.txt 8
+gobelins	Miserables.txt 8, NotreDame_De_Paris.txt 1
 goblet	NotreDame_De_Paris.txt 5, Miserables.txt 4
 goblin	Miserables.txt 2
 goblins	Miserables.txt 2
-god	NotreDame_De_Paris.txt 115, Miserables.txt 359
-goddess	NotreDame_De_Paris.txt 1, Miserables.txt 6
+god	Miserables.txt 359, NotreDame_De_Paris.txt 115
+goddess	Miserables.txt 6, NotreDame_De_Paris.txt 1
 goddesses	Miserables.txt 1
 godfather	NotreDame_De_Paris.txt 1
 godin	NotreDame_De_Paris.txt 1
 godmother	NotreDame_De_Paris.txt 5
-gods	NotreDame_De_Paris.txt 2, Miserables.txt 11
+gods	Miserables.txt 11, NotreDame_De_Paris.txt 2
 godsend	Miserables.txt 3
-goes	NotreDame_De_Paris.txt 8, Miserables.txt 56
+goes	Miserables.txt 56, NotreDame_De_Paris.txt 8
 goeth	Miserables.txt 1
 goethe	Miserables.txt 1
 goff	Miserables.txt 1
 goffeur	Miserables.txt 1
 goguelu	NotreDame_De_Paris.txt 1
 goguettes	Miserables.txt 1
-going	NotreDame_De_Paris.txt 61, Miserables.txt 296
+going	Miserables.txt 296, NotreDame_De_Paris.txt 61
 goings	Miserables.txt 3
 golconda	NotreDame_De_Paris.txt 1
-gold	NotreDame_De_Paris.txt 50, Miserables.txt 60
+gold	Miserables.txt 60, NotreDame_De_Paris.txt 50
 golden	NotreDame_De_Paris.txt 28, Miserables.txt 18
 goldfinch	Miserables.txt 1
 goldsmith	NotreDame_De_Paris.txt 3, Miserables.txt 1
@@ -503,15 +503,15 @@ gond	NotreDame_De_Paris.txt 1
 gondelaurier	NotreDame_De_Paris.txt 22
 gondolas	Miserables.txt 1
 gondren	Miserables.txt 2
-gone	NotreDame_De_Paris.txt 12, Miserables.txt 102
+gone	Miserables.txt 102, NotreDame_De_Paris.txt 12
 gonesse	NotreDame_De_Paris.txt 1, Miserables.txt 1
 goo	Miserables.txt 1
-good	NotreDame_De_Paris.txt 252, Miserables.txt 801
+good	Miserables.txt 801, NotreDame_De_Paris.txt 252
 goodly	NotreDame_De_Paris.txt 9
 goodman	Miserables.txt 24
 goodmen	Miserables.txt 1
 goodness	Miserables.txt 27
-goods	NotreDame_De_Paris.txt 2, Miserables.txt 7
+goods	Miserables.txt 7, NotreDame_De_Paris.txt 2
 goodwives	NotreDame_De_Paris.txt 2, Miserables.txt 2
 goody	NotreDame_De_Paris.txt 2, Miserables.txt 2
 goose	Miserables.txt 5
@@ -519,7 +519,7 @@ gooseberry	Miserables.txt 1
 gorbeau	Miserables.txt 30
 gordon	Miserables.txt 2
 gored	Miserables.txt 1
-gorge	NotreDame_De_Paris.txt 2, Miserables.txt 5
+gorge	Miserables.txt 5, NotreDame_De_Paris.txt 2
 gorged	NotreDame_De_Paris.txt 1
 gorgerette	NotreDame_De_Paris.txt 2
 gorges	Miserables.txt 3
@@ -534,8 +534,8 @@ gosselies	Miserables.txt 1
 gossip	NotreDame_De_Paris.txt 42, Miserables.txt 8
 gossiped	Miserables.txt 2
 gossiping	NotreDame_De_Paris.txt 1, Miserables.txt 1
-gossips	NotreDame_De_Paris.txt 3, Miserables.txt 6
-got	NotreDame_De_Paris.txt 10, Miserables.txt 71
+gossips	Miserables.txt 6, NotreDame_De_Paris.txt 3
+got	Miserables.txt 71, NotreDame_De_Paris.txt 10
 gothic	NotreDame_De_Paris.txt 42, Miserables.txt 5
 goton	NotreDame_De_Paris.txt 1
 goujon	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -548,7 +548,7 @@ gousset	Miserables.txt 1
 gout	NotreDame_De_Paris.txt 1
 gouty	Miserables.txt 5
 gouvion	Miserables.txt 1
-govern	NotreDame_De_Paris.txt 1, Miserables.txt 2
+govern	Miserables.txt 2, NotreDame_De_Paris.txt 1
 governed	Miserables.txt 4
 governing	Miserables.txt 4
 government	Miserables.txt 56
@@ -558,8 +558,8 @@ governments	Miserables.txt 2
 governor	NotreDame_De_Paris.txt 5
 governors	Miserables.txt 1
 governs	Miserables.txt 3
-gown	NotreDame_De_Paris.txt 7, Miserables.txt 40
-gowns	NotreDame_De_Paris.txt 1, Miserables.txt 4
+gown	Miserables.txt 40, NotreDame_De_Paris.txt 7
+gowns	Miserables.txt 4, NotreDame_De_Paris.txt 1
 goy	NotreDame_De_Paris.txt 1
 goya	NotreDame_De_Paris.txt 1
 gozzi	Miserables.txt 1
@@ -567,97 +567,97 @@ gr	NotreDame_De_Paris.txt 62
 gracchi	Miserables.txt 1
 gracchos	Miserables.txt 1
 gracchus	Miserables.txt 2
-grace	NotreDame_De_Paris.txt 18, Miserables.txt 42
-graceful	NotreDame_De_Paris.txt 17, Miserables.txt 18
+grace	Miserables.txt 42, NotreDame_De_Paris.txt 18
+graceful	Miserables.txt 18, NotreDame_De_Paris.txt 17
 gracefully	NotreDame_De_Paris.txt 12, Miserables.txt 1
 graces	Miserables.txt 6
 gracieuse	Miserables.txt 1
-gracious	NotreDame_De_Paris.txt 5, Miserables.txt 8
-graciously	NotreDame_De_Paris.txt 1, Miserables.txt 2
+gracious	Miserables.txt 8, NotreDame_De_Paris.txt 5
+graciously	Miserables.txt 2, NotreDame_De_Paris.txt 1
 gradation	NotreDame_De_Paris.txt 1
 grade	Miserables.txt 2
 graded	NotreDame_De_Paris.txt 1
 grades	NotreDame_De_Paris.txt 1
 gradual	NotreDame_De_Paris.txt 1
-gradually	NotreDame_De_Paris.txt 15, Miserables.txt 43
+gradually	Miserables.txt 43, NotreDame_De_Paris.txt 15
 graduate	Miserables.txt 1
 graduated	NotreDame_De_Paris.txt 1, Miserables.txt 1
 graeculus	Miserables.txt 1
 graft	NotreDame_De_Paris.txt 2, Miserables.txt 2
 grafted	Miserables.txt 2
-grafting	NotreDame_De_Paris.txt 1, Miserables.txt 2
+grafting	Miserables.txt 2, NotreDame_De_Paris.txt 1
 grafts	Miserables.txt 1
-grain	NotreDame_De_Paris.txt 4, Miserables.txt 12
-grains	NotreDame_De_Paris.txt 1, Miserables.txt 4
+grain	Miserables.txt 12, NotreDame_De_Paris.txt 4
+grains	Miserables.txt 4, NotreDame_De_Paris.txt 1
 grammar	Miserables.txt 4
 grammarian	NotreDame_De_Paris.txt 1, Miserables.txt 1
 grammars	Miserables.txt 1
 gramont	Miserables.txt 2
 gran	NotreDame_De_Paris.txt 1
-granary	NotreDame_De_Paris.txt 1, Miserables.txt 3
-grand	NotreDame_De_Paris.txt 83, Miserables.txt 147
+granary	Miserables.txt 3, NotreDame_De_Paris.txt 1
+grand	Miserables.txt 147, NotreDame_De_Paris.txt 83
 grandchild	Miserables.txt 1
 grandchildren	Miserables.txt 1
-grande	NotreDame_De_Paris.txt 1, Miserables.txt 3
+grande	Miserables.txt 3, NotreDame_De_Paris.txt 1
 grander	Miserables.txt 6
 grandest	Miserables.txt 2
-grandeur	NotreDame_De_Paris.txt 8, Miserables.txt 26
+grandeur	Miserables.txt 26, NotreDame_De_Paris.txt 8
 grandeurs	Miserables.txt 5
-grandfather	NotreDame_De_Paris.txt 2, Miserables.txt 135
+grandfather	Miserables.txt 135, NotreDame_De_Paris.txt 2
 grandfathers	Miserables.txt 1
-grandiose	NotreDame_De_Paris.txt 1, Miserables.txt 6
+grandiose	Miserables.txt 6, NotreDame_De_Paris.txt 1
 grandioseness	Miserables.txt 1
 grandly	Miserables.txt 1
-grandmother	NotreDame_De_Paris.txt 2, Miserables.txt 3
-grandmothers	NotreDame_De_Paris.txt 1, Miserables.txt 3
+grandmother	Miserables.txt 3, NotreDame_De_Paris.txt 2
+grandmothers	Miserables.txt 3, NotreDame_De_Paris.txt 1
 grandnephew	Miserables.txt 6
 grandpapa	Miserables.txt 1
 grands	Miserables.txt 1
 grandsire	Miserables.txt 1
 grandsires	Miserables.txt 1
-grandson	NotreDame_De_Paris.txt 1, Miserables.txt 20
+grandson	Miserables.txt 20, NotreDame_De_Paris.txt 1
 granduncle	Miserables.txt 1
-grange	NotreDame_De_Paris.txt 1, Miserables.txt 2
-granite	NotreDame_De_Paris.txt 8, Miserables.txt 16
+grange	Miserables.txt 2, NotreDame_De_Paris.txt 1
+granite	Miserables.txt 16, NotreDame_De_Paris.txt 8
 granmont	Miserables.txt 1
-grant	NotreDame_De_Paris.txt 2, Miserables.txt 14
+grant	Miserables.txt 14, NotreDame_De_Paris.txt 2
 grantaire	Miserables.txt 85
-granted	NotreDame_De_Paris.txt 10, Miserables.txt 15
+granted	Miserables.txt 15, NotreDame_De_Paris.txt 10
 granting	Miserables.txt 2
 grants	Miserables.txt 3
 grape	Miserables.txt 47
-grapes	NotreDame_De_Paris.txt 2, Miserables.txt 6
+grapes	Miserables.txt 6, NotreDame_De_Paris.txt 2
 grappling	Miserables.txt 1
-gras	NotreDame_De_Paris.txt 1, Miserables.txt 5
+gras	Miserables.txt 5, NotreDame_De_Paris.txt 1
 grase	Miserables.txt 1
-grasp	NotreDame_De_Paris.txt 2, Miserables.txt 25
-grasped	NotreDame_De_Paris.txt 8, Miserables.txt 37
+grasp	Miserables.txt 25, NotreDame_De_Paris.txt 2
+grasped	Miserables.txt 37, NotreDame_De_Paris.txt 8
 grasping	NotreDame_De_Paris.txt 6, Miserables.txt 6
 grasps	NotreDame_De_Paris.txt 1, Miserables.txt 1
-grass	NotreDame_De_Paris.txt 4, Miserables.txt 53
+grass	Miserables.txt 53, NotreDame_De_Paris.txt 4
 grasse	Miserables.txt 4
 grasses	Miserables.txt 3
 grasshopper	NotreDame_De_Paris.txt 2
 grasshoppers	Miserables.txt 1
 grassy	Miserables.txt 1
 grate	NotreDame_De_Paris.txt 1
-grated	NotreDame_De_Paris.txt 2, Miserables.txt 21
-grateful	NotreDame_De_Paris.txt 1, Miserables.txt 7
+grated	Miserables.txt 21, NotreDame_De_Paris.txt 2
+grateful	Miserables.txt 7, NotreDame_De_Paris.txt 1
 gratefully	NotreDame_De_Paris.txt 1, Miserables.txt 1
 gratia	Miserables.txt 1
 gratian	NotreDame_De_Paris.txt 3
 gratified	NotreDame_De_Paris.txt 3, Miserables.txt 1
 gratifying	NotreDame_De_Paris.txt 1
-grating	NotreDame_De_Paris.txt 11, Miserables.txt 54
-gratings	NotreDame_De_Paris.txt 3, Miserables.txt 11
+grating	Miserables.txt 54, NotreDame_De_Paris.txt 11
+gratings	Miserables.txt 11, NotreDame_De_Paris.txt 3
 gratis	Miserables.txt 5
-gratitude	NotreDame_De_Paris.txt 6, Miserables.txt 19
+gratitude	Miserables.txt 19, NotreDame_De_Paris.txt 6
 gratuitous	Miserables.txt 4
 gratuitously	Miserables.txt 4
 gratuity	Miserables.txt 1
-grave	NotreDame_De_Paris.txt 28, Miserables.txt 173
+grave	Miserables.txt 173, NotreDame_De_Paris.txt 28
 graved	NotreDame_De_Paris.txt 1
-gravely	NotreDame_De_Paris.txt 12, Miserables.txt 14
+gravely	Miserables.txt 14, NotreDame_De_Paris.txt 12
 graven	NotreDame_De_Paris.txt 1, Miserables.txt 1
 graves	Miserables.txt 6
 gravest	Miserables.txt 3
@@ -669,31 +669,31 @@ gravitated	Miserables.txt 1
 gravitates	Miserables.txt 1
 gravitation	Miserables.txt 1
 gravitations	Miserables.txt 1
-gravity	NotreDame_De_Paris.txt 6, Miserables.txt 20
-gray	NotreDame_De_Paris.txt 23, Miserables.txt 50
+gravity	Miserables.txt 20, NotreDame_De_Paris.txt 6
+gray	Miserables.txt 50, NotreDame_De_Paris.txt 23
 grayhounds	NotreDame_De_Paris.txt 1
 grayish	Miserables.txt 2
 grays	Miserables.txt 3
 graze	Miserables.txt 1
-grazed	NotreDame_De_Paris.txt 1, Miserables.txt 2
+grazed	Miserables.txt 2, NotreDame_De_Paris.txt 1
 grease	NotreDame_De_Paris.txt 6, Miserables.txt 1
 greased	Miserables.txt 1
 greasing	Miserables.txt 1
 greasy	NotreDame_De_Paris.txt 1, Miserables.txt 1
-great	NotreDame_De_Paris.txt 259, Miserables.txt 512
+great	Miserables.txt 512, NotreDame_De_Paris.txt 259
 greatcoats	Miserables.txt 1
-greater	NotreDame_De_Paris.txt 12, Miserables.txt 29
-greatest	NotreDame_De_Paris.txt 5, Miserables.txt 17
-greatly	NotreDame_De_Paris.txt 24, Miserables.txt 50
-greatness	NotreDame_De_Paris.txt 1, Miserables.txt 7
+greater	Miserables.txt 29, NotreDame_De_Paris.txt 12
+greatest	Miserables.txt 17, NotreDame_De_Paris.txt 5
+greatly	Miserables.txt 50, NotreDame_De_Paris.txt 24
+greatness	Miserables.txt 7, NotreDame_De_Paris.txt 1
 greatnesses	Miserables.txt 1
 grecian	Miserables.txt 1
 greco	NotreDame_De_Paris.txt 2
-greece	NotreDame_De_Paris.txt 5, Miserables.txt 13
-greedy	NotreDame_De_Paris.txt 3, Miserables.txt 5
+greece	Miserables.txt 13, NotreDame_De_Paris.txt 5
+greedy	Miserables.txt 5, NotreDame_De_Paris.txt 3
 greek	NotreDame_De_Paris.txt 30, Miserables.txt 14
 greeks	Miserables.txt 2
-green	NotreDame_De_Paris.txt 16, Miserables.txt 66
+green	Miserables.txt 66, NotreDame_De_Paris.txt 16
 greener	NotreDame_De_Paris.txt 1
 greenhorn	Miserables.txt 4
 greenhorns	Miserables.txt 1
@@ -711,24 +711,24 @@ gregory	NotreDame_De_Paris.txt 5, Miserables.txt 3
 grelotte	Miserables.txt 1
 grenades	Miserables.txt 1
 grenadier	Miserables.txt 6
-grenadiers	NotreDame_De_Paris.txt 1, Miserables.txt 9
+grenadiers	Miserables.txt 9, NotreDame_De_Paris.txt 1
 grenelle	Miserables.txt 5
 grenetat	Miserables.txt 2
-grenier	NotreDame_De_Paris.txt 2, Miserables.txt 3
+grenier	Miserables.txt 3, NotreDame_De_Paris.txt 2
 grenoble	Miserables.txt 4
 gres	Miserables.txt 3
 greuze	Miserables.txt 2
-greve	NotreDame_De_Paris.txt 1, Miserables.txt 10
-grew	NotreDame_De_Paris.txt 17, Miserables.txt 53
+greve	Miserables.txt 10, NotreDame_De_Paris.txt 1
+grew	Miserables.txt 53, NotreDame_De_Paris.txt 17
 gribeauval	Miserables.txt 2
 gribier	Miserables.txt 10
 gridiron	NotreDame_De_Paris.txt 1
-grief	NotreDame_De_Paris.txt 16, Miserables.txt 24
+grief	Miserables.txt 24, NotreDame_De_Paris.txt 16
 griefs	Miserables.txt 5
 grievance	Miserables.txt 1
 grievances	Miserables.txt 2
 grieve	Miserables.txt 1
-grieved	NotreDame_De_Paris.txt 1, Miserables.txt 4
+grieved	Miserables.txt 4, NotreDame_De_Paris.txt 1
 grieves	NotreDame_De_Paris.txt 1
 grievous	NotreDame_De_Paris.txt 1
 griffin	Miserables.txt 3
@@ -752,7 +752,7 @@ gringoire	NotreDame_De_Paris.txt 336
 grinned	Miserables.txt 2
 grinning	NotreDame_De_Paris.txt 3, Miserables.txt 1
 grins	Miserables.txt 3
-grip	NotreDame_De_Paris.txt 2, Miserables.txt 3
+grip	Miserables.txt 3, NotreDame_De_Paris.txt 2
 grips	Miserables.txt 1
 gris	Miserables.txt 1
 griserait	Miserables.txt 1
@@ -762,12 +762,12 @@ grisis	NotreDame_De_Paris.txt 2
 gristles	NotreDame_De_Paris.txt 1
 grives	Miserables.txt 1
 grkztntgzyal	Miserables.txt 1
-groan	NotreDame_De_Paris.txt 2, Miserables.txt 3
+groan	Miserables.txt 3, NotreDame_De_Paris.txt 2
 groaned	NotreDame_De_Paris.txt 1
-groaning	NotreDame_De_Paris.txt 2, Miserables.txt 3
+groaning	Miserables.txt 3, NotreDame_De_Paris.txt 2
 groanings	Miserables.txt 1
-groans	NotreDame_De_Paris.txt 4, Miserables.txt 6
-grocer	NotreDame_De_Paris.txt 1, Miserables.txt 3
+groans	Miserables.txt 6, NotreDame_De_Paris.txt 4
+grocer	Miserables.txt 3, NotreDame_De_Paris.txt 1
 groecum	NotreDame_De_Paris.txt 1
 groenendael	Miserables.txt 1
 groentendael	Miserables.txt 1
@@ -776,13 +776,13 @@ grooms	Miserables.txt 1
 groove	Miserables.txt 2
 grooved	NotreDame_De_Paris.txt 2
 grooves	Miserables.txt 1
-groped	NotreDame_De_Paris.txt 3, Miserables.txt 6
+groped	Miserables.txt 6, NotreDame_De_Paris.txt 3
 gropes	Miserables.txt 1
-groping	NotreDame_De_Paris.txt 2, Miserables.txt 6
+groping	Miserables.txt 6, NotreDame_De_Paris.txt 2
 gropingly	Miserables.txt 2
 gropings	Miserables.txt 3
-gros	NotreDame_De_Paris.txt 1, Miserables.txt 4
-gross	NotreDame_De_Paris.txt 3, Miserables.txt 7
+gros	Miserables.txt 4, NotreDame_De_Paris.txt 1
+gross	Miserables.txt 7, NotreDame_De_Paris.txt 3
 grosse	Miserables.txt 1
 grossi	NotreDame_De_Paris.txt 1
 grossness	Miserables.txt 2
@@ -790,53 +790,53 @@ grotesque	NotreDame_De_Paris.txt 9, Miserables.txt 3
 grotesquely	NotreDame_De_Paris.txt 1
 grotesquenesses	Miserables.txt 1
 grotte	Miserables.txt 1
-grotto	NotreDame_De_Paris.txt 2, Miserables.txt 5
+grotto	Miserables.txt 5, NotreDame_De_Paris.txt 2
 grottos	Miserables.txt 1
 grouchy	Miserables.txt 6
 grouille	NotreDame_De_Paris.txt 4
-ground	NotreDame_De_Paris.txt 43, Miserables.txt 140
+ground	Miserables.txt 140, NotreDame_De_Paris.txt 43
 grounded	Miserables.txt 2
 groundfloor	Miserables.txt 1
 grounds	NotreDame_De_Paris.txt 3, Miserables.txt 1
 groundswell	Miserables.txt 1
 groundwork	NotreDame_De_Paris.txt 1
-group	NotreDame_De_Paris.txt 26, Miserables.txt 51
-grouped	NotreDame_De_Paris.txt 5, Miserables.txt 9
+group	Miserables.txt 51, NotreDame_De_Paris.txt 26
+grouped	Miserables.txt 9, NotreDame_De_Paris.txt 5
 grouping	NotreDame_De_Paris.txt 2
-groups	NotreDame_De_Paris.txt 12, Miserables.txt 25
+groups	Miserables.txt 25, NotreDame_De_Paris.txt 12
 grove	Miserables.txt 4
-grow	NotreDame_De_Paris.txt 9, Miserables.txt 46
-growing	NotreDame_De_Paris.txt 14, Miserables.txt 34
-growl	NotreDame_De_Paris.txt 2, Miserables.txt 4
-growled	NotreDame_De_Paris.txt 4, Miserables.txt 6
+grow	Miserables.txt 46, NotreDame_De_Paris.txt 9
+growing	Miserables.txt 34, NotreDame_De_Paris.txt 14
+growl	Miserables.txt 4, NotreDame_De_Paris.txt 2
+growled	Miserables.txt 6, NotreDame_De_Paris.txt 4
 growler	Miserables.txt 1
-growling	NotreDame_De_Paris.txt 1, Miserables.txt 2
-grown	NotreDame_De_Paris.txt 18, Miserables.txt 39
-grows	NotreDame_De_Paris.txt 7, Miserables.txt 17
-growth	NotreDame_De_Paris.txt 1, Miserables.txt 15
+growling	Miserables.txt 2, NotreDame_De_Paris.txt 1
+grown	Miserables.txt 39, NotreDame_De_Paris.txt 18
+grows	Miserables.txt 17, NotreDame_De_Paris.txt 7
+growth	Miserables.txt 15, NotreDame_De_Paris.txt 1
 growths	Miserables.txt 2
 grub	Miserables.txt 3
 grucheray	Miserables.txt 1
 grudge	NotreDame_De_Paris.txt 5, Miserables.txt 1
-gruff	NotreDame_De_Paris.txt 1, Miserables.txt 2
+gruff	Miserables.txt 2, NotreDame_De_Paris.txt 1
 gruffly	Miserables.txt 1
 grumble	NotreDame_De_Paris.txt 4, Miserables.txt 3
-grumbled	NotreDame_De_Paris.txt 6, Miserables.txt 17
+grumbled	Miserables.txt 17, NotreDame_De_Paris.txt 6
 grumblers	Miserables.txt 1
-grumbling	NotreDame_De_Paris.txt 2, Miserables.txt 4
+grumbling	Miserables.txt 4, NotreDame_De_Paris.txt 2
 grumblingly	Miserables.txt 1
 grurin	Miserables.txt 3
 gruyer	NotreDame_De_Paris.txt 2
 guano	Miserables.txt 2
 guarantee	Miserables.txt 4
 guarantees	Miserables.txt 4
-guard	NotreDame_De_Paris.txt 20, Miserables.txt 120
-guarded	NotreDame_De_Paris.txt 5, Miserables.txt 20
+guard	Miserables.txt 120, NotreDame_De_Paris.txt 20
+guarded	Miserables.txt 20, NotreDame_De_Paris.txt 5
 guardian	NotreDame_De_Paris.txt 8, Miserables.txt 8
 guardians	NotreDame_De_Paris.txt 1
 guardianship	NotreDame_De_Paris.txt 1
 guarding	Miserables.txt 7
-guards	NotreDame_De_Paris.txt 1, Miserables.txt 38
+guards	Miserables.txt 38, NotreDame_De_Paris.txt 1
 guardsman	Miserables.txt 8
 guardsmen	Miserables.txt 11
 gudule	NotreDame_De_Paris.txt 22
@@ -853,10 +853,10 @@ guery	NotreDame_De_Paris.txt 1
 guess	Miserables.txt 6
 guessed	Miserables.txt 6
 guest	Miserables.txt 5
-guests	NotreDame_De_Paris.txt 3, Miserables.txt 6
+guests	Miserables.txt 6, NotreDame_De_Paris.txt 3
 gueule	NotreDame_De_Paris.txt 4
 gueulemer	Miserables.txt 9
-gueux	NotreDame_De_Paris.txt 1, Miserables.txt 2
+gueux	Miserables.txt 2, NotreDame_De_Paris.txt 1
 guibourg	Miserables.txt 1
 guichard	NotreDame_De_Paris.txt 1
 guicherat	Miserables.txt 1
@@ -873,22 +873,22 @@ guilleminot	Miserables.txt 2
 guillery	Miserables.txt 1
 guillons	Miserables.txt 1
 guillot	Miserables.txt 1
-guillotine	NotreDame_De_Paris.txt 2, Miserables.txt 15
+guillotine	Miserables.txt 15, NotreDame_De_Paris.txt 2
 guillotined	Miserables.txt 1
 guilt	Miserables.txt 2
-guilty	NotreDame_De_Paris.txt 2, Miserables.txt 19
+guilty	Miserables.txt 19, NotreDame_De_Paris.txt 2
 guimard	Miserables.txt 2
 guimardinette	Miserables.txt 1
 guimardini	Miserables.txt 1
-guimpe	NotreDame_De_Paris.txt 1, Miserables.txt 8
+guimpe	Miserables.txt 8, NotreDame_De_Paris.txt 1
 guinea	Miserables.txt 1
 guipure	Miserables.txt 2
-guise	NotreDame_De_Paris.txt 1, Miserables.txt 8
+guise	Miserables.txt 8, NotreDame_De_Paris.txt 1
 guitar	Miserables.txt 1
 gula	Miserables.txt 1
 gulax	Miserables.txt 1
 gules	NotreDame_De_Paris.txt 1
-gulf	NotreDame_De_Paris.txt 2, Miserables.txt 34
+gulf	Miserables.txt 34, NotreDame_De_Paris.txt 2
 gulfs	Miserables.txt 9
 gull	Miserables.txt 1
 gullet	Miserables.txt 1
@@ -897,7 +897,7 @@ gullies	Miserables.txt 2
 gulnare	Miserables.txt 1
 gulped	Miserables.txt 1
 gum	Miserables.txt 2
-gums	NotreDame_De_Paris.txt 2, Miserables.txt 3
+gums	Miserables.txt 3, NotreDame_De_Paris.txt 2
 gun	Miserables.txt 78
 gunners	Miserables.txt 1
 gunpowder	Miserables.txt 1
@@ -905,23 +905,23 @@ guns	Miserables.txt 44
 gunshot	Miserables.txt 1
 gunsmith	Miserables.txt 1
 gunzberg	Miserables.txt 1
-gurdy	NotreDame_De_Paris.txt 1, Miserables.txt 2
+gurdy	Miserables.txt 2, NotreDame_De_Paris.txt 1
 gurgites	NotreDame_De_Paris.txt 1
 gush	NotreDame_De_Paris.txt 2, Miserables.txt 2
 gushed	NotreDame_De_Paris.txt 1
 gushing	NotreDame_De_Paris.txt 1, Miserables.txt 1
-gust	NotreDame_De_Paris.txt 2, Miserables.txt 7
+gust	Miserables.txt 7, NotreDame_De_Paris.txt 2
 gustave	Miserables.txt 1
 gustavus	NotreDame_De_Paris.txt 1
-gusts	NotreDame_De_Paris.txt 3, Miserables.txt 8
+gusts	Miserables.txt 8, NotreDame_De_Paris.txt 3
 gut	Miserables.txt 5
 gutenberg	NotreDame_De_Paris.txt 97, Miserables.txt 93
 gutenburg	NotreDame_De_Paris.txt 1
 guts	NotreDame_De_Paris.txt 3
-gutter	NotreDame_De_Paris.txt 8, Miserables.txt 17
+gutter	Miserables.txt 17, NotreDame_De_Paris.txt 8
 gutters	NotreDame_De_Paris.txt 8, Miserables.txt 4
 guttural	NotreDame_De_Paris.txt 2, Miserables.txt 2
-guy	NotreDame_De_Paris.txt 1, Miserables.txt 3
+guy	Miserables.txt 3, NotreDame_De_Paris.txt 1
 guybertant	NotreDame_De_Paris.txt 3
 guyenne	NotreDame_De_Paris.txt 1
 guyon	NotreDame_De_Paris.txt 2, Miserables.txt 2

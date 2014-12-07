@@ -1,20 +1,20 @@
-j	NotreDame_De_Paris.txt 2, Miserables.txt 16
+j	Miserables.txt 16, NotreDame_De_Paris.txt 2
 ja	Miserables.txt 1
 jabber	Miserables.txt 2
 jabbering	NotreDame_De_Paris.txt 2, Miserables.txt 1
 jaceo	Miserables.txt 1
-jack	NotreDame_De_Paris.txt 1, Miserables.txt 8
-jackal	NotreDame_De_Paris.txt 1, Miserables.txt 3
-jacket	NotreDame_De_Paris.txt 2, Miserables.txt 3
+jack	Miserables.txt 8, NotreDame_De_Paris.txt 1
+jackal	Miserables.txt 3, NotreDame_De_Paris.txt 1
+jacket	Miserables.txt 3, NotreDame_De_Paris.txt 2
 jackets	NotreDame_De_Paris.txt 3, Miserables.txt 1
-jacob	NotreDame_De_Paris.txt 1, Miserables.txt 3
+jacob	Miserables.txt 3, NotreDame_De_Paris.txt 1
 jacobin	Miserables.txt 6
 jacobinism	Miserables.txt 2
 jacobins	Miserables.txt 4
 jacobite	Miserables.txt 1
 jacqueline	NotreDame_De_Paris.txt 4, Miserables.txt 1
 jacquerie	Miserables.txt 5
-jacqueries	NotreDame_De_Paris.txt 1, Miserables.txt 2
+jacqueries	Miserables.txt 2, NotreDame_De_Paris.txt 1
 jacques	NotreDame_De_Paris.txt 93, Miserables.txt 35
 jacquesdu	Miserables.txt 4
 jacquin	Miserables.txt 5
@@ -24,12 +24,12 @@ jades	Miserables.txt 4
 jadis	Miserables.txt 1
 jaffa	Miserables.txt 1
 jagged	NotreDame_De_Paris.txt 1, Miserables.txt 1
-jail	NotreDame_De_Paris.txt 3, Miserables.txt 4
+jail	Miserables.txt 4, NotreDame_De_Paris.txt 3
 jailer	NotreDame_De_Paris.txt 2, Miserables.txt 2
-jailers	NotreDame_De_Paris.txt 1, Miserables.txt 2
+jailers	Miserables.txt 2, NotreDame_De_Paris.txt 1
 jails	NotreDame_De_Paris.txt 1
 jam	Miserables.txt 1
-jamb	NotreDame_De_Paris.txt 1, Miserables.txt 2
+jamb	Miserables.txt 2, NotreDame_De_Paris.txt 1
 jambe	Miserables.txt 2
 jamblique	NotreDame_De_Paris.txt 1
 jambs	NotreDame_De_Paris.txt 1
@@ -45,9 +45,9 @@ janvier	NotreDame_De_Paris.txt 1
 japanese	Miserables.txt 2
 japon	Miserables.txt 1
 jar	Miserables.txt 1
-jardin	NotreDame_De_Paris.txt 1, Miserables.txt 14
+jardin	Miserables.txt 14, NotreDame_De_Paris.txt 1
 jardins	Miserables.txt 1
-jargon	NotreDame_De_Paris.txt 3, Miserables.txt 5
+jargon	Miserables.txt 5, NotreDame_De_Paris.txt 3
 jargons	NotreDame_De_Paris.txt 1, Miserables.txt 1
 jasmines	Miserables.txt 2
 jasper	Miserables.txt 1
@@ -57,19 +57,19 @@ jausion	Miserables.txt 1
 jauziers	Miserables.txt 1
 javert	Miserables.txt 468
 javottes	Miserables.txt 1
-jaw	NotreDame_De_Paris.txt 3, Miserables.txt 5
+jaw	Miserables.txt 5, NotreDame_De_Paris.txt 3
 jaws	NotreDame_De_Paris.txt 5, Miserables.txt 5
 jaxa	Miserables.txt 1
-je	NotreDame_De_Paris.txt 5, Miserables.txt 31
-jealous	NotreDame_De_Paris.txt 5, Miserables.txt 13
+je	Miserables.txt 31, NotreDame_De_Paris.txt 5
+jealous	Miserables.txt 13, NotreDame_De_Paris.txt 5
 jealousies	NotreDame_De_Paris.txt 1, Miserables.txt 1
 jealously	Miserables.txt 1
 jealousy	NotreDame_De_Paris.txt 10, Miserables.txt 10
-jean	NotreDame_De_Paris.txt 25, Miserables.txt 1237
-jeanne	NotreDame_De_Paris.txt 1, Miserables.txt 18
+jean	Miserables.txt 1237, NotreDame_De_Paris.txt 25
+jeanne	Miserables.txt 18, NotreDame_De_Paris.txt 1
 jeannette	Miserables.txt 1
 jeer	NotreDame_De_Paris.txt 2
-jeered	NotreDame_De_Paris.txt 1, Miserables.txt 4
+jeered	Miserables.txt 4, NotreDame_De_Paris.txt 1
 jeerers	NotreDame_De_Paris.txt 1
 jeering	NotreDame_De_Paris.txt 2, Miserables.txt 2
 jeers	NotreDame_De_Paris.txt 1, Miserables.txt 1
@@ -88,16 +88,16 @@ jerkin	NotreDame_De_Paris.txt 6
 jerks	NotreDame_De_Paris.txt 3
 jerky	NotreDame_De_Paris.txt 1
 jerome	Miserables.txt 4
-jerusalem	NotreDame_De_Paris.txt 1, Miserables.txt 2
-jest	NotreDame_De_Paris.txt 5, Miserables.txt 10
+jerusalem	Miserables.txt 2, NotreDame_De_Paris.txt 1
+jest	Miserables.txt 10, NotreDame_De_Paris.txt 5
 jested	Miserables.txt 1
 jesting	Miserables.txt 2
 jests	Miserables.txt 3
 jesuit	Miserables.txt 3
 jesuits	Miserables.txt 2
-jesus	NotreDame_De_Paris.txt 7, Miserables.txt 38
+jesus	Miserables.txt 38, NotreDame_De_Paris.txt 7
 jet	Miserables.txt 11
-jets	NotreDame_De_Paris.txt 1, Miserables.txt 2
+jets	Miserables.txt 2, NotreDame_De_Paris.txt 1
 jetted	NotreDame_De_Paris.txt 1
 jetties	Miserables.txt 1
 jeu	Miserables.txt 1
@@ -105,7 +105,7 @@ jeune	NotreDame_De_Paris.txt 3, Miserables.txt 2
 jeunes	Miserables.txt 1
 jeuneurs	Miserables.txt 2
 jew	NotreDame_De_Paris.txt 7, Miserables.txt 3
-jewel	NotreDame_De_Paris.txt 1, Miserables.txt 3
+jewel	Miserables.txt 3, NotreDame_De_Paris.txt 1
 jewelled	Miserables.txt 1
 jewellers	Miserables.txt 1
 jewellery	Miserables.txt 4
@@ -129,8 +129,8 @@ johannis	NotreDame_De_Paris.txt 1
 john	NotreDame_De_Paris.txt 9, Miserables.txt 9
 johns	Miserables.txt 1
 joie	NotreDame_De_Paris.txt 1, Miserables.txt 1
-join	NotreDame_De_Paris.txt 2, Miserables.txt 10
-joined	NotreDame_De_Paris.txt 8, Miserables.txt 19
+join	Miserables.txt 10, NotreDame_De_Paris.txt 2
+joined	Miserables.txt 19, NotreDame_De_Paris.txt 8
 joiner	NotreDame_De_Paris.txt 2
 joiners	Miserables.txt 1
 joining	Miserables.txt 3
@@ -150,8 +150,8 @@ jolie	Miserables.txt 1
 jollities	Miserables.txt 1
 jollity	Miserables.txt 1
 jolllly	Miserables.txt 2
-jolly	NotreDame_De_Paris.txt 3, Miserables.txt 6
-jolt	NotreDame_De_Paris.txt 1, Miserables.txt 2
+jolly	Miserables.txt 6, NotreDame_De_Paris.txt 3
+jolt	Miserables.txt 2, NotreDame_De_Paris.txt 1
 jolted	Miserables.txt 3
 jolting	Miserables.txt 3
 jolts	Miserables.txt 2
@@ -168,19 +168,19 @@ josepha	Miserables.txt 1
 josephine	Miserables.txt 2
 josephus	Miserables.txt 1
 jostle	Miserables.txt 1
-jostled	NotreDame_De_Paris.txt 1, Miserables.txt 6
+jostled	Miserables.txt 6, NotreDame_De_Paris.txt 1
 jostles	Miserables.txt 2
 jostling	NotreDame_De_Paris.txt 1, Miserables.txt 1
 jotted	Miserables.txt 1
 joubert	Miserables.txt 4
 jouer	Miserables.txt 1
 joug	Miserables.txt 1
-jour	NotreDame_De_Paris.txt 2, Miserables.txt 7
+jour	Miserables.txt 7, NotreDame_De_Paris.txt 2
 jourdan	Miserables.txt 1
 journal	Miserables.txt 4
 journalists	Miserables.txt 2
 journals	Miserables.txt 6
-journey	NotreDame_De_Paris.txt 1, Miserables.txt 26
+journey	Miserables.txt 26, NotreDame_De_Paris.txt 1
 journeyman	Miserables.txt 1
 journeymen	Miserables.txt 1
 journeys	Miserables.txt 4
@@ -189,42 +189,42 @@ jousts	Miserables.txt 1
 jouvenel	NotreDame_De_Paris.txt 1
 jouy	NotreDame_De_Paris.txt 1
 jovial	NotreDame_De_Paris.txt 4, Miserables.txt 3
-joviality	NotreDame_De_Paris.txt 2, Miserables.txt 7
+joviality	Miserables.txt 7, NotreDame_De_Paris.txt 2
 jowl	NotreDame_De_Paris.txt 1
-joy	NotreDame_De_Paris.txt 44, Miserables.txt 143
+joy	Miserables.txt 143, NotreDame_De_Paris.txt 44
 joya	Miserables.txt 3
 joyeux	Miserables.txt 1
 joyful	NotreDame_De_Paris.txt 1, Miserables.txt 1
 joyfully	NotreDame_De_Paris.txt 1, Miserables.txt 1
-joyous	NotreDame_De_Paris.txt 17, Miserables.txt 27
+joyous	Miserables.txt 27, NotreDame_De_Paris.txt 17
 joyously	NotreDame_De_Paris.txt 6, Miserables.txt 4
-joys	NotreDame_De_Paris.txt 1, Miserables.txt 14
-juan	NotreDame_De_Paris.txt 1, Miserables.txt 2
+joys	Miserables.txt 14, NotreDame_De_Paris.txt 1
+juan	Miserables.txt 2, NotreDame_De_Paris.txt 1
 juardini	NotreDame_De_Paris.txt 1
 jubilation	Miserables.txt 2
 judas	NotreDame_De_Paris.txt 1, Miserables.txt 1
 judea	NotreDame_De_Paris.txt 1
 judengasse	Miserables.txt 1
-judge	NotreDame_De_Paris.txt 26, Miserables.txt 30
-judged	NotreDame_De_Paris.txt 3, Miserables.txt 20
-judges	NotreDame_De_Paris.txt 13, Miserables.txt 17
-judging	NotreDame_De_Paris.txt 3, Miserables.txt 9
-judgment	NotreDame_De_Paris.txt 8, Miserables.txt 15
-judgments	NotreDame_De_Paris.txt 1, Miserables.txt 2
+judge	Miserables.txt 30, NotreDame_De_Paris.txt 26
+judged	Miserables.txt 20, NotreDame_De_Paris.txt 3
+judges	Miserables.txt 17, NotreDame_De_Paris.txt 13
+judging	Miserables.txt 9, NotreDame_De_Paris.txt 3
+judgment	Miserables.txt 15, NotreDame_De_Paris.txt 8
+judgments	Miserables.txt 2, NotreDame_De_Paris.txt 1
 judicatis	Miserables.txt 1
 judicature	NotreDame_De_Paris.txt 1
-judicial	NotreDame_De_Paris.txt 3, Miserables.txt 8
+judicial	Miserables.txt 8, NotreDame_De_Paris.txt 3
 judicially	Miserables.txt 1
 judiciary	NotreDame_De_Paris.txt 1
 judicious	NotreDame_De_Paris.txt 2
 judiciously	NotreDame_De_Paris.txt 2
 judicium	NotreDame_De_Paris.txt 1
 judith	Miserables.txt 2
-jug	NotreDame_De_Paris.txt 11, Miserables.txt 19
+jug	Miserables.txt 19, NotreDame_De_Paris.txt 11
 juge	NotreDame_De_Paris.txt 1
 juggler	NotreDame_De_Paris.txt 1, Miserables.txt 1
 juggling	Miserables.txt 1
-jugs	NotreDame_De_Paris.txt 4, Miserables.txt 5
+jugs	Miserables.txt 5, NotreDame_De_Paris.txt 4
 jugular	Miserables.txt 1
 juice	Miserables.txt 1
 juiverie	NotreDame_De_Paris.txt 2
@@ -232,15 +232,15 @@ julia	Miserables.txt 1
 julian	NotreDame_De_Paris.txt 6
 julien	Miserables.txt 2
 juliet	NotreDame_De_Paris.txt 1, Miserables.txt 1
-july	NotreDame_De_Paris.txt 3, Miserables.txt 41
+july	Miserables.txt 41, NotreDame_De_Paris.txt 3
 jumi	NotreDame_De_Paris.txt 1
 jump	Miserables.txt 3
-jumped	NotreDame_De_Paris.txt 1, Miserables.txt 6
+jumped	Miserables.txt 6, NotreDame_De_Paris.txt 1
 jumping	Miserables.txt 2
-junction	NotreDame_De_Paris.txt 1, Miserables.txt 6
+junction	Miserables.txt 6, NotreDame_De_Paris.txt 1
 juncture	Miserables.txt 1
 junctures	Miserables.txt 1
-june	NotreDame_De_Paris.txt 1, Miserables.txt 79
+june	Miserables.txt 79, NotreDame_De_Paris.txt 1
 jungfrau	Miserables.txt 2
 junior	Miserables.txt 5
 junk	Miserables.txt 1
@@ -260,9 +260,9 @@ jury	Miserables.txt 20
 juryman	Miserables.txt 1
 jusqu	NotreDame_De_Paris.txt 1
 jussieu	Miserables.txt 1
-just	NotreDame_De_Paris.txt 119, Miserables.txt 502
+just	Miserables.txt 502, NotreDame_De_Paris.txt 119
 juste	Miserables.txt 1
-justice	NotreDame_De_Paris.txt 46, Miserables.txt 83
+justice	Miserables.txt 83, NotreDame_De_Paris.txt 46
 justices	NotreDame_De_Paris.txt 2, Miserables.txt 1
 justiciaries	NotreDame_De_Paris.txt 1
 justiciary	NotreDame_De_Paris.txt 1
@@ -272,10 +272,10 @@ justifying	Miserables.txt 1
 justine	Miserables.txt 1
 justinian	Miserables.txt 2
 justitiam	NotreDame_De_Paris.txt 1
-justly	NotreDame_De_Paris.txt 2, Miserables.txt 6
+justly	Miserables.txt 6, NotreDame_De_Paris.txt 2
 juv	NotreDame_De_Paris.txt 1
 juvenal	Miserables.txt 5
 juvenals	Miserables.txt 1
 juvenile	Miserables.txt 1
 juxta	NotreDame_De_Paris.txt 1
-juxtaposition	NotreDame_De_Paris.txt 1, Miserables.txt 3
+juxtaposition	Miserables.txt 3, NotreDame_De_Paris.txt 1
