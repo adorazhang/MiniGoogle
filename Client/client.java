@@ -15,21 +15,15 @@ public class client {
 	 * @throws java.io.IOException
 	 */
 	public static void main(String[] args) throws IOException {
+		Socket uiShell = utility.getService("MiniGoogle");
+		DataOutputStream output = new DataOutputStream(uiShell.getOutputStream());
 
-		/////////////////////////////////////////////////////////////////////////////
-		// done with the name server, now start requesting service from minigoogle //
-		/////////////////////////////////////////////////////////////////////////////
+		int request=2;
+		String para="";
 
 		ServerSocket clientServer = new ServerSocket(0);
 		String myIP = utility.getIP();
 		int myPort = clientServer.getLocalPort();
-
-		Socket uiShell = utility.getService("MiniGoogle");
-		OutputStream outToGoogle = uiShell.getOutputStream();
-		DataOutputStream output = new DataOutputStream(outToGoogle);
-
-		int request=2;
-		String para="";
 
 		// ask for service
 		if(args.length!=2){
@@ -52,24 +46,21 @@ public class client {
 			output.writeInt(myPort);
 		}
 		uiShell.close();
+		output.close();
 
-		while (true) { // busy wait for result
-			Socket conn = clientServer.accept();
-			if (request == 1) { // index request
-				InputStream inFromGoogle = conn.getInputStream();
-				DataInputStream input = new DataInputStream(inFromGoogle);
-				if (input.readByte() == 11) {
-					System.out.println(">>> Indexing success!");
-				}
-			}
-			else if (request == 2) { // query request
-				InputStream inFromGoogle = conn.getInputStream();
-				DataInputStream input = new DataInputStream(inFromGoogle);
-				if(input.readByte()==13) {
-					System.out.println(">>> miniGoogle returned:");
-					//String data = input.readUTF();
-				}
-			}
+		Socket conn = null;
+
+		//wait for result
+		conn = clientServer.accept();
+		DataInputStream input = new DataInputStream(conn.getInputStream());
+		if (request == 1 && input.readByte() == 11 ) { // index request
+			System.out.println(">>> Indexing success!");
 		}
+		else if (request == 2 && input.readByte() == 13 ) { // query request
+			System.out.println(">>> miniGoogle returned:");
+			String data = input.readUTF();
+			System.out.print(data);
+		}
+		conn.close();
 	}
 }

@@ -5,6 +5,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.Socket;
+import java.util.List;
 import java.util.concurrent.BlockingQueue;
 
 
@@ -12,7 +13,6 @@ public class handleConnGoogle extends Thread {
 	protected BlockingQueue<Request> queue = null;
 	private Socket conn;
 	private DataInputStream in;
-	private DataOutputStream out;
 	
 	handleConnGoogle(Socket connection, BlockingQueue<Request> queue){
 		this.queue = queue;
@@ -20,23 +20,22 @@ public class handleConnGoogle extends Thread {
 	}
 
 	public void run(){
-		// listen to client requests
 		try {
 			in = new DataInputStream(conn.getInputStream());
 			byte type = in.readByte();
 		    String data = in.readUTF();
 			String clientIP = in.readUTF();
 			int clientPort = in.readInt();
-			Socket socket2client = new Socket(clientIP, clientPort);
-			DataOutputStream out = new DataOutputStream(socket2client.getOutputStream());
 
 		    switch(type){
 		    case 10: // indexing request from client
-				index(data); // not concurrent at all.
+				index(data, clientIP, clientPort); // not concurrent for indexing requests.
+				in.close();
 		    	break;
 		    case 12: // query request from client
 				// put in the queue
 				queue.put(new Request(clientIP,clientPort,data));
+				in.close();
 		    	break;
 		    default:
 		    	System.out.println("Packet type not supported!");
@@ -50,7 +49,20 @@ public class handleConnGoogle extends Thread {
 		}
 	}
 
-	private void index(String dir) {
+	private void index(String dir, String IP, int Port) throws IOException {
+		// deal with dir
+		List<String> allFiles = utility.getFileList("C:\\MiniGoogle\\Books");
 
+		int currentID = 1;
+		for(String file:allFiles){
+			// create a thread to assign a job
+			// wait for all successes
+			currentID++;
+		}
+
+		// if success
+		Socket client = new Socket(IP, Port);
+		DataOutputStream out = new DataOutputStream(client.getOutputStream());
+		out.writeByte(11); //success
 	}
 }

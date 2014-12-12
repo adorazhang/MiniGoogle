@@ -1,12 +1,17 @@
 package MiniGoogleServer;
 
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.Socket;
+
 /**
  * Created by Adora on 12/11/2014.
  */
 public class Request {
-    private String IP;
-    private int Port;
-    private String query;
+    public String IP;
+    public int Port;
+    public String query;
 
     Request(String IP, int Port, String query){
         this.IP = IP;

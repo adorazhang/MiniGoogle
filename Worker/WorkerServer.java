@@ -14,8 +14,7 @@ public class WorkerServer extends Thread {
     
     public WorkerServer() throws IOException{
         serverSocket = new ServerSocket(0);  //if port equals 0, the system will allocate an idle port
-        utility.registerService(serverSocket.getLocalPort(), "Mapper");
-        utility.registerService(serverSocket.getLocalPort(), "Reducer");
+        utility.registerService(serverSocket.getLocalPort(), "Worker");
     }
     
     @Override
@@ -24,13 +23,13 @@ public class WorkerServer extends Thread {
     }
 
 
-    private void workerServerManager(){
-    	//socket
-        try{
+    private void workerServerManager() {
+        //socket
+        try {
             //listen to master's request
             Socket server = serverSocket.accept();
             DataInputStream in = new DataInputStream(server.getInputStream());
-            
+
             //split the message and handle the task
             byte MsgID = in.readByte();
 
@@ -50,45 +49,44 @@ public class WorkerServer extends Thread {
             //return Master the result (succ and file path)
 
             switch (MsgID) {
-            case 1:
-                String inputFile = in.readUTF();
-                String mapperID = in.readUTF();
-                createIndexMapperTask(inputFile, mapperID);
-                System.out.println("finish mapper");
-            case 2: // TODO
-                String reducerID = in.readUTF();
-                String reducerFilenamePrefix = in.readUTF();
-                List<String> inputFiles = new ArrayList<String>();
-                int num = in.readInt();
-                for(int i=0; i<num; i++) {
-                    String input = in.readUTF();
-                    inputFiles.add(input);
-                }
-                createReducerTask(inputFiles, reducerID, reducerFilenamePrefix);
+                case 1:
+                    String inputFile = in.readUTF();
+                    String mapperID = in.readUTF();
+                    createIndexMapperTask(inputFile, mapperID);
+                    System.out.println("finish mapper");
+                case 2: // TODO
+                    String reducerID = in.readUTF();
+                    String reducerFilenamePrefix = in.readUTF();
+                    List<String> inputFiles = new ArrayList<String>();
+                    int num = in.readInt();
+                    for (int i = 0; i < num; i++) {
+                        String input = in.readUTF();
+                        inputFiles.add(input);
+                    }
+                    createReducerTask(inputFiles, reducerID, reducerFilenamePrefix);
 
                 /*String reducerFilenamePrefix = "invertedIndex";
                 List<String> reducerIutputFiles = new ArrayList<String>();
                 reducerIutputFiles.add("combiner_1_outcome_a.txt");
                 reducerIutputFiles.add("combiner_2_outcome_a.txt");
                 String reducerID = "1";*/
-                System.out.println("finish reducer");
-            case 3:
-                //String
-                String query = in.readUTF();
-                createQueryMapperTask(query);
+                    System.out.println("finish reducer");
+                case 3:
+                    //String
+                    String query = in.readUTF();
+                    createQueryMapperTask(query);
             }
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-            try{
+            try {
                 if (serverSocket != null)
                     serverSocket.close();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
-    
     
     private void createIndexMapperTask(String inputFile, String mapperID){
         Thread m = new IndexMapper(inputFile, mapperID);
