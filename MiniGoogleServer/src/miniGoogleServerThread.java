@@ -2,25 +2,22 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class serverThread extends Thread {
+public class miniGoogleServerThread extends Thread {
 	private ServerSocket serverSocket;
 
 	public void run() {
 		try {
 			serverSocket = new ServerSocket(0);
-			//serverSocket = new ServerSocket(0);
+			// register on name server
+			utility.registerService(serverSocket.getLocalPort());
 			while (true) { // busy wait
 				Socket conn = serverSocket.accept();
-	            Thread handle = new handleConn(conn);
+	            Thread handle = new handleConnGoogle(conn);
 	            handle.start();
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
-	
-	public int getPort(){
-		return serverSocket.getLocalPort();
 	}
 }

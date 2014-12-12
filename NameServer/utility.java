@@ -1,3 +1,5 @@
+package NameServer;
+
 import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;

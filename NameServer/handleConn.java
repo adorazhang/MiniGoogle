@@ -1,18 +1,20 @@
+package NameServer;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
-public class handleConnNS extends Thread {
+public class handleConn extends Thread {
 	private Socket conn;
-	private DataInputStream in;
-	private DataOutputStream out;
 	
-	handleConnNS(Socket connection){
+	handleConn(Socket connection){
 		conn = connection;
 	}
 	
 	public void run(){
+		DataInputStream in;
+		DataOutputStream out;
 		try {
 			in = new DataInputStream(conn.getInputStream());
 		    out = new DataOutputStream( conn.getOutputStream());
@@ -22,11 +24,12 @@ public class handleConnNS extends Thread {
 		    switch(type){
 		    case 0:
 			    nameServer.table.addEntry(parts[0], parts[1]);
+			    nameServer.table.printOut();
 			    out.writeByte(1);
 			    out.writeUTF(parts[0]);
 		    	break;
 		    case 2:
-			    out.writeByte(3);
+			    out.writeByte(1);
 			    out.writeUTF(nameServer.table.getService(data));
 		    	break;
 		    default:

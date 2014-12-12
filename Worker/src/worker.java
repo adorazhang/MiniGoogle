@@ -1,5 +1,5 @@
 
-public class Main {
+public class worker {
     
     public static void main(String [] args) throws Exception{
         

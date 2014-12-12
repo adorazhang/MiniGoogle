@@ -19,46 +19,25 @@ public class client {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-		// read the location of the name server
-		BufferedReader br = new BufferedReader(new FileReader("C:/nameServer"));
-		String nsIP = br.readLine();
-		int nsPort = Integer.parseInt(br.readLine());
-
-		// connect to the name server, ask for miniGoogle's location
-		Socket client = new Socket(nsIP, nsPort);
-		OutputStream outToServer = client.getOutputStream();
-		DataOutputStream out = new DataOutputStream(outToServer);
-
-		// ask for service
-		out.writeByte(2);
-		out.writeUTF("MiniGoogle");
-
-		// get acknowledgment
-		InputStream inFromServer = client.getInputStream();
-		DataInputStream in = new DataInputStream(inFromServer);
-		if(in.readByte()==3) {
-			String data = in.readUTF();
-			String[] parts = data.split(":");
-			googleIP = parts[0];
-			googlePort = Integer.parseInt(parts[1]);
-		}
-
-		client.close();
 
 		/////////////////////////////////////////////////////////////////////////////
 		// done with the name server, now start requesting service from minigoogle //
 		/////////////////////////////////////////////////////////////////////////////
 
-		Socket uiShell = new Socket(googleIP, googlePort);
+		Socket uiShell = utility.getService("MiniGoogle");
 		OutputStream outToGoogle = uiShell.getOutputStream();
 		DataOutputStream output = new DataOutputStream(outToGoogle);
 
 		// ask for service
-		int request = 0;
-		if(request == 0) // indexing request
+		if(args.length!=2){
+			System.out.println("Usage:\n>./java client 1 \"PathName\"\n>./java client 2 \"Keywords\"");
+			return;
+		}
+		int request = Integer.parseInt(args[0]);
+		if(request == 1) // indexing request
 		{
 			output.writeByte(10);
-			output.writeUTF("C:/Books");
+			output.writeUTF(args[1]);
 			// get result
 			InputStream inFromGoogle = uiShell.getInputStream();
 			DataInputStream input = new DataInputStream(inFromGoogle);
@@ -66,10 +45,10 @@ public class client {
 				System.out.println(">>> Indexing success!");
 			}
 		}
-		else if(request == 1) // query request
+		else if(request == 2) // query request
 		{
 			output.writeByte(12);
-			output.writeUTF("love,I,a");
+			output.writeUTF(args[1]);
 			// get result
 			InputStream inFromGoogle = uiShell.getInputStream();
 			DataInputStream input = new DataInputStream(inFromGoogle);

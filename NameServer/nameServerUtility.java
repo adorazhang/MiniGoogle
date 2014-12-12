@@ -1,9 +1,11 @@
-import java.net.InetAddress;
-import java.net.NetworkInterface;
-import java.net.SocketException;
+package NameServer;
+
+import java.io.*;
+import java.net.*;
 import java.util.Enumeration;
 
-public class utility {
+public class nameServerUtility {
+	
 	static String getIP() throws SocketException{
 		for (Enumeration<NetworkInterface> en = NetworkInterface.getNetworkInterfaces(); en.hasMoreElements();) {
 			NetworkInterface intf = en.nextElement();
