@@ -1,5 +1,3 @@
-package Worker;
-
 import java.io.*;
 import java.net.Socket;
 
@@ -20,9 +18,7 @@ public class QueryMapper extends Thread{
 			soc = utility.getService("MiniGoogle");
 			DataOutputStream out = new DataOutputStream(soc.getOutputStream());
 			out.writeByte(51);
-			if(keyword.length()<4) out.writeUTF(keyword+"\t\t\t"+s);
-			else if(keyword.length()<8) out.writeUTF(keyword+"\t\t"+s);
-			else out.writeUTF(keyword+"\t"+s);
+			out.writeUTF(keyword+":\n"+s);
 			soc.close();
 			out.close();
 		} catch (IOException e) {
@@ -32,7 +28,7 @@ public class QueryMapper extends Thread{
 
 	public String queryMap(){
         
-		String invertedIndexPath = "C:\\MiniGoogle\\Worker\\invertedIndex_" + keyword.charAt(0) + ".txt";
+		String invertedIndexPath = "/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/reducerout/" + keyword.charAt(0);
 
     	String outcome = null;
     	int findFlag = -1;

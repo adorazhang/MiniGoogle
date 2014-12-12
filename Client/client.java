@@ -1,5 +1,3 @@
-package Client;
-
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -59,7 +57,8 @@ public class client {
 		else if (request == 2 && input.readByte() == 13 ) { // query request
 			System.out.println(">>> miniGoogle returned:");
 			String data = input.readUTF();
-			System.out.print(data);
+			String outout = data.replace(", ", "\n");;
+			System.out.print(outout);
 		}
 		conn.close();
 	}

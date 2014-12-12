@@ -1,5 +1,3 @@
-package Client;
-
 import java.io.*;
 import java.net.InetAddress;
 import java.net.NetworkInterface;
@@ -14,7 +12,8 @@ public class utility {
 			for (Enumeration<InetAddress> enumIpAddr = intf.getInetAddresses(); enumIpAddr.hasMoreElements();) {
 				InetAddress inetAddress = enumIpAddr.nextElement();
 				if (!inetAddress.isLoopbackAddress()) {
-					return inetAddress.getHostAddress().toString();
+					String ip = inetAddress.getHostAddress().toString();
+					if(ip.startsWith("136")) return ip;
 				}
 			}
 		}
@@ -23,7 +22,7 @@ public class utility {
 
 	public static void registerService(int PORT) throws IOException {
 		// read the location of the name server
-		BufferedReader br = new BufferedReader(new FileReader("C:/NameServer"));
+		BufferedReader br = new BufferedReader(new FileReader("/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/nameserver"));
 		String nsIP = br.readLine();
 		int nsPort = Integer.parseInt(br.readLine());
 
@@ -45,7 +44,7 @@ public class utility {
 
 	public static Socket getService(String service) throws IOException {
 		// read the location of the name server
-		BufferedReader br = new BufferedReader(new FileReader("C:/nameServer"));
+		BufferedReader br = new BufferedReader(new FileReader("/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/nameserver"));
 		String nsIP = br.readLine();
 		int nsPort = Integer.parseInt(br.readLine());
 

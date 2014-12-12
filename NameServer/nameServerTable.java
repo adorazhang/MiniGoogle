@@ -1,5 +1,3 @@
-package NameServer;
-
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 

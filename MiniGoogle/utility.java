@@ -3,7 +3,11 @@ import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.Socket;
 import java.net.SocketException;
+import java.util.ArrayList;
 import java.util.Enumeration;
+import java.io.File;
+import java.util.List;
+import java.util.Vector;
 
 public class utility {
 	static String getIP() throws SocketException{
@@ -20,11 +24,12 @@ public class utility {
 		return "";
 	}
 
-	public static void registerService(int PORT, String service) throws IOException {
+	public static void registerService(int PORT) throws IOException {
 		// read the location of the name server
 		BufferedReader br = new BufferedReader(new FileReader("../nameserver"));
 		String nsIP = br.readLine();
 		int nsPort = Integer.parseInt(br.readLine());
+	
 
 		// connect to the name server, register
 		Socket client = new Socket(nsIP, nsPort);
@@ -33,7 +38,7 @@ public class utility {
 		
 		// register service
 		out.writeByte(0);
-		out.writeUTF(service+"#"+getIP()+":"+PORT);
+		out.writeUTF("MiniGoogle#"+getIP()+":"+PORT);
 		
 		// get acknowledgment
 		InputStream inFromServer = client.getInputStream();
@@ -69,5 +74,24 @@ public class utility {
 		}
 		client.close();
 		return null;
+	}
+
+	public static List<String> getFileList(String dirName){
+		List<String> fileList = new ArrayList<String>();
+		Vector<String> ver = new Vector<String>();  //use as stack
+		ver.add(dirName);   //put the root folder into stack
+		while(ver.size()>0){
+			File[] files = new File(ver.get(0).toString()).listFiles();
+			ver.remove(0);
+			int len=files.length;
+			for(int i=0; i<len ; ++i){
+				String tmp=files[i].getAbsolutePath();
+				if(files[i].isDirectory())    //if is directory, put into stack
+					ver.add(tmp);
+				else
+					fileList.add(tmp);
+			}
+		}
+		return fileList;
 	}
 }

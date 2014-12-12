@@ -1,4 +1,3 @@
-package Worker;
 //inverted index: consists of index nodes
 //<key, value> = <word, arraylist>
 

@@ -1,5 +1,3 @@
-package Worker;
-
 public class worker {
     
     public static void main(String [] args) throws Exception{

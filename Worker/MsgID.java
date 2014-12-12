@@ -1,5 +1,3 @@
-package Worker;
-
 public class MsgID {
     public static final int REGISTER = 1;
     public static final int REGISTER_REPLY = 2;

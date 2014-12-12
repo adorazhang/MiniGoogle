@@ -1,5 +1,3 @@
-package NameServer;
-
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
@@ -16,9 +14,9 @@ public class nameServer {
 		thread.start();
 		
 		// write itself to an AFS file
-		String IP = nameServerUtility.getIP();
+		String IP = utility.getIP();
 		System.out.println(">>> Name server starts on "+IP+":"+thread.getPort());
-		PrintWriter writer = new PrintWriter("C:/NameServer", "UTF-8");
+		PrintWriter writer = new PrintWriter("/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/nameserver", "UTF-8");
 		writer.println(IP+"\n"+thread.getPort());
 		writer.close();
 	}

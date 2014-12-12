@@ -1,5 +1,3 @@
-package NameServer;
-
 import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
@@ -12,7 +10,8 @@ public class utility {
 			for (Enumeration<InetAddress> enumIpAddr = intf.getInetAddresses(); enumIpAddr.hasMoreElements();) {
 				InetAddress inetAddress = enumIpAddr.nextElement();
 				if (!inetAddress.isLoopbackAddress()) {
-					return inetAddress.getHostAddress().toString();
+					String ip = inetAddress.getHostAddress().toString();
+					if(ip.startsWith("136")) return ip;
 				}
 			}
 		}

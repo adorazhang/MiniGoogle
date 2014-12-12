@@ -1,5 +1,3 @@
-package Worker;
-
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -45,14 +43,13 @@ public class WorkerServer extends Thread {
                     String input = in.readUTF();
                     String[] names = input.split("#");
 
-                    String reducerFilenamePrefix = "C:\\MiniGoogle\\reducerout\\";
+                    String reducerFilenamePrefix = "../reducerout/";
                     List<String> inputFiles = new ArrayList<String>();
                     for(String name:names){
                         inputFiles.add(name);
                     }
 
                     createReducerTask(inputFiles, reducerID, reducerFilenamePrefix);
-                    System.out.println(">>> Finished index reducing!");
                     break;
                 case 3:
                     //String

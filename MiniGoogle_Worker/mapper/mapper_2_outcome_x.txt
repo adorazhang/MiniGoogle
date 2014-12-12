@@ -1,8 +1,0 @@
-x	NotreDame_De_Paris.txt 1
-xaxov	NotreDame_De_Paris.txt 1
-xi	NotreDame_De_Paris.txt 59
-xii	NotreDame_De_Paris.txt 2
-xiii	NotreDame_De_Paris.txt 3
-xiv	NotreDame_De_Paris.txt 6
-xv	NotreDame_De_Paris.txt 7
-xvi	NotreDame_De_Paris.txt 1

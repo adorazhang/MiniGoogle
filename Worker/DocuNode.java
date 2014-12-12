@@ -1,5 +1,3 @@
-package Worker;
-
 ////not used yet
 //Document name + word frequency, the elements of a word's information
 public class DocuNode implements Comparable<DocuNode>{

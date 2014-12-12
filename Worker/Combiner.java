@@ -1,5 +1,3 @@
-package Worker;
-
 import java.io.*;
 import java.net.Socket;
 import java.util.ArrayList;
@@ -22,7 +20,7 @@ public class Combiner extends Thread{
         inputFiles = inputFiles0;
         combinerID = combinerID0;
         outputFilenames = new ArrayList<String>();
-        outputFilePrefix = "C:\\MiniGoogle\\combinerout\\" + combinerID;
+        outputFilePrefix = "/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/combinerout/" + combinerID;
     }
     
     @Override
@@ -59,8 +57,6 @@ public class Combiner extends Thread{
         m.mergeAndSort(inputFiles, nodeList);
         /*end merge and sort*/
         
-        
-        /*combine： combine the same word's information*/
         //get the first node in List
         IndexNode curNode = nodeList.get(0);
         //key
@@ -69,7 +65,7 @@ public class Combiner extends Thread{
         String preKeyword = curKeyword;                     //previous word
         char preInitLetter = curInitLetter;                 //previous word's initial letter
         //output filename
-        String location = outputFilePrefix + curInitLetter + ".txt";         //output file location, varies according to initial letter
+        String location = outputFilePrefix + curInitLetter;         //output file location, varies according to initial letter
         outputFilenames.add(location);
         
         //value
@@ -160,10 +156,15 @@ public class Combiner extends Thread{
                         
                         //the new word has different initial letter as previous word
                         if (curInitLetter != preInitLetter){
-                            location = outputFilePrefix + curInitLetter + ".txt";//new output file name
+                            location = outputFilePrefix + curInitLetter;//new output file name
                             outputFilenames.add(location);
                             preInitLetter = curInitLetter;
                             writer.close();
+
+                            outputFile = new File(location);
+                            fileWriter = new FileWriter(outputFile);
+                            writer = new BufferedWriter(fileWriter);
+
                             ++i;
                             break;
                         } 

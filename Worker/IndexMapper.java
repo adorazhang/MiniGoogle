@@ -1,7 +1,4 @@
-package Worker;
-
 import java.io.*;
-import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
@@ -35,7 +32,7 @@ public class IndexMapper extends Thread{
             BufferedReader reader = new BufferedReader(fileReader);
             
             //output file: temporary outcome
-            outputFilename += ("C:\\MiniGoogle\\mapperout\\" + mapperID + ".txt");
+            outputFilename += ("/afs/cs.pitt.edu/usr0/qz/public/MiniGoogle/mapperout/" + mapperID + ".txt");
             File outputFile = new File(outputFilename);
             FileWriter fileWriter = new FileWriter(outputFile);
             BufferedWriter writer = new BufferedWriter(fileWriter); 
