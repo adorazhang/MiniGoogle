@@ -1,0 +1,15 @@
+z	NotreDame_De_Paris.txt 2
+zarach	NotreDame_De_Paris.txt 2
+zeal	NotreDame_De_Paris.txt 1
+zenith	NotreDame_De_Paris.txt 1
+zephirod	NotreDame_De_Paris.txt 1
+zigzag	NotreDame_De_Paris.txt 2
+zigzags	NotreDame_De_Paris.txt 3
+zingara	NotreDame_De_Paris.txt 1
+zingari	NotreDame_De_Paris.txt 1
+zip	NotreDame_De_Paris.txt 1
+ziruph	NotreDame_De_Paris.txt 1
+zone	NotreDame_De_Paris.txt 7
+zones	NotreDame_De_Paris.txt 3
+zoroaster	NotreDame_De_Paris.txt 2
+zounds	NotreDame_De_Paris.txt 1

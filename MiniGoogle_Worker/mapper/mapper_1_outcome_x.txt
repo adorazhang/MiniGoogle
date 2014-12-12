@@ -1,0 +1,15 @@
+x	Miserables.txt 37
+xi	Miserables.txt 27
+xii	Miserables.txt 17
+xiii	Miserables.txt 17
+xiv	Miserables.txt 23
+xix	Miserables.txt 6
+xv	Miserables.txt 20
+xvi	Miserables.txt 23
+xvii	Miserables.txt 12
+xviii	Miserables.txt 34
+xx	Miserables.txt 4
+xxi	Miserables.txt 4
+xxii	Miserables.txt 4
+xxiii	Miserables.txt 2
+xxiv	Miserables.txt 2
