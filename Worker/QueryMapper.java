@@ -1,8 +1,7 @@
 package Worker;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
+import java.io.*;
+import java.net.Socket;
 
 
 public class QueryMapper extends Thread{
@@ -15,13 +14,26 @@ public class QueryMapper extends Thread{
 	
 	public void run(){
 		String s = queryMap();
-		System.out.print(s);
+		// report finish to google
+		Socket soc = null;
+		try {
+			soc = utility.getService("MiniGoogle");
+			DataOutputStream out = new DataOutputStream(soc.getOutputStream());
+			out.writeByte(51);
+			if(keyword.length()<4) out.writeUTF(keyword+"\t\t\t"+s);
+			else if(keyword.length()<8) out.writeUTF(keyword+"\t\t"+s);
+			else out.writeUTF(keyword+"\t"+s);
+			soc.close();
+			out.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	public String queryMap(){
         
-		String invertedIndexPath = "invertedIndex_" + keyword.charAt(0) + ".txt";
-		
+		String invertedIndexPath = "C:\\MiniGoogle\\Worker\\invertedIndex_" + keyword.charAt(0) + ".txt";
+
     	String outcome = null;
     	int findFlag = -1;
     	
@@ -55,7 +67,7 @@ public class QueryMapper extends Thread{
         	return outcome;
         }
         else
-        	return "fail";
+        	return "";
     }
 	
 }

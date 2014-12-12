@@ -18,6 +18,9 @@ public class handleConnGoogle extends Thread {
 	protected BlockingQueue<Request> queue = null;
 	private Socket conn;
 	private DataInputStream in;
+	static Vector<String> mapperComplete = new Vector<String>();
+	static Vector<String> querierComplete = new Vector<String>();
+	static Vector<String> inputFiles = new Vector<String>();
 
 	handleConnGoogle(Socket connection, BlockingQueue<Request> queue){
 		this.queue = queue;
@@ -50,8 +53,12 @@ public class handleConnGoogle extends Thread {
 			case 50: // indexing result from mapper
 				String mapperID = in.readUTF();
 				String filename = in.readUTF();
-				miniGoogle.mapperComplete.add(mapperID);
-				miniGoogle.inputFiles.add(filename);
+				mapperComplete.add(mapperID);
+				inputFiles.add(filename);
+				break;
+			case 51: // indexing result from querier
+				String result = in.readUTF();
+				querierComplete.add(result+"\n");
 				break;
 		    default:
 		    	System.out.println("Packet type not supported!");
@@ -79,16 +86,15 @@ public class handleConnGoogle extends Thread {
 			out.writeUTF(key);
 			currentID++;
 		}
-		currentID--;
 
 		// wait for successes from the mappers
 		while(true){
 			// received all results
-			if(miniGoogle.mapperComplete.size() == currentID) break;
+			if(mapperComplete.size() == allFiles.size()) break;
 		}
 
 		// do combining
-		Combiner c = new Combiner(miniGoogle.inputFiles);
+		Combiner c = new Combiner(inputFiles);
 		List<String> files = c.run();
 
 

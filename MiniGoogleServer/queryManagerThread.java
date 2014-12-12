@@ -19,6 +19,7 @@ public class queryManagerThread extends Thread {
         while(true) {
             try {
                 Request req = queue.take();
+                handleConnGoogle.querierComplete.removeAllElements();
                 handleRequest(req);
             } catch (InterruptedException e) {
                 e.printStackTrace();
@@ -30,11 +31,26 @@ public class queryManagerThread extends Thread {
 
     private void handleRequest(Request req) throws IOException {
         System.out.println(">>> Query request received: "+req);
-        String[] keywords = req.query.split(",");
+        String[] keywords = req.query.split(" ");
 
-        Socket worker = utility.getService("Worker");
+
+        for(String keyword:keywords){	// assign jobs
+            Socket soc = utility.getService("Worker");
+            DataOutputStream out = new DataOutputStream(soc.getOutputStream());
+            out.writeByte(3); // Query
+            out.writeUTF(keyword);
+        }
+
         String result = "";
+        // wait for successes from the queriers
+        while(true){
+            // received all results
+            if(handleConnGoogle.querierComplete.size() == keywords.length) break;
+        }
 
+        for(String res:handleConnGoogle.querierComplete){
+            result += res;
+        }
 
         // send back results
         Socket client = new Socket(req.IP, req.Port);
