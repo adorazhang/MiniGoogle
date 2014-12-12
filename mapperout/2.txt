@@ -1,0 +1,4 @@
+bear	C:\MiniGoogle\Books\book2.txt 1
+a	C:\MiniGoogle\Books\book2.txt 1
+apple	C:\MiniGoogle\Books\book2.txt 1
+bear	C:\MiniGoogle\Books\book2.txt 1

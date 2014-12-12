@@ -1,5 +1,7 @@
 package Worker;
 
+import MiniGoogleServer.Combiner;
+
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -19,7 +21,9 @@ public class WorkerServer extends Thread {
     
     @Override
     public void run(){
-        workerServerManager();
+        while(true) {
+            workerServerManager();
+        }
     }
 
 
@@ -32,28 +36,13 @@ public class WorkerServer extends Thread {
 
             //split the message and handle the task
             byte MsgID = in.readByte();
-
-            //2.1 mapper
-            //2.1.1 indexing service
-            //read source file
-            //word count
-            //combiner
-            //generate local outcome file
-            //return Master the result
-
-            //2.2 reducer
-            //2.2.1 indexing service
-            //get intermediate outcome from mapper (AFS read)
-            //word count, sort and merge
-            //generate global outcome file (partial inverted index)
-            //return Master the result (succ and file path)
-
             switch (MsgID) {
                 case 1:
                     String inputFile = in.readUTF();
                     String mapperID = in.readUTF();
                     createIndexMapperTask(inputFile, mapperID);
-                    System.out.println("finish mapper");
+                    System.out.println(">>> Finished index mapping!");
+                    break;
                 case 2: // TODO
                     String reducerID = in.readUTF();
                     String reducerFilenamePrefix = in.readUTF();
@@ -64,47 +53,22 @@ public class WorkerServer extends Thread {
                         inputFiles.add(input);
                     }
                     createReducerTask(inputFiles, reducerID, reducerFilenamePrefix);
-
-                /*String reducerFilenamePrefix = "invertedIndex";
-                List<String> reducerIutputFiles = new ArrayList<String>();
-                reducerIutputFiles.add("combiner_1_outcome_a.txt");
-                reducerIutputFiles.add("combiner_2_outcome_a.txt");
-                String reducerID = "1";*/
-                    System.out.println("finish reducer");
+                    System.out.println(">>> Finished index reducing!");
+                    break;
                 case 3:
                     //String
                     String query = in.readUTF();
                     createQueryMapperTask(query);
+                    break;
             }
         } catch (Exception e) {
             e.printStackTrace();
-        } finally {
-            try {
-                if (serverSocket != null)
-                    serverSocket.close();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
         }
     }
     
     private void createIndexMapperTask(String inputFile, String mapperID){
         Thread m = new IndexMapper(inputFile, mapperID);
         m.start();
-    }
-
-    //combiner
-    /*List<String> combinerInputFiles = new ArrayList<String>();
-    combinerInputFiles.add("mapper_1_outcome.txt");
-    combinerInputFiles.add("mapper_2_outcome.txt");
-    String combinerID = "1";
-
-    createCombinerTask(combinerInputFiles, combinerID);
-    System.out.println("finish combiner");*/
-
-    private void createCombinerTask(List<String> inputFiles, String combinerID){
-        Thread c = new Combiner(inputFiles, combinerID);
-        c.start();
     }
     
     private void createReducerTask(List<String> inputFiles, String combinerID, String outputFilePrefix){

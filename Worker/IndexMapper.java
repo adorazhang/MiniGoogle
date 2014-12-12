@@ -1,6 +1,7 @@
 package Worker;
 
 import java.io.*;
+import java.net.Socket;
 import java.util.StringTokenizer;
 
 public class IndexMapper extends Thread{
@@ -33,7 +34,7 @@ public class IndexMapper extends Thread{
             BufferedReader reader = new BufferedReader(fileReader);
             
             //output file: temporary outcome
-            outputFilename += ("mapper_" + mapperID + "_outcome.txt");
+            outputFilename += ("C:\\MiniGoogle\\mapperout\\" + mapperID + ".txt");
             File outputFile = new File(outputFilename);
             FileWriter fileWriter = new FileWriter(outputFile);
             BufferedWriter writer = new BufferedWriter(fileWriter); 
@@ -54,17 +55,20 @@ public class IndexMapper extends Thread{
             }
             reader.close();
             writer.close();
-        
+
+            // report finish to google
+            Socket soc = utility.getService("MiniGoogle");
+            DataOutputStream out = new DataOutputStream(soc.getOutputStream());
+            out.writeByte(50);
+            out.writeUTF(mapperID);
+            out.writeUTF(outputFilename);
+            soc.close();
+            out.close();
         } catch (Exception e) {
             e.printStackTrace();
-        } 
-        
+        }
     }
-    
-    
-    
-   
-    
+
     
   //2.1 mapper
     //2.1.1 indexing service 
