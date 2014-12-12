@@ -50,7 +50,7 @@ public class Reducer extends Thread{
         char curInitLetter = curKeyword.charAt(0);          //current word's initial letter
         String preKeyword = curKeyword;                     //previous word
         //char preInitLetter = curInitLetter;                 //previous word's initial letter
-        String location = outputFilePrefix + "_" + curInitLetter + ".txt";         //output file location, varies according to initial letter
+        String location = outputFilePrefix + curInitLetter + ".txt";         //output file location, varies according to initial letter
         String outputFilename = new String(location);
         
         //value: document1 frequency1, focument2 frequency2, ...

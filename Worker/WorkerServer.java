@@ -1,7 +1,5 @@
 package Worker;
 
-import MiniGoogleServer.Combiner;
-
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -41,17 +39,18 @@ public class WorkerServer extends Thread {
                     String inputFile = in.readUTF();
                     String mapperID = in.readUTF();
                     createIndexMapperTask(inputFile, mapperID);
-                    System.out.println(">>> Finished index mapping!");
                     break;
                 case 2: // TODO
                     String reducerID = in.readUTF();
-                    String reducerFilenamePrefix = in.readUTF();
+                    String input = in.readUTF();
+                    String[] names = input.split("#");
+
+                    String reducerFilenamePrefix = "C:\\MiniGoogle\\reducerout\\";
                     List<String> inputFiles = new ArrayList<String>();
-                    int num = in.readInt();
-                    for (int i = 0; i < num; i++) {
-                        String input = in.readUTF();
-                        inputFiles.add(input);
+                    for(String name:names){
+                        inputFiles.add(name);
                     }
+
                     createReducerTask(inputFiles, reducerID, reducerFilenamePrefix);
                     System.out.println(">>> Finished index reducing!");
                     break;

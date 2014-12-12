@@ -93,21 +93,16 @@ public class handleConnGoogle extends Thread {
 			if(mapperComplete.size() == allFiles.size()) break;
 		}
 
-		// do combining
-		Combiner c = new Combiner(inputFiles);
-		List<String> files = c.run();
-
-
-		//combiner
-    /*List<String> combinerInputFiles = new ArrayList<String>();
-    combinerInputFiles.add("mapper_1_outcome.txt");
-    combinerInputFiles.add("mapper_2_outcome.txt");
-    String combinerID = "1";
-
-    createCombinerTask(combinerInputFiles, combinerID);
-    System.out.println("finish combiner");*/
-
 		// do reducing
+		for(String file:inputFiles){
+			String key = Integer.toString(currentID);
+			Socket soc = utility.getService("Worker");
+			DataOutputStream out = new DataOutputStream(soc.getOutputStream());
+			out.writeByte(2); // Reducing
+			out.writeUTF(key);
+			out.writeUTF(file);
+			currentID++;
+		}
 
 		// if success
 		Socket client = new Socket(IP, Port);

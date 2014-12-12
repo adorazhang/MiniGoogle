@@ -2,6 +2,8 @@ package Worker;
 
 import java.io.*;
 import java.net.Socket;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class IndexMapper extends Thread{
@@ -19,8 +21,7 @@ public class IndexMapper extends Thread{
     @Override
     public void run(){
         indexMap();
-        //reply server 
-        
+        //reply server
     }
 
     
@@ -55,21 +56,18 @@ public class IndexMapper extends Thread{
             }
             reader.close();
             writer.close();
-
-            // report finish to google
-            Socket soc = utility.getService("MiniGoogle");
-            DataOutputStream out = new DataOutputStream(soc.getOutputStream());
-            out.writeByte(50);
-            out.writeUTF(mapperID);
-            out.writeUTF(outputFilename);
-            soc.close();
-            out.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
+        List<String> combinerInputFiles = new ArrayList<String>();
+        combinerInputFiles.add(outputFilename);
+        createCombinerTask(combinerInputFiles, mapperID);
     }
 
-    
+    private void createCombinerTask(List<String> inputFiles, String combinerID){
+        Thread c = new Combiner(inputFiles, combinerID);
+        c.start();
+    }
   //2.1 mapper
     //2.1.1 indexing service 
     //word count

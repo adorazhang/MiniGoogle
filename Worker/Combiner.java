@@ -1,9 +1,13 @@
 package Worker;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.util.*;
+import java.io.*;
+import java.net.Socket;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 import java.util.Map.Entry;
 
 
@@ -18,15 +22,31 @@ public class Combiner extends Thread{
         inputFiles = inputFiles0;
         combinerID = combinerID0;
         outputFilenames = new ArrayList<String>();
-        outputFilePrefix = "combiner_" + combinerID + "_outcome_";
+        outputFilePrefix = "C:\\MiniGoogle\\combinerout\\" + combinerID;
     }
     
     @Override
     public void run(){
         //combine
         outputFilenames = combine();
-        
-        //reply the result to master 
+        String outputFilenamesAll = "";
+        for(String name:outputFilenames){
+            outputFilenamesAll = outputFilenamesAll + "#" + name;
+        }
+
+        // report finish to google
+        Socket soc = null;
+        try {
+            soc = utility.getService("MiniGoogle");
+            DataOutputStream out = new DataOutputStream(soc.getOutputStream());
+            out.writeByte(50);
+            out.writeUTF(combinerID);
+            out.writeUTF(outputFilenamesAll);
+            soc.close();
+            out.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
     
     
@@ -109,10 +129,10 @@ public class Combiner extends Thread{
                         	DocuList.add(d);
                         }
                         Collections.sort(DocuList);
-
+                    	
                         /*write the previous word and its information into file*/
                         StringBuilder wordInfo = new StringBuilder();
-
+                        
                         Iterator<DocuNode> iter2 = DocuList.iterator();
                         if(iter2.hasNext()){
                         	DocuNode d = iter2.next();
@@ -123,21 +143,21 @@ public class Combiner extends Thread{
                         	wordInfo.append(", ");
                             wordInfo.append(d.getDocuName() + " " + d.getWordFrequency());
                         }
-
+  
                         //write
                         writer.write(preKeyword + "\t" + wordInfo + "\n");
                         //reset
                         ExistDocuMap.clear();
-
+                        
                         /*handling the new word*/
                         //split the value into document name and frequency
                         split = curNode.getValue().split(" ");
                         curDocuName = split[0];
                         wordFrequency = split[1];
                         ExistDocuMap.put(curDocuName, wordFrequency);
-
+                        
                         preKeyword = curKeyword;
-
+                        
                         //the new word has different initial letter as previous word
                         if (curInitLetter != preInitLetter){
                             location = outputFilePrefix + curInitLetter + ".txt";//new output file name
@@ -146,14 +166,14 @@ public class Combiner extends Thread{
                             writer.close();
                             ++i;
                             break;
-                        }
-                    }//end if-else
+                        } 
+                    }//end if-else   
                 }//end for
-
-
+                
+                
                 if (i == nodeList.size()){//end of data: the last node in list
                     finishFlag = true;
-
+                    
                     //sort by frequency
                     List<DocuNode> DocuList = new ArrayList<DocuNode>();
                     Iterator<Entry<String, String>> iter = ExistDocuMap.entrySet().iterator();
@@ -200,7 +220,4 @@ public class Combiner extends Thread{
         return outputFilenames;
         
     }//end combine()
-    
-    
-    
 }
